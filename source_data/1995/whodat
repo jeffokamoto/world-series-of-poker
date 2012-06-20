@@ -1,0 +1,48 @@
+<person id="jtsagaris">
+  <first_name>John</first_name>
+  <last_name>Tsagaris</last_name>
+  <residence>Vancouver, B.C., Canada</residence>
+</person>
+
+<person id="bcohen">
+  <first_name>Bruce</first_name>
+  <last_name>Cohen</last_name>
+  <residence>Queens, NY</residence>
+</person>
+
+<person id="mrohnacher">
+  <first_name>Matthias</first_name>
+  <last_name>Rohnacher</last_name>
+  <residence>Heidelberg, Germany</residence>
+</person>
+
+<person id="ccoleman">
+  <first_name>Clyde</first_name>
+  <last_name>Coleman</last_name>
+  <residence>Marlow, OK</residence>
+</person>
+
+<person id="ecastro">
+  <first_name>Edwin</first_name>
+  <last_name>Castro</last_name>
+  <residence>Newark, CA</residence>
+</person>
+
+<person id="mnguyen">
+  <first_name>Men</first_name>
+  <last_name>Nguyen</last_name>
+  <residence>Bell Gardens, CA</residence>
+</person>
+
+<person id="cgiang">
+  <first_name>Chau</first_name>
+  <last_name>Giang</last_name>
+  <residence>Las Vegas, NV</residence>
+</person>
+
+<person id="kbrown">
+  <first_name>Kenny</first_name>
+  <last_name>Brown</last_name>
+  <residence>Birmingham, AL</residence>
+</person>
+

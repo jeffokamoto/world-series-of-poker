@@ -1,0 +1,68 @@
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT pre_nick (#PCDATA)>
+<!ELEMENT first_name (#PCDATA)>
+<!ELEMENT middle_name (#PCDATA)>
+<!ELEMENT mid_nick (#PCDATA)>
+<!ELEMENT last_name (#PCDATA)>
+<!ELEMENT suffix (#PCDATA)>
+<!ELEMENT residence (#PCDATA)>
+<!ELEMENT person (title?, pre_nick?, first_name?, middle_name?,  mid_nick?, last_name, suffix?, residence?)>
+	<!ATTLIST person id ID #REQUIRED>
+
+<!ELEMENT position (#PCDATA)>
+<!ELEMENT player (#PCDATA)>
+	<!ATTLIST player id IDREF #REQUIRED>
+<!ELEMENT payout (#PCDATA)>
+	<!ATTLIST payout charity CDATA #IMPLIED>
+<!ELEMENT place (position, player, payout)>
+<!ELEMENT places (place+)>
+<!ELEMENT buyin (#PCDATA)>
+	<!ATTLIST buyin currency CDATA #IMPLIED>
+<!ELEMENT event_num (#PCDATA)>
+<!ELEMENT game (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT start_date (#PCDATA)>
+<!ELEMENT end_date (#PCDATA)>
+<!ELEMENT entrants (#PCDATA)>
+<!ELEMENT rebuys (#PCDATA)>
+<!ELEMENT prize_pool (#PCDATA)>
+<!ELEMENT event (event_num, game, description?, buyin, start_date?, end_date?, entrants?, rebuys?, prize_pool?, notes?, places+)>
+<!ELEMENT event_list (event+)>
+
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT casino (#PCDATA)>
+<!ELEMENT staff_name (#PCDATA)>
+<!ELEMENT staff_title (#PCDATA)>
+<!ELEMENT staff_member (staff_name, staff_title)>
+<!ELEMENT staff_list (staff_member+)>
+<!ELEMENT notes (#PCDATA)>
+<!ELEMENT world_series (year, number, casino, staff_list?, notes?, event_list)>
+<!ELEMENT history (person+, world_series+)>
+
+<!-- Game Descriptions -->
+<!ENTITY he "Limit Hold&apos;em">
+<!ENTITY plh "Pot Limit Hold&apos;em">
+<!ENTITY nlh "No-Limit Hold&apos;em">
+<!ENTITY heshoot "Limit Hold&apos;em Shootout">
+<!ENTITY nlhshoot "No-Limit Hold&apos;em Shootout">
+<!ENTITY plo "Pot Limit Omaha">
+<!ENTITY omaha "Omaha">
+<!ENTITY omaha8 "Omaha Hi-Lo Split">
+<!ENTITY stud "Seven Card Stud">
+<!ENTITY stud8 "Seven Card Stud Hi-Lo Split">
+<!ENTITY deuce "Deuce to Seven Lowball">
+<!ENTITY deucenl "No-Limit Deuce to Seven Lowball">
+<!ENTITY deucetriple "Deuce to Seven Triple Draw Lowball">
+<!ENTITY lobah "Ace to Five Lowball">
+<!ENTITY triple "Ace to Five Triple Draw Lowball">
+<!ENTITY razz "Seven Card Razz">
+<!ENTITY stud5 "Five Card Stud">
+<!ENTITY draw "Five Card Draw">
+<!ENTITY horse "H.O.R.S.E.">
+<!ENTITY shoe "S.H.O.E.">
+<!ENTITY pokcer "Chinese Poker">
+<!ENTITY half "Half Hold&apos;em, Half Stud">
+
+<!ENTITY who SYSTEM "../people.xml">
+<!ENTITY moola SYSTEM "./payout">

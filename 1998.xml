@@ -1,0 +1,2408 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1998</year>
+<number>29th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+<staff_list>
+  <staff_member>
+    <staff_name>Jim Albrecht</staff_name>
+    <staff_title>Tournament Director</staff_title>
+  </staff_member>
+</staff_list>
+
+
+<event_list>
+
+<event>
+  <event_num>1</event_num>
+  <game>&he;</game>
+  <buyin>2000</buyin>
+  <start_date>Tue Apr 21, 1998</start_date>
+  <end_date>Wed Apr 22, 1998</end_date>
+  <entrants>581</entrants>
+  <prize_pool>1162000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="fbonyadi"/>
+      <payout>429940</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="pscarim"/>
+      <payout>220780</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="vkramer"/>
+      <payout>110390</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="ttran"/>
+      <payout>69720</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="skim"/>
+      <payout>52290</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="aboentaran"/>
+      <payout>40670</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jfoley"/>
+      <payout>29050</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jquinn"/>
+      <payout>23240</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jcernuto"/>
+      <payout>18592</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="ebalas"/>
+      <payout>13944</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="aclaire"/>
+      <payout>13944</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="lsantoni"/>
+      <payout>13944</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="schung"/>
+      <payout>11620</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="drussell"/>
+      <payout>11620</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="gberbiglia"/>
+      <payout>11620</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jmiller2"/>
+      <payout>9296</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="fmariani"/>
+      <payout>9296</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="sbrecher"/>
+      <payout>9296</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="dallen"/>
+      <payout>6972</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="jgould"/>
+      <payout>6972</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="bbindelglass"/>
+      <payout>6972</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="daxel"/>
+      <payout>6972</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="rrandle"/>
+      <payout>6972</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="tduong2"/>
+      <payout>6972</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="aweiner"/>
+      <payout>6972</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="drabbi"/>
+      <payout>6972</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="fhavard"/>
+      <payout>6972</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>2</event_num>
+  <game>&razz;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed Apr 22, 1998</start_date>
+  <end_date>Thu Apr 23, 1998</end_date>
+  <entrants>155</entrants>
+  <prize_pool>232500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dbrunson"/>
+      <payout>93000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="rdehkharghani"/>
+      <payout>46500</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bjohnston"/>
+      <payout>23250</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="aboyer"/>
+      <payout>13950</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="hthomas2"/>
+      <payout>11625</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="ptanner"/>
+      <payout>9300</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="bgempel"/>
+      <payout>6975</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="rholland"/>
+      <payout>4650</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="troren"/>
+      <payout>3488</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="cthompson"/>
+      <payout>3488</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mkessler"/>
+      <payout>3488</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="mmcclanahan"/>
+      <payout>2906</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="apacini"/>
+      <payout>2906</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="bdeluca"/>
+      <payout>2325</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="brodman"/>
+      <payout>2325</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="lard"/>
+      <payout>2325</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>3</event_num>
+  <game>&omaha;</game>
+  <buyin>1500</buyin>
+  <start_date>Thu Apr 23, 1998</start_date>
+  <end_date>Fri Apr 24, 1998</end_date>
+  <entrants>183</entrants>
+  <prize_pool>274500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mshadkin"/>
+      <payout>109800</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jlundberg"/>
+      <payout>54900</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="fschend"/>
+      <payout>27450</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="rgingras"/>
+      <payout>16470</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="howenby"/>
+      <payout>12353</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="cheller"/>
+      <payout>9608</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="cbjorin"/>
+      <payout>6863</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="gberger"/>
+      <payout>5490</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="tnguyen"/>
+      <payout>4392</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="tforrest"/>
+      <payout>3294</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="thansen"/>
+      <payout>3294</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jpearson"/>
+      <payout>3294</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jmiller3"/>
+      <payout>3019</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mlook"/>
+      <payout>3019</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="bbindelglass"/>
+      <payout>3019</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="phonas"/>
+      <payout>2745</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="mmerritt"/>
+      <payout>2745</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="ssunar"/>
+      <payout>2745</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>4</event_num>
+  <game>&stud;</game>
+  <buyin>1500</buyin>
+  <start_date>Fri Apr 24, 1998</start_date>
+  <end_date>Sat Apr 25, 1998</end_date>
+  <entrants>267</entrants>
+  <prize_pool>400500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="kmorrison"/>
+      <payout>148185</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mstern"/>
+      <payout>76095</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="dbarton"/>
+      <payout>38048</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="rpardey"/>
+      <payout>24030</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="thufnagle"/>
+      <payout>20025</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="dlevinson"/>
+      <payout>16020</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="skim"/>
+      <payout>12015</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jlowenhar"/>
+      <payout>8410</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jkim"/>
+      <payout>5607</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="bfurman"/>
+      <payout>5607</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="fthompson"/>
+      <payout>5607</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="glang"/>
+      <payout>5607</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="kbye"/>
+      <payout>4005</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mjacobus"/>
+      <payout>4005</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="lhuoch"/>
+      <payout>4005</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="dkaplan"/>
+      <payout>4005</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="erossi"/>
+      <payout>2403</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="jpetro"/>
+      <payout>2403</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="mcomer2"/>
+      <payout>2403</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="swilson"/>
+      <payout>2403</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="lard"/>
+      <payout>2403</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="acobb"/>
+      <payout>2403</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="pbrownstein"/>
+      <payout>2403</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="brandels"/>
+      <payout>2403</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>5</event_num>
+  <game>&plo;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat Apr 25, 1998</start_date>
+  <end_date>Sun Apr 26, 1998</end_date>
+  <entrants>183</entrants>
+  <rebuys>119</rebuys>
+  <prize_pool>387000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dodea"/>
+      <payout>154800</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jchan"/>
+      <payout>77400</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="rthung"/>
+      <payout>38700</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="szolotow"/>
+      <payout>23220</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="srydell"/>
+      <payout>17415</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="klennard"/>
+      <payout>13545</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="hgreenspan"/>
+      <payout>9675</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="dheimiller"/>
+      <payout>7740</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="lchambers"/>
+      <payout>6192</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="dbrunson"/>
+      <payout>4644</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="hshirey"/>
+      <payout>4644</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="bjohnston"/>
+      <payout>4644</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="nhoelting"/>
+      <payout>4257</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mappleman"/>
+      <payout>4257</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="bjordan"/>
+      <payout>4257</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="phellmuth"/>
+      <payout>3870</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="cdykes"/>
+      <payout>3870</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="ssunar"/>
+      <payout>3870</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>6</event_num>
+  <game>&stud8;</game>
+  <buyin>1500</buyin>
+  <start_date>Sun Apr 26, 1998</start_date>
+  <end_date>Mon Apr 27, 1998</end_date>
+  <entrants>251</entrants>
+  <prize_pool>376500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="thufnagle"/>
+      <payout>139305</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dholt"/>
+      <payout>71535</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="ischwartz"/>
+      <payout>35768</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jpierce"/>
+      <payout>22590</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="dscharf"/>
+      <payout>18825</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="fbonyadi"/>
+      <payout>15060</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="ablumen"/>
+      <payout>11295</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="dhalpern"/>
+      <payout>7906</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="hmann"/>
+      <payout>5271</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="rgingras"/>
+      <payout>5271</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mappleman"/>
+      <payout>5271</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="rwiddis"/>
+      <payout>5271</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="djohnson2"/>
+      <payout>3765</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="fmajor"/>
+      <payout>3765</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="bmigdal"/>
+      <payout>3765</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="tnguyen"/>
+      <payout>3765</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="fbracelli"/>
+      <payout>2259</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="erossi"/>
+      <payout>2259</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="hgoldstein"/>
+      <payout>2259</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="ptanner"/>
+      <payout>2259</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="bmchugh"/>
+      <payout>2259</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="cthompson"/>
+      <payout>2259</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="dnewman"/>
+      <payout>2259</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="jyarmosh"/>
+      <payout>2259</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>7</event_num>
+  <game>&nlh;</game>
+  <buyin>2000</buyin>
+  <start_date>Mon Apr 27, 1998</start_date>
+  <end_date>Tue Apr 28, 1998</end_date>
+  <entrants>350</entrants>
+  <prize_pool>700000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jross"/>
+      <payout>259000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="lflack"/>
+      <payout>133000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="tnguyen"/>
+      <payout>66500</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="bshulman"/>
+      <payout>42000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="bfeduniak"/>
+      <payout>31500</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="tkampf"/>
+      <payout>24500</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mwaggoner"/>
+      <payout>17500</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mfinn"/>
+      <payout>14000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="dkim"/>
+      <payout>11200</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="skorman"/>
+      <payout>8400</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="devans"/>
+      <payout>8400</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="akong"/>
+      <payout>8400</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="mcarson"/>
+      <payout>7000</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mstern"/>
+      <payout>7000</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="khori"/>
+      <payout>7000</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="dwaterman"/>
+      <payout>5600</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="astonum"/>
+      <payout>5600</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="cviolette"/>
+      <payout>5600</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="abrenes"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="rkane"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="cferguson"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="rbagaygay"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="dbrings"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="dbarton"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="dpittman"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="jmassar"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="mhart"/>
+      <payout>4200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>8</event_num>
+  <game>&omaha8;</game>
+  <buyin>2000</buyin>
+  <start_date>Tue Apr 28, 1998</start_date>
+  <end_date>Wed Apr 29, 1998</end_date>
+  <entrants>204</entrants>
+  <prize_pool>408000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cgiang"/>
+      <payout>150960</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="cbailey"/>
+      <payout>77250</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bnadell"/>
+      <payout>38760</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="dbrody"/>
+      <payout>24480</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="tcloutier"/>
+      <payout>18360</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="mgamerman"/>
+      <payout>14280</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="wwilliams"/>
+      <payout>10200</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="lsniderman"/>
+      <payout>8160</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="tdang"/>
+      <payout>6528</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="jsmith"/>
+      <payout>4896</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="jrichburg"/>
+      <payout>4896</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="aharb"/>
+      <payout>4896</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="lcolt"/>
+      <payout>4080</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="phellmuth"/>
+      <payout>4080</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jhom"/>
+      <payout>4080</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="ksong"/>
+      <payout>3264</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="msantos"/>
+      <payout>3264</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="bgempel"/>
+      <payout>3264</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="ghoward"/>
+      <payout>2448</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="skim"/>
+      <payout>2448</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="penos"/>
+      <payout>2448</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="lheimowitz"/>
+      <payout>2448</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="ltran"/>
+      <payout>2448</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="slevin"/>
+      <payout>2448</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="mshadkin"/>
+      <payout>2448</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="thufnagle"/>
+      <payout>2448</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="bdaugherty"/>
+      <payout>1224</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="lpersons"/>
+      <payout>1224</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>9</event_num>
+  <game>&plh;</game>
+  <buyin>2000</buyin>
+  <start_date>Wed Apr 29, 1998</start_date>
+  <end_date>Thu Apr 30, 1998</end_date>
+  <entrants>229</entrants>
+  <prize_pool>458000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dnegreanu"/>
+      <payout>169460</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dbourke"/>
+      <payout>87020</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mrosenbaum"/>
+      <payout>43510</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="cferguson"/>
+      <payout>27480</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="darnold"/>
+      <payout>20610</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="ppouyamajd"/>
+      <payout>16030</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jmorgan"/>
+      <payout>11450</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="lmarkholt"/>
+      <payout>9160</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="dheimiller"/>
+      <payout>7328</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="sschwartz"/>
+      <payout>5496</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="bkneier"/>
+      <payout>5496</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="bingram"/>
+      <payout>5496</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="dnewman"/>
+      <payout>4580</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="bjohnston"/>
+      <payout>4580</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="ctruby"/>
+      <payout>4580</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="bgreenstein"/>
+      <payout>3664</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="lsantoni"/>
+      <payout>3664</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="troren"/>
+      <payout>3206</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="bgazes"/>
+      <payout>3206</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="bargyros"/>
+      <payout>2748</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="jogren"/>
+      <payout>2748</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="gcrespi"/>
+      <payout>2748</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="pbruel"/>
+      <payout>2748</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="rgingras"/>
+      <payout>2748</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="acunningham"/>
+      <payout>2748</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="tflaniken"/>
+      <payout>2748</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="jmaglid"/>
+      <payout>2748</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>10</event_num>
+  <game>&stud;</game>
+  <buyin>2500</buyin>
+  <start_date>Thu Apr 30, 1998</start_date>
+  <end_date>Fri May 1, 1998</end_date>
+  <entrants>152</entrants>
+  <prize_pool>380000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="acobb"/>
+      <payout>152000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="hkoch"/>
+      <payout>76000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="pkessler"/>
+      <payout>38000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jchen"/>
+      <payout>22800</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="rgingras"/>
+      <payout>19000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="ttolnai"/>
+      <payout>15200</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="bmicchiardi"/>
+      <payout>11400</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="thansen"/>
+      <payout>7600</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="cgiang"/>
+      <payout>5700</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="dbradley"/>
+      <payout>5700</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="bfeduniak"/>
+      <payout>5700</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jpearson"/>
+      <payout>5700</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="gturk"/>
+      <payout>3800</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jhansen"/>
+      <payout>3800</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="tmccormick"/>
+      <payout>3800</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="bgreenstein"/>
+      <payout>3800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>11</event_num>
+  <game>&plo;</game>
+  <buyin>2500</buyin>
+  <start_date>Fri May 1, 1998</start_date>
+  <end_date>Sat May 2, 1998</end_date>
+  <entrants>82</entrants>
+  <rebuys>54</rebuys>
+  <prize_pool>340000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tcloutier"/>
+      <payout>136000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dbrunson"/>
+      <payout>78200</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="eseidel"/>
+      <payout>40800</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="mkuortti"/>
+      <payout>23800</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="prowe"/>
+      <payout>18700</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="pbruel"/>
+      <payout>15300</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="ghaubelt"/>
+      <payout>11900</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="dmosley"/>
+      <payout>8500</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="dodea"/>
+      <payout>6800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>12</event_num>
+  <game>&stud8;</game>
+  <buyin>2500</buyin>
+  <start_date>Sat May 2, 1998</start_date>
+  <end_date>Sun May 3, 1998</end_date>
+  <entrants>120</entrants>
+  <prize_pool>300000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bgempel"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="hentin"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="atran"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="rthung"/>
+      <payout>18000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="ablumen"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="atessler"/>
+      <payout>12000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="batkinson"/>
+      <payout>9000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="dbrody"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jbonetti"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="sarntzen"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="dheimiller"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="phonas"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="dphillips"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="msexton"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="ebajayo"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="dholt"/>
+      <payout>3000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>13</event_num>
+  <game>&he;</game>
+  <buyin>3000</buyin>
+  <start_date>Sun Apr 3, 1998</start_date>
+  <end_date>Mon Apr 4, 1998</end_date>
+  <entrants>171</entrants>
+  <prize_pool>513000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dchiu"/>
+      <payout>205200</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mseagle"/>
+      <payout>102600</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bjacobus"/>
+      <payout>51300</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="pmuller"/>
+      <payout>30780</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mnguyen"/>
+      <payout>23085</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="ctsiprailidis"/>
+      <payout>17955</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="rellis"/>
+      <payout>12825</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="byamron"/>
+      <payout>10260</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="gsalsaa"/>
+      <payout>8208</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="jmonro"/>
+      <payout>6156</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="hmohammed"/>
+      <payout>6156</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="gecheverri"/>
+      <payout>6156</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="aduke"/>
+      <payout>5643</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jstrzemp"/>
+      <payout>5643</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="hma"/>
+      <payout>5643</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="fhavard"/>
+      <payout>5130</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="tmcevoy"/>
+      <payout>5130</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="hthomas"/>
+      <payout>5130</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>14</event_num>
+  <game>&omaha8;</game>
+  <buyin>3000</buyin>
+  <start_date>Mon May 4, 1998</start_date>
+  <end_date>Tue May 5, 1998</end_date>
+  <entrants>111</entrants>
+  <prize_pool>333000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="prowe"/>
+      <payout>133200</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jvanalstyne"/>
+      <payout>66600</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mkessler"/>
+      <payout>33300</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jcernuto"/>
+      <payout>19980</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mpietsch"/>
+      <payout>14985</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jpearson"/>
+      <payout>11655</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="drabbi"/>
+      <payout>8325</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="dnewman"/>
+      <payout>6660</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="aboston"/>
+      <payout>5328</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="bgempel"/>
+      <payout>3996</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="dheimiller"/>
+      <payout>3996</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jpierce"/>
+      <payout>3996</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="voliver"/>
+      <payout>3663</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="ksong"/>
+      <payout>3663</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jrose"/>
+      <payout>3663</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="psherr"/>
+      <payout>3330</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="pgreen"/>
+      <payout>3330</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="lrykedrucker"/>
+      <payout>3330</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>15</event_num>
+  <game>&plh;</game>
+  <buyin>3000</buyin>
+  <start_date>Tue May 5, 1998</start_date>
+  <end_date>Wed May 6, 1998</end_date>
+  <entrants>172</entrants>
+  <prize_pool>516000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="srydell"/>
+      <payout>206400</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dulliott"/>
+      <payout>103200</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="ssunar"/>
+      <payout>51600</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="tmccormick"/>
+      <payout>30960</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="lbarshack"/>
+      <payout>23220</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="mmagee"/>
+      <payout>18060</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="aboyer"/>
+      <payout>12900</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="cgiang"/>
+      <payout>10320</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="tkampf"/>
+      <payout>8256</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="tnguyen3"/>
+      <payout>6192</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="jrutledge"/>
+      <payout>6192</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="dbaxter2"/>
+      <payout>6192</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="hseed"/>
+      <payout>5676</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="dbarnett"/>
+      <payout>5676</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="akong"/>
+      <payout>5676</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="bhoff"/>
+      <payout>5160</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="eseidel"/>
+      <payout>5160</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="jward2"/>
+      <payout>5160</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>16</event_num>
+  <game>&deucenl;</game>
+  <buyin>5000</buyin>
+  <start_date>Wed May 6, 1998</start_date>
+  <end_date>Thu May 7, 1998</end_date>
+  <entrants>26</entrants>
+  <rebuys>33</rebuys>
+  <prize_pool>295000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="eseidel"/>
+      <payout>132750</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="wwilkinson"/>
+      <payout>73750</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="dbrunson"/>
+      <payout>44250</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="dgrey"/>
+      <payout>29500</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="rthung"/>
+      <payout>14750</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>17</event_num>
+  <game>&nlh;</game>
+  <buyin>3000</buyin>
+  <start_date>Thu May 7, 1998</start_date>
+  <end_date>Fri May 8, 1998</end_date>
+  <entrants>242</entrants>
+  <prize_pool>726000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="kbuntjer"/>
+      <payout>268620</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="ghall"/>
+      <payout>137940</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="cjohnston"/>
+      <payout>68970</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="eseidel"/>
+      <payout>43560</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="atessler"/>
+      <payout>32670</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="rthung"/>
+      <payout>25410</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="nmurphy"/>
+      <payout>18150</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="pperrault"/>
+      <payout>14520</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="rchiovari"/>
+      <payout>11616</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="mlefkowitz"/>
+      <payout>8712</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="rbone"/>
+      <payout>8712</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="pmazzella"/>
+      <payout>8712</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="yphan"/>
+      <payout>7260</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="klennard"/>
+      <payout>7260</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="lflood"/>
+      <payout>7260</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="ghaubelt"/>
+      <payout>5808</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="hshirey"/>
+      <payout>5808</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="jtarr"/>
+      <payout>5808</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="jheaney"/>
+      <payout>4356</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="cferguson"/>
+      <payout>4356</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="bjohnston"/>
+      <payout>4356</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="rholland"/>
+      <payout>4356</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="hmohammed"/>
+      <payout>4356</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="bbaxter"/>
+      <payout>4356</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="smayfield"/>
+      <payout>4356</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="akong"/>
+      <payout>4356</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="pmeyers"/>
+      <payout>4356</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>18</event_num>
+  <game>&stud;</game>
+  <buyin>5000</buyin>
+  <start_date>Fri May 8, 1998</start_date>
+  <end_date>Sat May 9, 1998</end_date>
+  <entrants>104</entrants>
+  <prize_pool>520000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jchen"/>
+      <payout>208000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dbarton"/>
+      <payout>104000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="rflowerday"/>
+      <payout>52000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="hbrenes"/>
+      <payout>31200</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="ablumen"/>
+      <payout>26000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="hlederer"/>
+      <payout>20800</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="aduke"/>
+      <payout>15600</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="pbegun"/>
+      <payout>10400</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="mappleman"/>
+      <payout>7800</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="msexton"/>
+      <payout>7800</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="lkantor"/>
+      <payout>7800</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="aboston"/>
+      <payout>7800</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="dholt"/>
+      <payout>5200</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="fsigur"/>
+      <payout>5200</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mnguyen"/>
+      <payout>5200</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="pkessler"/>
+      <payout>2600</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jgualtieri"/>
+      <payout>2600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>19</event_num>
+  <game>&he;</game>
+  <buyin>5000</buyin>
+  <start_date>Sat May 9, 1998</start_date>
+  <end_date>Sun May 10, 1998</end_date>
+  <entrants>112</entrants>
+  <prize_pool>560000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="pbruel"/>
+      <payout>224000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="bredman"/>
+      <payout>112000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jcernuto"/>
+      <payout>56000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="mnguyen"/>
+      <payout>33600</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="kmcbride"/>
+      <payout>25200</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="sgrizzle"/>
+      <payout>19600</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="atran2"/>
+      <payout>14000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jbonetti"/>
+      <payout>11200</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="dalspach"/>
+      <payout>8960</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="jmacchiaverna"/>
+      <payout>6720</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="dtavernier"/>
+      <payout>6720</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="dheimiller"/>
+      <payout>6720</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="agoehring"/>
+      <payout>6160</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="ntran"/>
+      <payout>6160</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="ghall"/>
+      <payout>6160</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="dgrey"/>
+      <payout>5600</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="afarsai"/>
+      <payout>5600</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="ssunar"/>
+      <payout>5600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>20</event_num>
+  <game>&stud;</game>
+  <description>Women&apos;s Event Event</description>
+  <buyin>1000</buyin>
+  <start_date>Sun May 10, 1998</start_date>
+  <end_date>Sun May 10, 1998</end_date>
+  <entrants>100</entrants>
+  <prize_pool>100000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mcommanda"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jthomas"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="pmeyers"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="gschimmel"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="sbrodie"/>
+      <payout>5000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="erossi"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jridgway"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="bjacobus"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jhughes"/>
+      <payout>1500</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="mwaggoner"/>
+      <payout>1500</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="wknaffl"/>
+      <payout>1500</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="kliebert"/>
+      <payout>1500</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="kkellerkohlberg"/>
+      <payout>1000</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="tking"/>
+      <payout>1000</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="ndollison"/>
+      <payout>1000</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="pmartin"/>
+      <payout>1000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>21</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <start_date>Mon May 11, 1998</start_date>
+  <end_date>Thu May 14, 1998</end_date>
+  <entrants>352</entrants>
+  <prize_pool>3520000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tnguyen"/>
+      <payout>1000000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="kmcbride"/>
+      <payout>687500</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="tcloutier"/>
+      <payout>437500</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="dweum"/>
+      <payout>250000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="lsalem"/>
+      <payout>190000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="broberts"/>
+      <payout>150000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jlundberg"/>
+      <payout>112500</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mbrochard"/>
+      <payout>75000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="pmckinney"/>
+      <payout>57500</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="sisaacs"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mlaing"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="bhoff"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="pkroh"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mweitzman"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="tdang"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="skim"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="kliebert"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="tjoo"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="dkim"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="vburgio"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="thansen"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="jkeller"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="rpeate"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="dmosley"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="pclark"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="jfox"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="fbonyadi"/>
+      <payout>25000</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

@@ -1,0 +1,109 @@
+<person id="benright">
+  <first_name>Barbara</first_name>
+  <last_name>Enright</last_name>
+  <residence>Oceanside, CA</residence>
+</person>
+
+<person id="sgoldstein">
+  <first_name>Stan</first_name>
+  <last_name>Goldstein</last_name>
+  <residence>Cerritos, CA</residence>
+</person>
+
+<person id="lrokach">
+  <first_name>Lucy</first_name>
+  <last_name>Rokach</last_name>
+  <residence>Stoke-on-Trent, England</residence>
+</person>
+
+<person id="pfleming">
+  <first_name>Pat</first_name>
+  <last_name>Fleming</last_name>
+  <residence>Las Vegas, NV</residence>
+</person>
+
+<person id="cmckelvey">
+  <first_name>Carl</first_name>
+  <last_name>McKelvey</last_name>
+  <residence>Victoria, TX</residence>
+</person>
+
+<person id="jharman">
+  <first_name>Jennifer</first_name>
+  <last_name>Harman</last_name>
+  <residence>Las Vegas, NV</residence>
+</person>
+
+<person id="wwilkinson">
+  <first_name>Wil</first_name>
+  <last_name>Wilkinson</last_name>
+  <residence>Pacheco, CA</residence>
+</person>
+
+<person id="eodom">
+  <first_name>Earl</first_name>
+  <last_name>Odom</last_name>
+  <residence>Albuquerque, NM</residence>
+</person>
+
+<person id="agreen">
+  <first_name>Alan</first_name>
+  <last_name>Green</last_name>
+  <residence>Juneau, AK</residence>
+</person>
+
+<person id="hlund">
+  <first_name>Hans</first_name>
+  <mid_nick>"Tuna"</mid_nick>
+  <last_name>Lund</last_name>
+  <residence>Sparks, NV</residence>
+</person>
+
+<person id="bhoff">
+  <first_name>Bobby</first_name>
+  <last_name>Hoff</last_name>
+  <residence>Downey, CA</residence>
+</person>
+
+<person id="mlaing">
+  <first_name>Mike</first_name>
+  <last_name>Laing</last_name>
+  <residence>Franklin, PA</residence>
+</person>
+
+<person id="abrenes">
+  <first_name>Alex</first_name>
+  <last_name>Brenes</last_name>
+  <residence>Miami Lakes, FL</residence>
+</person>
+
+<person id="jbeevers">
+  <first_name>Joe</first_name>
+  <last_name>Beevers</last_name>
+  <residence>London, England</residence>
+</person>
+
+<person id="cpoggi">
+  <first_name>Cesare</first_name>
+  <last_name>Poggi</last_name>
+  <residence>Milan, Italy</residence>
+</person>
+
+<person id="jward">
+  <first_name>Jim</first_name>
+  <last_name>Ward</last_name>
+  <residence>Anchorage, AK</residence>
+</person>
+
+<person id="fbrown">
+  <first_name>Fred</first_name>
+  <last_name>Brown</last_name>
+  <residence>Howell, MI</residence>
+</person>
+
+<person id="bdaugherty">
+  <first_name>Brad</first_name>
+  <last_name>Daugherty</last_name>
+  <residence>Las Vegas, NV</residence>
+</person>
+

@@ -1,0 +1,240 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1977</year>
+<number>8th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+<notes>First year of a dedicated women&apos;s event.</notes>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ballen"/>
+      <payout>10800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bbaldwin"/>
+      <payout>80000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bbaldwin"/>
+      <payout>44000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bberland"/>
+      <payout>8300</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dbrunson"/>
+      <payout>62500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="pgreen"/>
+      <payout>10000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ghuber"/>
+      <payout>33000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="lhunsucker"/>
+      <payout>34200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&stud;</game>
+  <description>Women&apos;s Event</description>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jmcdaniels"/>
+      <payout>5580</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="fmorgan"/>
+      <payout>10800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jsandow"/>
+      <payout>11400</payout>
+    </place>
+
+  </places>
+</event>
+<event>
+  <event_num>912</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rschwartz"/>
+      <payout>25000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>913</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>34</entrants>
+  <prize_pool>340000</prize_pool>
+  <notes>Doyle Brunson becomes the second person to win back-to-back
+  Championship events.</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dbrunson"/>
+      <payout>340000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="bberland"/>
+      <payout>0</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mjacobson"/>
+      <payout>0</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="amoore"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

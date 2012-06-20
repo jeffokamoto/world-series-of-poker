@@ -1,0 +1,100 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1973</year>
+<number>4th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+<event>
+  <event_num>901</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sangel"/>
+      <payout>32000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+  <places>
+
+    <place>
+      <position>1 (tie)</position>
+      <player id="aday"/>
+      <payout>16500</payout>
+    </place>
+
+    <place>
+      <position>1 (tie)</position>
+      <player id="jstraus"/>
+      <payout>16500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="wpearson"/>
+      <payout>17000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="wpearson"/>
+      <payout>32000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>13</entrants>
+  <prize_pool>130000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="wpearson"/>
+      <payout>130000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jmoss"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+</event_list>
+</world_series>

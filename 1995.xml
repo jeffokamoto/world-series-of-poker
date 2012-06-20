@@ -1,0 +1,2182 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1995</year>
+<number>26th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>1</event_num>
+  <game>&he;</game>
+  <buyin>1500</buyin>
+  <start_date>Tue Apr 25, 1995</start_date>
+  <entrants>560</entrants>
+  <prize_pool>840000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cvanhees"/>
+      <payout>315000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="ebalas"/>
+      <payout>159600</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="wmoore"/>
+      <payout>79800</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="wgordon"/>
+      <payout>50400</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="pclark"/>
+      <payout>42000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jkanow"/>
+      <payout>29400</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="tellsworth"/>
+      <payout>21000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="pin"/>
+      <payout>16800</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="amorton"/>
+      <payout>12600</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="maslam"/>
+      <payout>10080</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="jcernuto"/>
+      <payout>10080</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="izaks"/>
+      <payout>10080</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="rsalzer"/>
+      <payout>8400</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="hma"/>
+      <payout>8400</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="nfrancisco"/>
+      <payout>8400</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="mkempf"/>
+      <payout>6720</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="tmcmillan"/>
+      <payout>6720</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="aduke"/>
+      <payout>6720</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="dlee"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="msandor"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="vbeyer"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="mpicow"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="bfeduniak"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="dadams"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="cgiang"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="gcarlson"/>
+      <payout>4200</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="twilson"/>
+      <payout>4200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>2</event_num>
+  <game>&stud;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed Apr 26, 1995</start_date>
+  <entrants>241</entrants>
+  <prize_pool>361500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="vfarina"/>
+      <payout>144600</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="skarabinas"/>
+      <payout>72300</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="tpinak"/>
+      <payout>36150</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="amiskin"/>
+      <payout>21690</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="dmoreno"/>
+      <payout>18075</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="mgabert"/>
+      <payout>14460</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mholle"/>
+      <payout>10845</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="janicete"/>
+      <payout>7230</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="gmauerer"/>
+      <payout>5423</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="aboston"/>
+      <payout>5423</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="gturk"/>
+      <payout>5422</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="khoey"/>
+      <payout>5422</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="nkong"/>
+      <payout>3615</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="rlabarre"/>
+      <payout>3615</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mnguyen"/>
+      <payout>3615</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="rfeldman"/>
+      <payout>3615</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>3</event_num>
+  <game>&omaha;</game>
+  <buyin>1500</buyin>
+  <start_date>Thu Apr 27, 1995</start_date>
+  <entrants>152</entrants>
+  <prize_pool>228000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bjohnston"/>
+      <payout>91200</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dbakker"/>
+      <payout>45600</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="lmougous"/>
+      <payout>22800</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="msexton"/>
+      <payout>14820</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="thartman"/>
+      <payout>11400</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="tmoorman"/>
+      <payout>7980</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jbonetti"/>
+      <payout>5700</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="ebalas"/>
+      <payout>4560</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="rholland"/>
+      <payout>3420</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="dhelms"/>
+      <payout>2736</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="hkelso"/>
+      <payout>2736</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="tdang"/>
+      <payout>2736</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="cbjorin"/>
+      <payout>2280</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="lcolt"/>
+      <payout>2280</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mmatloubi"/>
+      <payout>2280</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="gfisher"/>
+      <payout>1824</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="csontum"/>
+      <payout>1824</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="rdjangali"/>
+      <payout>1824</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>4</event_num>
+  <game>&pokcer;</game>
+  <buyin>1500</buyin>
+  <start_date>Thu Apr 27, 1995</start_date>
+  <entrants>69</entrants>
+  <prize_pool>103500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jtsagaris"/>
+      <payout>41400</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="bcohen"/>
+      <payout>23805</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mrohnacher"/>
+      <payout>12420</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="ccoleman"/>
+      <payout>7245</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="ecastro"/>
+      <payout>6210</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="mnguyen"/>
+      <payout>5175</payout>
+    </place>
+    <place>
+      <position>7 (tie)</position>
+      <player id="cgiang"/>
+      <payout>3623</payout>
+    </place>
+    <place>
+      <position>7 (tie)</position>
+      <player id="kbrown"/>
+      <payout>3622</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>5</event_num>
+  <game>&stud8;</game>
+  <buyin>1500</buyin>
+  <start_date>Fri Apr 28, 1995</start_date>
+  <entrants>212</entrants>
+  <prize_pool>318000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rpeate"/>
+      <payout>127200</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="shohn"/>
+      <payout>63600</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="wnoyes"/>
+      <payout>31800</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="ptanner"/>
+      <payout>19080</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="msexton"/>
+      <payout>15900</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="mhart"/>
+      <payout>12720</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mfox"/>
+      <payout>9540</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="wwong"/>
+      <payout>6360</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="tchung"/>
+      <payout>4770</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="sarntzen"/>
+      <payout>4770</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="thayden"/>
+      <payout>4770</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jvolpe"/>
+      <payout>4770</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="gnescoe"/>
+      <payout>3180</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="balexander"/>
+      <payout>3180</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="rsteiner"/>
+      <payout>3180</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="ggonzales"/>
+      <payout>3180</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>6</event_num>
+  <game>&razz;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat Apr 29, 1995</start_date>
+  <entrants>138</entrants>
+  <prize_pool>207000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="msisskind"/>
+      <payout>82800</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="lbaca"/>
+      <payout>41400</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="fwalker"/>
+      <payout>20700</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="sarntzen"/>
+      <payout>12420</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="cferguson"/>
+      <payout>10350</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="msexton"/>
+      <payout>8280</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mnguyen"/>
+      <payout>6210</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mlowery"/>
+      <payout>4140</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="rmcmillan"/>
+      <payout>3105</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="kflaton"/>
+      <payout>3105</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mmitchell"/>
+      <payout>3105</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="cgiang"/>
+      <payout>2588</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="bcarter"/>
+      <payout>2587</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="sgrizzle"/>
+      <payout>2070</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="acobb"/>
+      <payout>2070</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="rloson"/>
+      <payout>2070</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>7</event_num>
+  <game>&omaha8;</game>
+  <buyin>1500</buyin>
+  <start_date>Sun Apr 30, 1995</start_date>
+  <entrants>234</entrants>
+  <prize_pool>351000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mstern"/>
+      <payout>140400</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="cdo"/>
+      <payout>70200</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="lheimowitz"/>
+      <payout>35100</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jsmith"/>
+      <payout>22815</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="rknaffl"/>
+      <payout>17550</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="aduke"/>
+      <payout>12285</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="lcolt"/>
+      <payout>8775</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="ayoungblood"/>
+      <payout>7020</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="ebalas"/>
+      <payout>5265</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="rcampbell"/>
+      <payout>4212</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="dbakker"/>
+      <payout>4212</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="dsaab"/>
+      <payout>4212</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="nlorsbach"/>
+      <payout>3510</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jkeaney"/>
+      <payout>3510</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="kwolfson"/>
+      <payout>3510</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="bnewman"/>
+      <payout>2808</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="tdang"/>
+      <payout>2808</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="hmann"/>
+      <payout>2808</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>8</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Mon May 1, 1995</start_date>
+  <entrants>366</entrants>
+  <prize_pool>549000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rklamian"/>
+      <payout>205875</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="bwolford"/>
+      <payout>104310</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="cmckelvey"/>
+      <payout>52155</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="rgordon"/>
+      <payout>32940</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jmorgan"/>
+      <payout>27450</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="cwatkins"/>
+      <payout>19215</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="pbrehm"/>
+      <payout>13725</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="rgingras"/>
+      <payout>10980</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="msexton"/>
+      <payout>8235</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="mjudah"/>
+      <payout>6588</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="aduke"/>
+      <payout>6588</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="csandrock"/>
+      <payout>6588</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="fhenderson"/>
+      <payout>5490</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="skarabinas"/>
+      <payout>5490</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="ssunar"/>
+      <payout>5490</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="froach"/>
+      <payout>4392</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="lsantoni"/>
+      <payout>4392</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="dcarson"/>
+      <payout>4392</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="dhill"/>
+      <payout>2745</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="mrohnacher"/>
+      <payout>2745</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="gwalters"/>
+      <payout>2745</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="chomer"/>
+      <payout>2745</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="jchan"/>
+      <payout>2745</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="blester"/>
+      <payout>2745</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="jbonetti"/>
+      <payout>2745</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="grodis"/>
+      <payout>2745</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="ssilverman"/>
+      <payout>2745</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>9</event_num>
+  <game>&plo;</game>
+  <buyin>1500</buyin>
+  <start_date>Tue May 2, 1995</start_date>
+  <entrants>134</entrants>
+  <rebuys>105</rebuys>
+  <prize_pool>358500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="pearle"/>
+      <payout>143400</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="rgraham"/>
+      <payout>71700</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="tmcevoy"/>
+      <payout>35850</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="olongson"/>
+      <payout>23303</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jheimowitz"/>
+      <payout>17925</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="mcook"/>
+      <payout>12548</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jboyd"/>
+      <payout>8962</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mmatloubi"/>
+      <payout>7170</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="pgreen"/>
+      <payout>5377</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="wcoody"/>
+      <payout>4302</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="tbloom"/>
+      <payout>4302</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="dodea"/>
+      <payout>4302</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jgray"/>
+      <payout>3585</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mrohnacher"/>
+      <payout>3585</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="ctruby"/>
+      <payout>3585</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jculp"/>
+      <payout>2868</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="cbjorin"/>
+      <payout>2868</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="dtomko"/>
+      <payout>2868</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>10</event_num>
+  <game>&plh;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed May 3, 1995</start_date>
+  <entrants>264</entrants>
+  <prize_pool>396000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="pvilandos"/>
+      <payout>148500</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mcook"/>
+      <payout>75240</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jmiller2"/>
+      <payout>37620</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jlester"/>
+      <payout>25740</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="lrokach"/>
+      <payout>17820</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="aduke"/>
+      <payout>13860</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="dtomko"/>
+      <payout>9900</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="lbeilfuss"/>
+      <payout>7920</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="hlederer"/>
+      <payout>5940</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="pvandenberg"/>
+      <payout>4752</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mmitchell"/>
+      <payout>4752</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jnorman"/>
+      <payout>4752</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="groumanis"/>
+      <payout>3960</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="llandaver"/>
+      <payout>3960</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jmoriarty"/>
+      <payout>3960</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="djohnson"/>
+      <payout>3168</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="dbakker"/>
+      <payout>3168</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="neinfeld"/>
+      <payout>3168</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="abrenes"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="sgallagher"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="rpeate"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="rchiovari"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="mepstein"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="ggross"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="benright"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="lmiller"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="tdang"/>
+      <payout>1980</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>11</event_num>
+  <game>&stud8;</game>
+  <buyin>2500</buyin>
+  <start_date>Thu May 4, 1995</start_date>
+  <entrants>96</entrants>
+  <prize_pool>240000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mnguyen"/>
+      <payout>96000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="snixon"/>
+      <payout>55200</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="vburgio"/>
+      <payout>28800</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="mepstein2"/>
+      <payout>16800</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jcernuto"/>
+      <payout>14400</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="cburris"/>
+      <payout>12000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="dstonier"/>
+      <payout>9600</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="tjacobs"/>
+      <payout>7200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>12</event_num>
+  <game>&deuce;</game>
+  <buyin>5000</buyin>
+  <start_date>Thu May 4, 1995</start_date>
+  <entrants>26</entrants>
+  <rebuys>19</rebuys>
+  <prize_pool>229000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jbonetti"/>
+      <payout>101250</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jchan"/>
+      <payout>56250</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="dbrunson"/>
+      <payout>33750</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="mappleman"/>
+      <payout>22500</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mrohnacher"/>
+      <payout>11250</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>13</event_num>
+  <game>&omaha8;</game>
+  <buyin>2500</buyin>
+  <start_date>Fri May 5, 1995</start_date>
+  <entrants>119</entrants>
+  <prize_pool>297500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="msantos"/>
+      <payout>119000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jdouglas"/>
+      <payout>68425</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mwaggoner"/>
+      <payout>35700</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="dcrunkleton"/>
+      <payout>20825</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="dwilliams"/>
+      <payout>16363</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="rgraham"/>
+      <payout>13388</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="thartman"/>
+      <payout>10412</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="hchessler"/>
+      <payout>7437</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="dholt"/>
+      <payout>5950</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>14</event_num>
+  <game>&lobah;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat May 6, 1995</start_date>
+  <entrants>136</entrants>
+  <prize_pool>204000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="croof"/>
+      <payout>81600</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="tbolton"/>
+      <payout>40800</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bayers"/>
+      <payout>20400</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="wliebling"/>
+      <payout>12240</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="ichen"/>
+      <payout>10200</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="bhagen"/>
+      <payout>8160</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mdavis"/>
+      <payout>6120</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="lsigety"/>
+      <payout>4080</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="dgladden"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="dlitt"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="pmedaris"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="mpicow"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="bcarter"/>
+      <payout>2040</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mgurunlai"/>
+      <payout>2040</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="tvermiglio"/>
+      <payout>2040</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="cyamagawa"/>
+      <payout>2040</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>15</event_num>
+  <game>&pokcer;</game>
+  <buyin>5000</buyin>
+  <start_date>Sat May 6, 1995</start_date>
+  <entrants>24</entrants>
+  <rebuys>26</rebuys>
+  <prize_pool>250000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="szolotow"/>
+      <payout>112500</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dbrunson"/>
+      <payout>62500</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="daxel"/>
+      <payout>37500</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="hbronstein"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="hlederer"/>
+      <payout>12500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>16</event_num>
+  <game>&he;</game>
+  <buyin>2500</buyin>
+  <start_date>Sun May 7, 1995</start_date>
+  <entrants>186</entrants>
+  <prize_pool>465000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mnguyen"/>
+      <payout>186000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="cmckelvey"/>
+      <payout>93000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="wthreadgill"/>
+      <payout>46500</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="dbarnett"/>
+      <payout>30225</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="wwong"/>
+      <payout>23250</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="lsalem"/>
+      <payout>16275</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="eseidel"/>
+      <payout>11625</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="rbouffiou"/>
+      <payout>9300</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="tmccormick"/>
+      <payout>6975</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="nmichaud"/>
+      <payout>5580</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="pfleming"/>
+      <payout>5580</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="janicete"/>
+      <payout>5580</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="tnguyen"/>
+      <payout>4650</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mmoore"/>
+      <payout>4650</payout>
+    </place>
+    <place>
+      <position>15 (tie)</position>
+      <player id="hchessler"/>
+      <payout>4185</payout>
+    </place>
+    <place>
+      <position>15 (tie)</position>
+      <player id="lspitzer"/>
+      <payout>4185</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="dchew"/>
+      <payout>3720</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="hseed"/>
+      <payout>3720</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>17</event_num>
+  <game>&stud;</game>
+  <buyin>2500</buyin>
+  <start_date>Mon May 8, 1995</start_date>
+  <entrants>140</entrants>
+  <prize_pool>350000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="drobison"/>
+      <payout>140000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jspadavecchia"/>
+      <payout>70000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mholle"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="mmatloubi"/>
+      <payout>21000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="kchanthamara"/>
+      <payout>17500</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="cmaloney"/>
+      <payout>14000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="lkantor"/>
+      <payout>10500</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="msexton"/>
+      <payout>7000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="mungurean"/>
+      <payout>5250</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="rholland"/>
+      <payout>5250</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="fsigur"/>
+      <payout>5250</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="wcolman"/>
+      <payout>5250</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jmogal"/>
+      <payout>3500</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mmichaelson"/>
+      <payout>3500</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="abrenes"/>
+      <payout>3500</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jhansen"/>
+      <payout>3500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>18</event_num>
+  <game>&plo;</game>
+  <buyin>2500</buyin>
+  <start_date>Tue May 9, 1995</start_date>
+  <entrants>82</entrants>
+  <rebuys>55</rebuys>
+  <prize_pool>342500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hshirey"/>
+      <payout>137000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="pmazzella"/>
+      <payout>78775</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jheimowitz"/>
+      <payout>41100</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="olongson"/>
+      <payout>23975</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="szolotow"/>
+      <payout>18838</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jlester"/>
+      <payout>15413</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="ssunar"/>
+      <payout>11987</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="cgiang"/>
+      <payout>8562</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="bcarter"/>
+      <payout>6850</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>19</event_num>
+  <game>&plh;</game>
+  <buyin>2500</buyin>
+  <start_date>Wed May 10, 1995</start_date>
+  <entrants>163</entrants>
+  <prize_pool>407500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hshirey"/>
+      <payout>163000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="tjacobs"/>
+      <payout>81500</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="ehill"/>
+      <payout>40750</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="mlaing"/>
+      <payout>26488</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="tgrimes"/>
+      <payout>20375</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="cbjorin"/>
+      <payout>14263</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="hzalewski"/>
+      <payout>10187</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="tlantz"/>
+      <payout>8150</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jbechtel"/>
+      <payout>6112</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="dcarson"/>
+      <payout>4890</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mrohnacher"/>
+      <payout>4890</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="olongson"/>
+      <payout>4890</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="dmoustakis"/>
+      <payout>4075</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="dodea"/>
+      <payout>4075</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="gbofysil"/>
+      <payout>4075</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jlester"/>
+      <payout>3260</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="mmatloubi"/>
+      <payout>3260</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="peichhardt"/>
+      <payout>3260</payout>
+    </place>
+
+  </places>
+
+</event>
+
+<event>
+  <event_num>20</event_num>
+  <game>&stud;</game>
+  <buyin>5000</buyin>
+  <start_date>Thu May 11, 1995</start_date>
+  <entrants>77</entrants>
+  <prize_pool>385000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="adeangelo"/>
+      <payout>154000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="tcloutier"/>
+      <payout>88550</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="kredican"/>
+      <payout>46200</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="hthomas"/>
+      <payout>26950</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="cbjorin"/>
+      <payout>23100</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="rturner"/>
+      <payout>19250</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="rlevine"/>
+      <payout>15400</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="wbaronick"/>
+      <payout>11550</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>21</event_num>
+  <game>&nlh;</game>
+  <buyin>2500</buyin>
+  <start_date>Fri May 12, 1995</start_date>
+  <entrants>249</entrants>
+  <prize_pool>318000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dharrington"/>
+      <payout>249000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jgordon"/>
+      <payout>124500</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="medwards"/>
+      <payout>62250</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="cthompson"/>
+      <payout>40463</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="creese"/>
+      <payout>31125</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="bmeyers"/>
+      <payout>21788</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mpancer"/>
+      <payout>15562</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="dbarnett"/>
+      <payout>12450</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jmoriarty"/>
+      <payout>9337</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="esexton"/>
+      <payout>7470</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="jheimowitz"/>
+      <payout>7470</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="djohnson"/>
+      <payout>7470</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="fhenderson"/>
+      <payout>6225</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="bcarter"/>
+      <payout>6225</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="pclark"/>
+      <payout>6225</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jlester"/>
+      <payout>4980</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="cvanhees"/>
+      <payout>4980</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="cgiang"/>
+      <payout>4980</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>22</event_num>
+  <game>&he;</game>
+  <buyin>5000</buyin>
+  <start_date>Sat May 13, 1995</start_date>
+  <entrants>117</entrants>
+  <prize_pool>585000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mappleman"/>
+      <payout>234000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="hbrenes"/>
+      <payout>134550</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="tmccormick"/>
+      <payout>70200</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="rdisilvestro"/>
+      <payout>40950</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="tdang"/>
+      <payout>32175</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="tchung"/>
+      <payout>26325</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="rchiovari"/>
+      <payout>20475</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="dfeder"/>
+      <payout>14625</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="bsmith2"/>
+      <payout>11700</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>23</event_num>
+  <game>&stud;</game>
+  <description>Women&apos;s Event</description>
+  <buyin>1000</buyin>
+  <start_date>Sun May 14, 1995</start_date>
+  <entrants>88</entrants>
+  <prize_pool>88000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sbrodie"/>
+      <payout>35200</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="kwolfson"/>
+      <payout>20240</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="pkessler"/>
+      <payout>10560</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="npapler"/>
+      <payout>6160</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="bmchugh"/>
+      <payout>5280</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="sbeauchamp"/>
+      <payout>4400</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="cviolette"/>
+      <payout>3520</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="bfreer"/>
+      <payout>2640</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>24</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <start_date>Mon May 15, 1995</start_date>
+  <end_date>Thu May 18, 1995</end_date>
+  <entrants>273</entrants>
+  <prize_pool>2730000</prize_pool>
+  <notes>Barbara Enright becomes the highest-placing woman in the
+Championship Event.</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dharrington"/>
+      <payout>1000000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="hgoldfarb"/>
+      <payout>519000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bcarter"/>
+      <payout>302750</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="hdastmalchi"/>
+      <payout>173000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="benright"/>
+      <payout>114180</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="cthompson"/>
+      <payout>86500</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="tfranklin"/>
+      <payout>69200</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="horenstein"/>
+      <payout>51900</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="darnold"/>
+      <payout>39790</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="rmoore"/>
+      <payout>27680</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mcook"/>
+      <payout>27680</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jesposito"/>
+      <payout>27680</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jhayes"/>
+      <payout>24220</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="rhellums"/>
+      <payout>24220</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="bargyros"/>
+      <payout>24220</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="dcarson"/>
+      <payout>20760</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="kdeeb"/>
+      <payout>20760</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="gkallam"/>
+      <payout>20760</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="lbeilfuss"/>
+      <payout>17300</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="jlester"/>
+      <payout>17300</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="bjohnston"/>
+      <payout>17300</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="rbaxter"/>
+      <payout>17300</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="msexton"/>
+      <payout>17300</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="bhoran"/>
+      <payout>17300</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="mlaing"/>
+      <payout>17300</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="hkant"/>
+      <payout>17300</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="jheaney"/>
+      <payout>17300</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

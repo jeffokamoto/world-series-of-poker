@@ -1,0 +1,2 @@
+#! /bin/csh
+perl -pi.bak -e 's/ BGCOLOR="#FFFFFF"//g;' -e 's/ ALIGN=RIGHT//g;' $argv

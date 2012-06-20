@@ -1,0 +1,50 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1972</year>
+<number>3rd</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+<event>
+  <event_num>901</event_num>
+  <game>&stud5;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bboyd"/>
+      <payout>20000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>8</entrants>
+  <prize_pool>80000</prize_pool>
+  <notes>The buy-in for the Championship Event is now $10,000.</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tpreston"/>
+      <payout>80000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="wpearson"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+</event_list>
+</world_series>

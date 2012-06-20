@@ -1,0 +1,231 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1980</year>
+<number>11th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mappleman"/>
+      <payout>30800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rbone"/>
+      <payout>69000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&draw;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="pcallihan"/>
+      <payout>15600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>Women&apos;s &stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dcallihan"/>
+      <payout>14880</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="pchrist"/>
+      <payout>90000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sferris"/>
+      <payout>150000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="gfisher"/>
+      <payout>113400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jfugatti"/>
+      <payout>35600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>Mixed Doubles</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1 (shared)</position>
+      <player id="lharvey"/>
+      <payout>7380</payout>
+    </place>
+    <place>
+      <position>1 (shared)</position>
+      <player id="ameyers"/>
+      <payout>7380</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="llouie"/>
+      <payout>33600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bschwing"/>
+      <payout>52800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>912</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>73</entrants>
+  <prize_pool>730000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sungar"/>
+      <payout>385000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dbrunson"/>
+      <payout>146000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jheimowitz"/>
+      <payout>109500</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jmoss"/>
+      <payout>73000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="cdunwoody"/>
+      <payout>36500</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

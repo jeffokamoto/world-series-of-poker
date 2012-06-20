@@ -1,0 +1,80 @@
+    <place>
+      <position>1</position>
+      <player id="mcommanda"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jthomas"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="pmeyers"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="gschimmel"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="sbrodie"/>
+      <payout>5000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="erossi"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jridgway"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="bjacobus"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jhughes"/>
+      <payout>1500</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="mwaggoner"/>
+      <payout>1500</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="wknaffl"/>
+      <payout>1500</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="kliebert"/>
+      <payout>1500</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="kkellerkohlberg"/>
+      <payout>1000</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="tking"/>
+      <payout>1000</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="ndollison"/>
+      <payout>1000</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="pmartin"/>
+      <payout>1000</payout>
+    </place>

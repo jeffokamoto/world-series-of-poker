@@ -1,0 +1,117 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1974</year>
+<number>5th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&stud5;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bboyd"/>
+      <payout>40000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jcasella"/>
+      <payout>25000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jcasella"/>
+      <payout>41225</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tpreston"/>
+      <payout>11100</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sroberts"/>
+      <payout>35850</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <notes>Johnny Moss becomes the first person to win the Championship Event
+three times.
+Johnny also received a silver cup and (the first?) gold bracelet.
+</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jmoss"/>
+      <payout>160000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="caddington"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

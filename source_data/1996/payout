@@ -1,0 +1,90 @@
+    <place>
+      <position>1</position>
+      <player id="benright"/>
+      <payout>180000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="sgoldstein"/>
+      <payout>90000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="lrokach"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="pfleming"/>
+      <payout>29250</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="cmckelvey"/>
+      <payout>22500</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jharman"/>
+      <payout>15750</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="wwilkinson"/>
+      <payout>11250</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="eodom"/>
+      <payout>9000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="agreen"/>
+      <payout>6750</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="hlund"/>
+      <payout>5400</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="bhoff"/>
+      <payout>5400</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="mlaing"/>
+      <payout>5400</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="abrenes"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jbeevers"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="cpoggi"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jward"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="fbrown"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="bdaugherty"/>
+      <payout>3600</payout>
+    </place>

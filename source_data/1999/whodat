@@ -1,0 +1,99 @@
+<person id="lflack">
+  <first_name>Layne</first_name>
+  <last_name>Flack</last_name>
+  <residence>Missoula SD</residence>
+</person>
+
+<person id="mlefkowitz">
+  <first_name>Matt</first_name>
+  <last_name>Lefkowitz</last_name>
+  <residence>Brookline MA</residence>
+</person>
+
+<person id="srydel">
+  <first_name>Steve</first_name>
+  <last_name>Rydel</last_name>
+  <residence>Stoke-on-Trent, UK</residence>
+</person>
+
+<person id="tarmstrong">
+  <first_name>Tony</first_name>
+  <last_name>Armstrong</last_name>
+  <residence>Dallas TX</residence>
+</person>
+
+<person id="pmckinney">
+  <first_name>Paul</first_name>
+  <last_name>McKinney</last_name>
+  <residence>Princeton WVA</residence>
+</person>
+
+<person id="lsigety">
+  <first_name>Larry</first_name>
+  <last_name>Sigety</last_name>
+  <residence>Las Vegas NV</residence>
+</person>
+
+<person id="dthompson">
+  <first_name>Dan</first_name>
+  <last_name>Thompson</last_name>
+  <residence>Olympia WA</residence>
+</person>
+
+<person id="mbittan">
+  <first_name>Michel</first_name>
+  <last_name>Bittan</last_name>
+  <residence>Engelwood NJ</residence>
+</person>
+
+<person id="jkabbaj">
+  <first_name>John</first_name>
+  <last_name>Kabbaj</last_name>
+  <residence>London, UK</residence>
+</person>
+
+<person id="eelezra">
+  <first_name>Eli</first_name>
+  <last_name>Elezra</last_name>
+</person>
+
+<person id="lrokach">
+  <first_name>Lucy</first_name>
+  <last_name>Rokach</last_name>
+</person>
+
+<person id="mappleman">
+  <first_name>Mickey</first_name>
+  <last_name>Appleman</last_name>
+</person>
+
+<person id="jbonetti">
+  <first_name>John</first_name>
+  <last_name>Bonetti</last_name>
+</person>
+
+<person id="pphillips">
+  <first_name>Paul</first_name>
+  <last_name>Phillips</last_name>
+</person>
+
+<person id="gtschetschot">
+  <first_name>Gloria</first_name>
+  <last_name>Tschetschot</last_name>
+</person>
+
+<person id="astonum">
+  <first_name>Allan</first_name>
+  <last_name>Stonum</last_name>
+</person>
+
+<person id="pbroderick">
+  <first_name>Phillip</first_name>
+  <last_name>Broderick</last_name>
+</person>
+
+<person id="agurevich">
+  <first_name>Alex</first_name>
+  <last_name>Gurevich</last_name>
+</person>
+

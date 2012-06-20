@@ -1,0 +1,301 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1981</year>
+<number>12th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&draw;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ebernach"/>
+      <payout>18000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>Mixed Doubles</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1 (shared)</position>
+      <player id="fcardone"/>
+      <payout>7800</payout>
+    </place>
+
+    <place>
+      <position>1 (shared)</position>
+      <player id="jmatthews"/>
+      <payout>7800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="fdavid"/>
+      <payout>96000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sgammerman"/>
+      <payout>52000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>Women&apos;s &stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rgodfrey"/>
+      <payout>17800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bhershenson"/>
+      <payout>34500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jmoss"/>
+      <payout>33500</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="xxx"/>
+      <payout>13400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+  <start_date>May 4, 1981</start_date>
+  <end_date>May 5, 1981</end_date>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ameyers"/>
+      <payout>67500</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="edrache"/>
+      <payout>27000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mperry"/>
+      <payout>46250</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>No-Limit Holdem</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="froach"/>
+      <payout>81000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="grodgers"/>
+      <payout>44000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>912</event_num>
+  <game>No-Limit Holdem</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="eschwettman"/>
+      <payout>90000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>913</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sungar"/>
+      <payout>95000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>914</event_num>
+  <game>No-Limit Holdem</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <start_date>May 18, 1981</start_date>
+  <end_date>May 21, 1981</end_date>
+  <entrants>75</entrants>
+  <prize_pool>750000</prize_pool>
+  <notes>The Championship Event is now four days, instead of three.
+Stu Ungar becomes the third person to win back-to-back Championship events.
+All players at the final table receive prize money.</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sungar"/>
+      <payout>375000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="pgreen"/>
+      <payout>150000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="gfisher"/>
+      <payout>75000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="ksmith"/>
+      <payout>37500</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="bsmith"/>
+      <payout>37500</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jheimowitz"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="bbaldwin"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="amoore"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="spetrillo"/>
+      <payout>15000</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

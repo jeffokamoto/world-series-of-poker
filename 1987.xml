@@ -1,0 +1,247 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1987</year>
+<number>18th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="raddison"/>
+      <payout>96400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bbaxter"/>
+      <payout>153000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&omaha;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tcloutier"/>
+      <payout>72000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="acobb"/>
+      <payout>142000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jcraig"/>
+      <payout>103600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&plo;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hkant"/>
+      <payout>174000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rmorton"/>
+      <payout>189000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jpetro"/>
+      <payout>93200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="crouss"/>
+      <payout>65200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&stud;</game>
+  <description>Women&apos;s Event</description>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="lrykedrucker"/>
+      <payout>16800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hshirey"/>
+      <payout>171600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>912</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>152</entrants>
+  <prize_pool>1520000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jchan"/>
+      <payout>625000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="fhenderson"/>
+      <payout>250000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bciaffone"/>
+      <payout>125000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jspain"/>
+      <payout>68750</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="hlederer"/>
+      <payout>56250</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="dharrington"/>
+      <payout>43750</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="eelias"/>
+      <payout>35500</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mappleman"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jkeller"/>
+      <payout>18750</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

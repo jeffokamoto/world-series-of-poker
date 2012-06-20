@@ -1,0 +1,248 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1988</year>
+<number>19th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="vcarpenter"/>
+      <payout>223800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rgibe"/>
+      <payout>181800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&plo;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ggross"/>
+      <payout>181000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="thansen"/>
+      <payout>158000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&omaha;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dhelms"/>
+      <payout>91200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="lhilt"/>
+      <payout>123600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&stud;</game>
+  <description>Women&apos;s Event</description>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="lhuber"/>
+      <payout>17000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mhunt"/>
+      <payout>130200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sleibowitz"/>
+      <payout>157500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jmoss"/>
+      <payout>116400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dwilliams"/>
+      <payout>76800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>912</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>167</entrants>
+  <prize_pool>1670000</prize_pool>
+  <notes>Johnny Chan becomes the fourth person to win back-to-back
+  Championship events.</notes>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jchan"/>
+      <payout>700000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="eseidel"/>
+      <payout>280000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="rgraham"/>
+      <payout>140000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="hbrenes"/>
+      <payout>77000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="tcloutier"/>
+      <payout>63000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jbechtel"/>
+      <payout>49000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="qnixon"/>
+      <payout>42000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mcox"/>
+      <payout>28000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jalto"/>
+      <payout>21000</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

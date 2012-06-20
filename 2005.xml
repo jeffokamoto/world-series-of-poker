@@ -1,0 +1,1124 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>2005</year>
+<number>36th</number>
+<casino>Rio All-Suite Hotel and Casino, and Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+<staff_list>
+  <staff_member>
+    <staff_name>John Grooms</staff_name>
+    <staff_title>World Series of Poker Tournament Director</staff_title>
+  </staff_member>
+  <staff_member>
+    <staff_name>Robert Daily</staff_name>
+    <staff_title>Rio Poker Tournament Director</staff_title>
+  </staff_member>
+  <staff_member>
+    <staff_name>Nolan Dalla</staff_name>
+    <staff_title>World Series of Poker Media Director</staff_title>
+  </staff_member>
+</staff_list>
+
+<event_list>
+
+<!-- Date             Event #    Tournament                         Buy-In   -->
+
+<!-- June 2, Thursday    1       Casino Employee No-limit Hold'em   $500   -->
+<event>
+  <event_num>1</event_num>
+  <game>&nlh;</game>
+  <description>Casino Employee&apos;s Event</description>
+  <buyin>500</buyin>
+  <start_date>Thu Jun 2, 2005</start_date>
+  <end_date>Thu Jun 2, 2005</end_date>
+  <entrants>662</entrants>
+  <prize_pool>297900</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 3, Friday      2       No-limit Hold'em                   $1,500   -->
+<event>
+  <event_num>2</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Fri Jun 3, 2005</start_date>
+  <end_date>Sun Jun 5, 2005</end_date>
+  <entrants>2305</entrants>
+  <prize_pool>3180900</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 4, Saturday    3       Pot-limit Hold'em                  $1,500   -->
+<event>
+  <event_num>3</event_num>
+  <game>&plh;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat Jun 4, 2005</start_date>
+  <end_date>Sun Jun 5, 2005</end_date>
+  <entrants>1071</entrants>
+  <prize_pool>1477980</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 5, Sunday      4       Limit Hold'em                      $1,500   -->
+<event>
+  <event_num>4</event_num>
+  <game>&he;</game>
+  <buyin>1500</buyin>
+  <start_date>Sun Jun 5, 2005</start_date>
+  <end_date>Mon Jun 6, 2005</end_date>
+  <entrants>1049</entrants>
+  <prize_pool>1447620</prize_pool>
+  <places>
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 6, Monday      5       Omaha Hi-low Split                 $1,500   -->
+<event>
+  <event_num>5</event_num>
+  <game>&omaha8;</game>
+  <buyin>1500</buyin>
+  <start_date>Mon Jun 6, 2005</start_date>
+  <end_date>Tue Jun 7, 2005</end_date>
+  <entrants>699</entrants>
+  <prize_pool>964620</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 7, Tuesday     6       Short Handed (6/table)   No-limit Hold'em                  $2,500   -->
+<event>
+  <event_num>6</event_num>
+  <game>&nlhshort;</game>
+  <buyin>2500</buyin>
+  <start_date>Tue Jun 7, 2005</start_date>
+  <end_date>Wed Jun 8, 2005</end_date>
+  <entrants>548</entrants>
+  <prize_pool>1260400</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 8, Wednesday   7       No-limit Hold'em w/rebuys          $1,000   -->
+<event>
+  <event_num>7</event_num>
+  <game>&nlh;</game>
+  <buyin>1000</buyin>
+  <start_date>Wed Jun 8, 2005</start_date>
+  <end_date>Fri Jun 10, 2005</end_date>
+  <entrants>826</entrants>
+  <rebuys>1495</rebuys>
+  <prize_pool>2201630</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 9, Thursday    8       Seven Card Stud                    $1,500   -->
+<event>
+  <event_num>8</event_num>
+  <game>&stud;</game>
+  <buyin>1500</buyin>
+  <start_date>Thu Jun 9, 2005</start_date>
+  <end_date>Fri Jun 10, 2005</end_date>
+  <entrants>472</entrants>
+  <prize_pool>651360</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 10, Friday     9       No-limit Hold'em                   $2,000   -->
+<event>
+  <event_num>9</event_num>
+  <game>&nlh;</game>
+  <buyin>2000</buyin>
+  <start_date>Fri Jun 10, 2005</start_date>
+  <end_date>Sat Jun 11, 2005</end_date>
+  <entrants>1403</entrants>
+  <prize_pool>2581520</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 11, Saturday   10      Limit Hold'em                      $2,000   -->
+<event>
+  <event_num>10</event_num>
+  <game>&he;</game>
+  <buyin>2000</buyin>
+  <start_date>Sat Jun 11, 2005</start_date>
+  <end_date>Sun Jun 12, 2005</end_date>
+  <entrants>569</entrants>
+  <prize_pool>1046940</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 12, Sunday     11      Pot-limit Hold'em                  $2,000   -->
+<event>
+  <event_num>11</event_num>
+  <game>&plh;</game>
+  <buyin>2000</buyin>
+  <start_date>Sun Jun 12, 2005</start_date>
+  <end_date>Tue Jun 14, 2005</end_date>
+  <entrants>540</entrants>
+  <prize_pool>993600</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 13, Monday     12      Pot-limit Omaha w/re-buys          $2,000   -->
+<event>
+  <event_num>12</event_num>
+  <game>&plo;</game>
+  <buyin>2000</buyin>
+  <start_date>Mon Jun 13, 2005</start_date>
+  <end_date>Wed Jun 15, 2005</end_date>
+  <entrants>212</entrants>
+  <rebuys>395</rebuys>
+  <prize_pool>1180080</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 14, Tuesday    13      No-limit Hold'em                   $5,000   -->
+<event>
+  <event_num>13</event_num>
+  <game>&nlh;</game>
+  <buyin>5000</buyin>
+  <start_date>Tue Jun 14, 2005</start_date>
+  <end_date>Wed Jun 15, 2005</end_date>
+  <entrants>466</entrants>
+  <prize_pool>2190200</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 15, Wednesday  14      Seven Card Stud Hi-low Split       $1,000   -->
+<event>
+  <event_num>14</event_num>
+  <game>&stud8;</game>
+  <buyin>1000</buyin>
+  <start_date>Wed Jun 15, 2005</start_date>
+  <end_date>Thu Jun 16, 2005</end_date>
+  <entrants>595</entrants>
+  <prize_pool>541450</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 16, Thursday   15      Limit Hold'em Shootout             $1,500   -->
+<event>
+  <event_num>15</event_num>
+  <game>&heshoot;</game>
+  <buyin>1500</buyin>
+  <start_date>Thu Jun 16, 2005</start_date>
+  <end_date>Fri Jun 17, 2005</end_date>
+  <entrants>450</entrants>
+  <prize_pool>621000</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 17, Friday     16      No-limit Hold'em Shootout          $1,500   -->
+<event>
+  <event_num>16</event_num>
+  <game>&nlhshoot;</game>
+  <buyin>1500</buyin>
+  <start_date>Fri Jun 17, 2005</start_date>
+  <end_date>Sat Jun 18, 2005</end_date>
+  <entrants>780</entrants>
+  <prize_pool>1076400</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 18, Saturday   17      Limit Hold'em                      $2,500   -->
+<event>
+  <event_num>17</event_num>
+  <game>&he;</game>
+  <buyin>2500</buyin>
+  <start_date>Sat Jun 18, 2005</start_date>
+  <end_date>Sun Jun 19, 2005</end_date>
+  <entrants>373</entrants>
+  <prize_pool>857900</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 19, Sunday     18      Seven Card Stud Hi-low Split       $2,000   -->
+<event>
+  <event_num>18</event_num>
+  <game>&stud8;</game>
+  <buyin>2000</buyin>
+  <start_date>Sun Jun 19, 2005</start_date>
+  <end_date>Mon Jun 20, 2005</end_date>
+  <entrants>279</entrants>
+  <prize_pool>513360</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 19, Sunday     19      Pot Limit Omaha                    $1,500   -->
+<event>
+  <event_num>19</event_num>
+  <game>&plo;</game>
+  <buyin>1500</buyin>
+  <start_date>Sun Jun 19, 2005</start_date>
+  <end_date>Mon Jun 20, 2005</end_date>
+  <entrants>291</entrants>
+  <prize_pool>423405</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 20, Monday     20      Pot-limit Hold'em                  $5,000   -->
+<event>
+  <event_num>20</event_num>
+  <game>&plh;</game>
+  <buyin>5000</buyin>
+  <start_date>Mon Jun 20, 2005</start_date>
+  <end_date>Tue Jun 21, 2005</end_date>
+  <entrants>239</entrants>
+  <prize_pool>1123300</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 21, Tuesday    21      Omaha Hi-low Split                 $2,500   -->
+<event>
+  <event_num>21</event_num>
+  <game>&omaha8;</game>
+  <buyin>2500</buyin>
+  <start_date>Tue Jun 21, 2005</start_date>
+  <end_date>Wed Jun 22, 2005</end_date>
+  <entrants>359</entrants>
+  <prize_pool>825700</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 22, Wednesday  22      No-limit Hold'em                   $1,500   -->
+<event>
+  <event_num>22</event_num>
+  <game>&nlh;</game>
+  <description>PSO Invitational</description>
+  <buyin>1500</buyin>
+  <start_date>Wed Jun 22, 2005</start_date>
+  <end_date>Thu Jun 23, 2005</end_date>
+  <entrants>2013</entrants>
+  <prize_pool>2777940</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 23, Thursday   23      Seven Card Stud                    $5,000   -->
+<event>
+  <event_num>23</event_num>
+  <game>&stud;</game>
+  <buyin>5000</buyin>
+  <start_date>Thu Jun 23, 2005</start_date>
+  <end_date>Fri Jun 24, 2005</end_date>
+  <entrants>192</entrants>
+  <prize_pool>902000</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 24, Friday     24      No-Limit Hold'em                   $2,500   -->
+<event>
+  <event_num>24</event_num>
+  <game>&nlh;</game>
+  <buyin>2500</buyin>
+  <start_date>Fri Jun 24, 2005</start_date>
+  <end_date>Sat Jun 25, 2005</end_date>
+  <entrants>1056</entrants>
+  <prize_pool>2428800</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 25, Saturday   25      Pot-limit Hold'em                  $2,500   -->
+<event>
+  <event_num>25</event_num>
+  <game>&plh;</game>
+  <buyin>2500</buyin>
+  <start_date>Sat Jun 25, 2005</start_date>
+  <end_date>Sun Jun 26, 2005</end_date>
+  <entrants>425</entrants>
+  <prize_pool>977500</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jchan"/>
+      <payout>303025</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="plaak"/>
+      <payout>156400</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="rosborne"/>
+      <payout>78200</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="fkassela"/>
+      <payout>68425</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jthomas"/>
+      <payout>58650</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="thartmann"/>
+      <payout>48875</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="rharroch"/>
+      <payout>39100</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="asurapaneni"/>
+      <payout>29325</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="hbrenes"/>
+      <payout>19550</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="idonev"/>
+      <payout>11730</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="sfox"/>
+      <payout>11730</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="tchan"/>
+      <payout>11730</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="ddickens"/>
+      <payout>9775</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="pwolfe"/>
+      <payout>9775</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mtran"/>
+      <payout>9775</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="mmuchnik"/>
+      <payout>7820</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="mkeiner"/>
+      <payout>7820</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="jmonro"/>
+      <payout>7820</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="tphan2"/>
+      <payout>5865</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="teisenman"/>
+      <payout>5865</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="rcarter"/>
+      <payout>5865</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="rharris"/>
+      <payout>5865</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="mmizrachi"/>
+      <payout>5865</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="bpeeples"/>
+      <payout>5865</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="bhunt"/>
+      <payout>5865</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="jbrown"/>
+      <payout>5865</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="bboatman"/>
+      <payout>5865</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="brodman"/>
+      <payout>3910</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="dshak"/>
+      <payout>3910</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="jhelppi"/>
+      <payout>3910</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="cfrommer"/>
+      <payout>3910</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="blaux"/>
+      <payout>3910</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="mstern"/>
+      <payout>3910</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="tlivia"/>
+      <payout>3910</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="bfirestone"/>
+      <payout>3910</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="mwhite"/>
+      <payout>3910</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 26, Sunday     26      Ladies No-limit Hold'em            $1,000   -->
+<event>
+  <event_num>26</event_num>
+  <game>&nlh;</game>
+  <description>Ladies Event</description>
+  <buyin>1000</buyin>
+  <start_date>Sun Jun 26, 2005</start_date>
+  <end_date>Sun Jun 26, 2005</end_date>
+  <entrants>601</entrants>
+  <prize_pool>546910</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 26, Sunday     27      Pot-limit Omaha w/re-buys          $5,000   -->
+<event>
+  <event_num>27</event_num>
+  <game>&plo;</game>
+  <buyin>5000</buyin>
+  <start_date>Sun Jun 26, 2005</start_date>
+  <end_date>Mon Jun 27, 2005</end_date>
+  <entrants>134</entrants>
+  <rebuys>229</rebuys>
+  <prize_pool>1765568</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 27, Monday     28      Limit Hold'em                      $5,000   -->
+<event>
+  <event_num>28</event_num>
+  <game>&he;</game>
+  <buyin>5000</buyin>
+  <start_date>Mon Jun 27, 2005</start_date>
+  <end_date>Tue Jun 28, 2005</end_date>
+  <entrants>269</entrants>
+  <prize_pool>1264300</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 28, Tuesday    29      No-limit Hold'em                   $2,000   -->
+<event>
+  <event_num>29</event_num>
+  <game>&nlh;</game>
+  <buyin>2000</buyin>
+  <start_date>Tue Jun 28, 2005</start_date>
+  <end_date>Wed Jun 29, 2005</end_date>
+  <entrants>1072</entrants>
+  <prize_pool>1972480</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 29, Wednesday  30      Short handed (6/table) No-limit Hold'em                  $5,000   -->
+<event>
+  <event_num>31</event_num>
+  <game>&nlhshort;</game>
+  <buyin>5000</buyin>
+  <start_date>Wed Jun 29, 2005</start_date>
+  <end_date>Thu Jun 30, 2005</end_date>
+  <entrants>301</entrants>
+  <prize_pool>1414700</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 29, Wednesday  31      Seven Card Razz                    $1,500   -->
+<event>
+  <event_num>30</event_num>
+  <game>&razz;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed Jun 29, 2005</start_date>
+  <end_date>Wed Jun 29, 2005</end_date>
+  <entrants>291</entrants>
+  <prize_pool>401580</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- June 30, Thursday   32      Omaha hi-low split                 $5,000   -->
+<event>
+  <event_num>32</event_num>
+  <game>&omaha8;</game>
+  <buyin>5000</buyin>
+  <start_date>Thu Jun 30, 2005</start_date>
+  <end_date>Fri Jul 1, 2005</end_date>
+  <entrants>224</entrants>
+  <prize_pool>1052800</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- July 1, Friday      33      No-limit Hold'em                   $3,000   -->
+<event>
+  <event_num>33</event_num>
+  <game>&nlh;</game>
+  <buyin>3000</buyin>
+  <start_date>Fri Jul 1, 2005</start_date>
+  <end_date>Sat Jul 2, 2005</end_date>
+  <entrants>1010</entrants>
+  <prize_pool>2787600</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- July 2, Saturday    34      Seniors No-Limit Hold'em           $1,000   -->
+<event>
+  <event_num>34</event_num>
+  <game>&nlh;</game>
+  <description>Seniors Event</description>
+  <buyin>1000</buyin>
+  <start_date>Sat Jul 2, 2005</start_date>
+  <end_date>Sun Jul 3, 2005</end_date>
+  <entrants>825</entrants>
+  <prize_pool>750750</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- July 2, Saturday    35      Pot-limit Omaha                    $10,000   -->
+<event>
+  <event_num>35</event_num>
+  <game>&plo;</game>
+  <buyin>10000</buyin>
+  <start_date>Sat Jul 2, 2005</start_date>
+  <end_date>Sun Jul 3, 2005</end_date>
+  <entrants>165</entrants>
+  <prize_pool>1551000</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- July 3, Sunday      36      Limit Hold'em                      $3,000   -->
+<event>
+  <event_num>36</event_num>
+  <game>&he;</game>
+  <buyin>3000</buyin>
+  <start_date>Sun Jul 3, 2005</start_date>
+  <end_date>Mon Jul 4, 2005</end_date>
+  <entrants>406</entrants>
+  <prize_pool>1120560</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- July 4, Monday      37      No-limit Hold'em w/re-buys         $1,000   -->
+<event>
+  <event_num>37</event_num>
+  <game>&nlh;</game>
+  <buyin>1000</buyin>
+  <start_date>Mon Jul 4, 2005</start_date>
+  <end_date>Tue Jul 5, 2005</end_date>
+  <entrants>894</entrants>
+  <rebuys>1584</rebuys>
+  <prize_pool>2350020</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- July 5, Tuesday     38      Super satellite day   -->
+<!-- (10a.m./3p.m./8p.m.)              $1,000   -->
+<event>
+  <event_num>38</event_num>
+  <game>&nlh;</game>
+  <description>Super Satellite Day</description>
+  <buyin>1000</buyin>
+  <start_date>Tue Jul 5, 2005</start_date>
+  <end_date>Tue Jul 5, 2005</end_date>
+  <entrants>0</entrants>
+  <prize_pool>0</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- July 5, Tuesday     39      No-limit 2 to 7 Draw   -->
+<!-- Lowball w/re-buys                 $5,000   -->
+<event>
+  <event_num>39</event_num>
+  <game>&deucenl;</game>
+  <buyin>5000</buyin>
+  <start_date>Tue Jul 5, 2005</start_date>
+  <end_date>Wed Jul 6, 2005</end_date>
+  <entrants>65</entrants>
+  <rebuys>139</rebuys>
+  <prize_pool>986860</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- July 6, Wednesday   40      Super satellite day   -->
+<!-- (9a.m./2p.m./9p.m.)   -->
+<event>
+  <event_num>40</event_num>
+  <game>&nlh;</game>
+  <description>Super Satellite Day</description>
+  <buyin>1000</buyin>
+  <start_date>Wed Jul 6, 2005</start_date>
+  <end_date>Wed Jul 6, 2005</end_date>
+  <entrants>0</entrants>
+  <prize_pool>0</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- July 6, Wednesday   41      Media/Celebrity Charity Event   -->
+<event>
+  <event_num>41</event_num>
+  <game>&plo;</game>
+  <description>Media/Celebrity Charity Event</description>
+  <buyin>0</buyin>
+  <start_date>Wed Jul 6, 2005</start_date>
+  <end_date>Wed Jul 6, 2005</end_date>
+  <entrants>0</entrants>
+  <prize_pool>0</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<!-- No Limit Texas Hold'em World Championship:   -->
+<!-- Date             Event #    Tournament                         Buy-In   -->
+<!-- July 7, Thursday    42      Day 1A, First 1,000 - 2,200  play to 500-650                   $10,000   -->
+<!-- July 8, Friday              Day 1B, Second 1,000 - 2,200 play to 500-650 -->
+<!-- July 9, Saturday            Day 1C, Third 1,000 - 2,200 play to 500-650 -->
+<!-- July 10, Sunday             Day 2, Play down to 500-1,000   -->
+<!-- July 11, Monday             Day 3, Play down to 200-400   -->
+<!-- July 12, Tuesday            Day 4, Play down to 100-150   -->
+<!-- July 13, Wednesday          Day 5, Play down to 27   -->
+<!-- July 14, Thursday           Day 6, Play down to 9  (Binion's Horseshoe) -->
+<!-- July 15, Friday             Day 7, Final table     (Binion's Horseshoe) -->
+<event>
+  <event_num>42</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <start_date>Thu Jul 7, 2005</start_date>
+  <end_date>Fri Jul 15, 2005</end_date>
+  <entrants>5619</entrants>
+  <prize_pool>52818610</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>43</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Mon Jul 11, 2005</start_date>
+  <end_date>Mon Jul 11, 2005</end_date>
+  <entrants>0</entrants>
+  <prize_pool>1146870</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>44</event_num>
+  <game>&nlh;</game>
+  <buyin>1000</buyin>
+  <start_date>Tue Jul 12, 2005</start_date>
+  <end_date>Tue Jul 12, 2005</end_date>
+  <entrants>971</entrants>
+  <prize_pool>882505</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>45</event_num>
+  <game>&nlh;</game>
+  <buyin>1000</buyin>
+  <start_date>Wed Jul 13, 2005</start_date>
+  <end_date>Wed Jul 13, 2005</end_date>
+  <entrants>758</entrants>
+  <prize_pool>697360</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

@@ -1,0 +1,18 @@
+<person id="berikson">
+  <first_name>Bruce</first_name>
+  <last_name>Erikson</last_name>
+  <residence>Felton, Ca</residence>
+</person>
+
+<person id="srosen">
+  <first_name>Steve</first_name>
+  <last_name>Rosen</last_name>
+  <residence>Armonk, Ny</residence>
+</person>
+
+<person id="gwestphal">
+  <first_name>George</first_name>
+  <last_name>Westphal</last_name>
+  <residence>Bismark, ND</residence>
+</person>
+

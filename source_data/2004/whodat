@@ -1,0 +1,116 @@
+<person id="akelleher">
+  <first_name>Alan</first_name>
+  <last_name>Kelleher</last_name>
+  <residence>Ireland</residence>
+</person>
+
+<person id="ykurt">
+  <first_name>Yusuf</first_name>
+  <last_name>Kurt</last_name>
+  <residence>Vienna, Austria</residence>
+</person>
+
+<person id="barmstrong">
+  <first_name>Bob</first_name>
+  <last_name>Armstrong</last_name>
+  <residence>Oaklyn, NJ</residence>
+</person>
+
+<person id="fcallaghan">
+  <first_name>Frank</first_name>
+  <last_name>Callaghan</last_name>
+  <residence>Dublin, Ireland</residence>
+</person>
+
+<person id="jfhal">
+  <first_name>Jonathan</first_name>
+  <last_name>Fhal</last_name>
+  <residence>Paris, France</residence>
+</person>
+
+<person id="ssuh">
+  <first_name>Stephen</first_name>
+  <last_name>Suh</last_name>
+  <residence>Alsio Viejo, CA, United States</residence>
+</person>
+
+<person id="jhiggins">
+  <first_name>J.</first_name>
+  <middle_name>D.</middle_name>
+  <last_name>Higgins</last_name>
+  <residence>Portstewart, Ireland</residence>
+</person>
+
+<person id="dmosely">
+  <first_name>Don</first_name>
+  <last_name>Mosely</last_name>
+  <residence>Houston, TX, United States</residence>
+</person>
+
+<person id="cwight">
+  <first_name>Charles</first_name>
+  <last_name>Wight</last_name>
+  <residence>Houston, TX</residence>
+</person>
+
+<person id="klazzaro">
+  <first_name>Kevin</first_name>
+  <last_name>Lazzaro</last_name>
+  <residence>Aurora, OH</residence>
+</person>
+
+<person id="sbuchanan">
+  <first_name>Shawn</first_name>
+  <last_name>Buchanan</last_name>
+  <residence>Abbotsford, BC, Canada</residence>
+</person>
+
+<person id="kgazes">
+  <first_name>Kristy</first_name>
+  <last_name>Gazes</last_name>
+  <residence>Hollywood, CA, United States</residence>
+</person>
+
+<person id="roliveira">
+  <first_name>Raul</first_name>
+  <last_name>Oliveira</last_name>
+  <residence>Rio De Janeiro, Brazil</residence>
+</person>
+
+<person id="mguttman">
+  <first_name>Mike</first_name>
+  <last_name>Guttman</last_name>
+  <residence>Melbourne, Australia</residence>
+</person>
+
+<person id="rbeauxlox">
+  <first_name>Ronnie</first_name>
+  <middle_name>De</middle_name>
+  <last_name>Beaux-Lox</last_name>
+  <residence>Lingfield, England</residence>
+</person>
+
+<person id="mmeyers">
+  <first_name>Milton</first_name>
+  <last_name>Meyers</last_name>
+  <residence>Las Vegas, NV</residence>
+</person>
+
+<person id="wblanda">
+  <first_name>William</first_name>
+  <last_name>Blanda</last_name>
+  <residence>Kingwood, TX</residence>
+</person>
+
+<person id="blouder">
+  <first_name>Bradley</first_name>
+  <last_name>Louder</last_name>
+  <residence>Centennial, CO</residence>
+</person>
+
+<person id="sagassi">
+  <first_name>Shai</first_name>
+  <last_name>Agassi</last_name>
+  <residence>Los Gatos, CA, United States</residence>
+</person>
+

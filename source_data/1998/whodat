@@ -1,0 +1,72 @@
+<person id="mcommanda">
+  <first_name>Mandy</first_name>
+  <last_name>Commanda</last_name>
+  <residence>Sault Ste. Marie CAN</residence>
+</person>
+
+<person id="jthomas">
+  <first_name>Jerri</first_name>
+  <last_name>Thomas</last_name>
+  <residence>Ft. Lauderdale FL</residence>
+</person>
+
+<person id="gschimmel">
+  <first_name>Gertrude</first_name>
+  <last_name>Schimmel</last_name>
+  <residence>NY NY</residence>
+</person>
+
+<person id="erossi">
+  <first_name>Esther</first_name>
+  <last_name>Rossi</last_name>
+  <residence>Las Vegas</residence>
+</person>
+
+<person id="jridgway">
+  <first_name>Juanda</first_name>
+  <last_name>Ridgway</last_name>
+  <residence>Las Vegas</residence>
+</person>
+
+<person id="bjacobus">
+  <first_name>Brenda</first_name>
+  <last_name>Jacobus</last_name>
+  <residence>Las Vegas</residence>
+</person>
+
+<person id="jhughes">
+  <first_name>Jane</first_name>
+  <last_name>Hughes</last_name>
+  <residence>Las Vegas</residence>
+</person>
+
+<person id="wknaffl">
+  <first_name>Wanda</first_name>
+  <last_name>Knaffl</last_name>
+  <residence>Las Vegas</residence>
+</person>
+
+<person id="kkellerkohlberg">
+  <first_name>Kathy</first_name>
+  <last_name>Keller-Kohlberg</last_name>
+  <residence>Phoenix AZ</residence>
+</person>
+
+<person id="tking">
+  <first_name>Terry</first_name>
+  <last_name>King</last_name>
+  <residence>Long Beach CA</residence>
+</person>
+
+<person id="ndollison">
+  <first_name>Nani</first_name>
+  <last_name>Dollison</last_name>
+  <residence>Lake Cormorant MS</residence>
+</person>
+
+<person id="pmartin">
+  <first_name>Petcharut</first_name>
+  <last_name>Martin</last_name>
+  <residence>Las Vegas</residence>
+</person>
+

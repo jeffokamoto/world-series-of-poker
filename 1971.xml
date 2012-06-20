@@ -1,0 +1,37 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1971</year>
+<number>2nd</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+<notes>Championship Event buyin is $5,000.</notes>
+
+<event_list>
+<event>
+  <event_num>1</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>5000</buyin>
+  <entrants>6</entrants>
+  <prize_pool>30000</prize_pool>
+  <notes>The Championship Event winner is now determined by elimination.
+Johnny Moss becomes the first person to win back-to-back
+Championship events.</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jmoss"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="wpearson"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+</event_list>
+</world_series>

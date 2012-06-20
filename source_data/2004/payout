@@ -1,0 +1,315 @@
+    <place>
+      <position>1</position>
+      <player id="msica"/>
+      <payout>503160</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jkabbaj"/>
+      <payout>260520</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="rvaswani"/>
+      <payout>143740</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="akelleher"/>
+      <payout>125780</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="tpersson"/>
+      <payout>107800</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="pphillips"/>
+      <payout>89840</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mmills"/>
+      <payout>71860</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jcernuto"/>
+      <payout>53900</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="ykurt"/>
+      <payout>35940</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="barmstrong"/>
+      <payout>19760</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mkeiner"/>
+      <payout>19760</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jfriedberg"/>
+      <payout>19760</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="avahedi"/>
+      <payout>16180</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="fcallaghan"/>
+      <payout>16180</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jjuanda"/>
+      <payout>16180</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jfhal"/>
+      <payout>12580</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="tcousineau"/>
+      <payout>12580</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="ssuh"/>
+      <payout>12580</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="gcheatham"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="bstadlbauer"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="hshirey"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="aduke"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="jhiggins"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="dmosely"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="ggriffin"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="ksong"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="mknijff"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="sgoldstein"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="jchan"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="cwight"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="rcardiel"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="smayfield"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="klazzaro"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="bboatman"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="cnielsen"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="astonum"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="sbuchanan"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="ssunar"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="cfuentes"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="kgazes"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>41</position>
+      <player id="rmckay"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>42</position>
+      <player id="kkolberg"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>43</position>
+      <player id="roliveira"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>44</position>
+      <player id="gwynn"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>45</position>
+      <player id="jstorakers"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>46</position>
+      <player id="mguttman"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>47</position>
+      <player id="choang"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>48</position>
+      <player id="rbeauxlox"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>49</position>
+      <player id="mmeyers"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>50</position>
+      <player id="wblanda"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>51</position>
+      <player id="tfranklin"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>52</position>
+      <player id="npaulsen"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>53</position>
+      <player id="atran2"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>54</position>
+      <player id="sgrizzle"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>55</position>
+      <player id="gkester"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>56</position>
+      <player id="atannous"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>57</position>
+      <player id="brodman"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>58</position>
+      <player id="rlevine"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>59</position>
+      <player id="mpilkington"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>60</position>
+      <player id="canastasyadis"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>61</position>
+      <player id="blouder"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>62</position>
+      <player id="vkovalchuk"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>63</position>
+      <player id="sagassi"/>
+      <payout>3600</payout>
+    </place>

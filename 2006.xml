@@ -1,0 +1,857 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>2006</year>
+<number>37th</number>
+<casino>Rio All-Suite Hotel and Casino, Las Vegas</casino>
+<staff_list>
+</staff_list>
+
+<event_list>
+
+<!-- Date             Event #    Tournament                         Buy-In   -->
+
+<event>
+  <event_num>1</event_num>
+  <game>&nlh;</game>
+  <description>Casino Employee&apos;s Event</description>
+  <buyin>500</buyin>
+  <start_date>Mon Jul 26, 2006</start_date>
+  <end_date>Mon Jul 26, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>2</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Tue Jun 27, 2006</start_date>
+  <end_date>Wed Jun 28, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>3</event_num>
+  <game>&plh;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed Jun 28, 2006</start_date>
+  <end_date>Thu Jun 29, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>4</event_num>
+  <game>&he;</game>
+  <buyin>1500</buyin>
+  <start_date>Thu Jun 29, 2006</start_date>
+  <end_date>Fri Jun 30, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>5</event_num>
+  <game>&nlhshort;</game>
+  <buyin>2500</buyin>
+  <start_date>Fri Jun 30, 2006</start_date>
+  <end_date>Sat Jul 1, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+  <event_num>6</event_num>
+  <game>&nlh;</game>
+  <buyin>2000</buyin>
+  <start_date>Sat Jul 1, 2006</start_date>
+  <end_date>Sun Jul 2, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>7</event_num>
+  <game>&he;</game>
+  <buyin>3000</buyin>
+  <start_date>Sun Jul 2, 2006</start_date>
+  <end_date>Mon Jul 3, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>8</event_num>
+  <game>&omaha8;</game>
+  <buyin>2000</buyin>
+  <start_date>Mon Jul 3, 2006</start_date>
+  <end_date>Tue Jul 4, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>9</event_num>
+  <game>&nlh;</game>
+  <buyin>5000</buyin>
+  <start_date>Tue Jul 4, 2006</start_date>
+  <end_date>Wed Jul 5, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>10</event_num>
+  <game>&stud;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed Jul 5, 2006</start_date>
+  <end_date>Thu Jul 6, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>11</event_num>
+  <game>&he;</game>
+  <buyin>1500</buyin>
+  <start_date>Thu Jul 6, 2006</start_date>
+  <end_date>Fri Jul 7, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>12</event_num>
+  <game>&omaha8;</game>
+  <buyin>5000</buyin>
+  <start_date>Thu Jul 6, 2006</start_date>
+  <end_date>Fri Jul 7, 2006</end_date>
+  <entrants></entrants>
+  <rebuys>395</rebuys>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>13</event_num>
+  <game>&nlh;</game>
+  <buyin>2500</buyin>
+  <start_date>Fri Jul 7, 2006</start_date>
+  <end_date>Sat Jul 8, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>14</event_num>
+  <game>&nlh;</game>
+  <buyin>1000</buyin>
+  <start_date>Sat Jul 8, 2006</start_date>
+  <end_date>Sun Jul 9, 2006</end_date>
+  <entrants></entrants>
+  <rebuys></rebuys>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>15</event_num>
+  <game>&nlh;</game>
+  <description>Ladies Event</description>
+  <buyin>1000</buyin>
+  <start_date>Sun Jul 9, 2006</start_date>
+  <end_date>Sun Jul 9, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>16</event_num>
+  <game>&plo;</game>
+  <buyin>10000</buyin>
+  <start_date>Sun Jul 9, 2006</start_date>
+  <end_date>Mon Jul 10, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>17</event_num>
+  <game>&nlh;</game>
+  <buyin>1000</buyin>
+  <start_date>Mon Jul 10, 2006</start_date>
+  <end_date>Tue Jul 11, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>18</event_num>
+  <game>&plh;</game>
+  <buyin>2000</buyin>
+  <start_date>Tue Jul 11, 2006</start_date>
+  <end_date>Wed Jul 12, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>19</event_num>
+  <game>&nlh;</game>
+  <description>Seniors Event</description>
+  <buyin>1000</buyin>
+  <start_date>Wed Jul 12, 2006</start_date>
+  <end_date>Wed Jul 12, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>20</event_num>
+  <game>&deucenl;</game>
+  <buyin>5000</buyin>
+  <start_date>Wed Jul 12, 2006</start_date>
+  <end_date>Thu Jul 13, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>21</event_num>
+  <game>&nlhshort;</game>
+  <buyin>2500</buyin>
+  <start_date>Thu Jul 13, 2006</start_date>
+  <end_date>Fri Jul 14, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>22</event_num>
+  <game>&nlh;</game>
+  <buyin>2000</buyin>
+  <start_date>Fri Jul 14, 2006</start_date>
+  <end_date>Sat Jul 15, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>23</event_num>
+  <game>&he;</game>
+  <buyin>3000</buyin>
+  <start_date>Sat Jul 15, 2006</start_date>
+  <end_date>Sun Jul 16, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>24</event_num>
+  <game>&omaha8;</game>
+  <buyin>3000</buyin>
+  <start_date>Sat Jul 15, 2006</start_date>
+  <end_date>Sun Jul 16, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>25</event_num>
+  <game>&nlhshoot;</game>
+  <buyin>2000</buyin>
+  <start_date>Sun Jul 16, 2006</start_date>
+  <end_date>Mon Jul 17, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>26</event_num>
+  <game>&plo;</game>
+  <buyin>1500</buyin>
+  <start_date>Mon Jul 17, 2006</start_date>
+  <end_date>Tue Jul 18, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>27</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Tue Jul 18, 2006</start_date>
+  <end_date>Wed Jul 19, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>28</event_num>
+  <game>&stud;</game>
+  <buyin>5000</buyin>
+  <start_date>Wed Jul 19, 2006</start_date>
+  <end_date>Thu Jul 20, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>29</event_num>
+  <game>&stud;</game>
+  <buyin>2500</buyin>
+  <start_date>Wed Jul 19, 2006</start_date>
+  <end_date>Thu Jul 20, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>30</event_num>
+  <game>&nlhshort;</game>
+  <buyin>5000</buyin>
+  <start_date>Thu Jul 20, 2006</start_date>
+  <end_date>Fri Jul 21, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>31</event_num>
+  <game>&nlh;</game>
+  <buyin>2000</buyin>
+  <start_date>Fri Jul 21, 2006</start_date>
+  <end_date>Sat Jul 22, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>32</event_num>
+  <game>&plh;</game>
+  <buyin>5000</buyin>
+  <start_date>Sat Jul 22, 2006</start_date>
+  <end_date>Sun Jul 23, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>33</event_num>
+  <game>&razz;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat Jul 22, 2006</start_date>
+  <end_date>Sun Jul 23, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>34</event_num>
+  <game>&nlh;</game>
+  <buyin>1000</buyin>
+  <start_date>Sun Jul 23, 2006</start_date>
+  <end_date>Mon Jul 24, 2006</end_date>
+  <entrants></entrants>
+  <rebuys></rebuys>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>35</event_num>
+  <game>&stud8;</game>
+  <buyin>1000</buyin>
+  <start_date>Mon Jul 24, 2006</start_date>
+  <end_date>Tue Jul 25, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>36</event_num>
+  <game>&heshoot;</game>
+  <buyin>1500</buyin>
+  <start_date>Mon Jul 24, 2006</start_date>
+  <end_date>Tue Jul 25, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>37</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Tue Jul 25, 2006</start_date>
+  <end_date>Wed Jul 26, 2006</end_date>
+  <entrants></entrants>
+  <rebuys>1584</rebuys>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>38</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <start_date>Fri Jul 28, 2006</start_date>
+  <end_date>Thu Aug 10, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>39</event_num>
+  <game>&nlh;</game>
+  <buyin>1000</buyin>
+  <start_date>Thu Aug 3, 2006</start_date>
+  <end_date>Thu Aug 3, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>40</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat Aug 5, 2006</start_date>
+  <end_date>Sat Aug 5, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>41</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Sun Aug 6, 2006</start_date>
+  <end_date>Sun Aug 6, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>42</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Mon Aug 7, 2006</start_date>
+  <end_date>Mon Aug 7, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>43</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Tue Aug 8, 2006</start_date>
+  <end_date>Tue Aug 8, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>44</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed Aug 9, 2006</start_date>
+  <end_date>Wed Aug 9, 2006</end_date>
+  <entrants></entrants>
+  <prize_pool></prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="xxx"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

@@ -1,0 +1,6773 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>2004</year>
+<number>35th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+<staff_list>
+  <staff_member>
+    <staff_name>Matt Savage</staff_name>
+    <staff_title>Tournament Director</staff_title>
+  </staff_member>
+  <staff_member>
+    <staff_name>James Miller</staff_name>
+    <staff_title>Tournament Director</staff_title>
+  </staff_member>
+  <staff_member>
+    <staff_name>Dave Lamb</staff_name>
+    <staff_title>Super-Satellite Tournament Director</staff_title>
+  </staff_member>
+  <staff_member>
+    <staff_name>Warren Karp</staff_name>
+    <staff_title>Second Chance Tournament Director</staff_title>
+  </staff_member>
+  <staff_member>
+    <staff_name>Jody Ivener</staff_name>
+    <staff_title>Tournament Assistant</staff_title>
+  </staff_member>
+  <staff_member>
+    <staff_name>Jesse Rogers</staff_name>
+    <staff_title>Tournament Assistant</staff_title>
+  </staff_member>
+  <staff_member>
+    <staff_name>Nolan Dalla</staff_name>
+    <staff_title>Media Director</staff_title>
+  </staff_member>
+  <staff_member>
+    <staff_name>Eric Harkins</staff_name>
+    <staff_title>Photographer</staff_title>
+  </staff_member>
+</staff_list>
+
+<event_list>
+
+<event>
+  <event_num>1</event_num>
+  <game>&he;</game>
+  <description>Casino Employee&apos;s Event</description>
+  <buyin>500</buyin>
+  <start_date>Thu Apr 22, 2004</start_date>
+  <end_date>Thu Apr 22, 2004</end_date>
+  <entrants>279</entrants>
+  <prize_pool>125550</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cnessel"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="cpockat"/>
+      <payout>22000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="lwheeler"/>
+      <payout>11350</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="bbruce"/>
+      <payout>8820</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mrichman"/>
+      <payout>7560</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="rjenkins"/>
+      <payout>6300</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="scalhoon"/>
+      <payout>5040</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="wroffe"/>
+      <payout>3780</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jaddesso"/>
+      <payout>2520</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="rquiring"/>
+      <payout>1520</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="dtuchman"/>
+      <payout>1520</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="ghunterton"/>
+      <payout>1520</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="gstensrud"/>
+      <payout>1260</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="rrodman"/>
+      <payout>1260</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="wlustgraff"/>
+      <payout>1260</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="sbagnascofox"/>
+      <payout>1000</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="jvalleau"/>
+      <payout>1000</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="ahalash"/>
+      <payout>1000</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="mallen2"/>
+      <payout>760</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="nrodgers"/>
+      <payout>760</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="kgibson"/>
+      <payout>760</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="mhowland"/>
+      <payout>760</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="cpannage"/>
+      <payout>760</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="msteinberg"/>
+      <payout>760</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="rfranzen"/>
+      <payout>760</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="gsimmons"/>
+      <payout>760</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="jdizon"/>
+      <payout>760</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>2</event_num>
+  <game>&nlh;</game>
+  <buyin>2000</buyin>
+  <start_date>Fri Apr 23, 2004</start_date>
+  <end_date>Sat Apr 24, 2004</end_date>
+  <entrants>834</entrants>
+  <prize_pool>1534560</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jvogl"/>
+      <payout>400000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="srice"/>
+      <payout>213000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="dchiu"/>
+      <payout>122640</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="tnguyen2"/>
+      <payout>105420</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="cfrommer"/>
+      <payout>92080</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="cshoten"/>
+      <payout>76720</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="alellouche"/>
+      <payout>61380</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jtran"/>
+      <payout>46040</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="bhaveson"/>
+      <payout>30700</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="elindgren"/>
+      <payout>16880</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="creese"/>
+      <payout>16880</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="adietrich"/>
+      <payout>16880</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="tsweeton"/>
+      <payout>13820</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="pivey"/>
+      <payout>13820</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="rnoll"/>
+      <payout>13820</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="olongson"/>
+      <payout>10740</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="gstensrud"/>
+      <payout>10740</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="ktran"/>
+      <payout>10740</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="tstearns"/>
+      <payout>7680</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="vvinh"/>
+      <payout>7680</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="sdownes"/>
+      <payout>7680</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="tpopejoy"/>
+      <payout>7680</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="fsinopoli"/>
+      <payout>7680</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="dbaud"/>
+      <payout>7680</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="rlaohathai"/>
+      <payout>7680</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="rkeston"/>
+      <payout>7680</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="cchuong"/>
+      <payout>7680</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="ikristal"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="ylevi"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="uplayer"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="mminetti"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="pcosta"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="weolis"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="rfaltinsky"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="schao"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="khawkins"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="pvilandos"/>
+      <payout>4440</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="jstorakers"/>
+      <payout>4440</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="agarcia"/>
+      <payout>4440</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="gdrehobl"/>
+      <payout>4440</payout>
+    </place>
+    <place>
+      <position>41</position>
+      <player id="rtoft"/>
+      <payout>4440</payout>
+    </place>
+    <place>
+      <position>42</position>
+      <player id="blibrock"/>
+      <payout>4440</payout>
+    </place>
+    <place>
+      <position>43</position>
+      <player id="dnegreanu"/>
+      <payout>4440</payout>
+    </place>
+    <place>
+      <position>44</position>
+      <player id="jmignano"/>
+      <payout>4440</payout>
+    </place>
+    <place>
+      <position>45</position>
+      <player id="bedmonds"/>
+      <payout>4440</payout>
+    </place>
+    <place>
+      <position>46</position>
+      <player id="bcarter"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>47</position>
+      <player id="ndileo"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>48</position>
+      <player id="fhwang"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>49</position>
+      <player id="lkawamura"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>50</position>
+      <player id="hdemetriou"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>51</position>
+      <player id="knorbert"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>52</position>
+      <player id="gcarelli"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>53</position>
+      <player id="mkimbrell"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>54</position>
+      <player id="ksalinger"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>55</position>
+      <player id="jpires"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>56</position>
+      <player id="pkroh"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>57</position>
+      <player id="gliebel"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>58</position>
+      <player id="sho"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>59</position>
+      <player id="tmccleod"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>60</position>
+      <player id="jsheasby"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>61</position>
+      <player id="mdurand"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>62</position>
+      <player id="sshkolnik"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>63</position>
+      <player id="hla"/>
+      <payout>3060</payout>
+    </place>
+    <place>
+      <position>64</position>
+      <player id="aroper"/>
+      <payout>2680</payout>
+    </place>
+    <place>
+      <position>65</position>
+      <player id="jward"/>
+      <payout>2680</payout>
+    </place>
+    <place>
+      <position>66</position>
+      <player id="dtraverso"/>
+      <payout>2680</payout>
+    </place>
+    <place>
+      <position>67</position>
+      <player id="jheitmann"/>
+      <payout>2680</payout>
+    </place>
+    <place>
+      <position>68</position>
+      <player id="jkahn"/>
+      <payout>2680</payout>
+    </place>
+    <place>
+      <position>69</position>
+      <player id="chua"/>
+      <payout>2680</payout>
+    </place>
+    <place>
+      <position>70</position>
+      <player id="lprocopio"/>
+      <payout>2680</payout>
+    </place>
+    <place>
+      <position>71</position>
+      <player id="jmyung"/>
+      <payout>2680</payout>
+    </place>
+    <place>
+      <position>72</position>
+      <player id="aderei"/>
+      <payout>2680</payout>
+    </place>
+    <place>
+      <position>73</position>
+      <player id="gmargadonna"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>74</position>
+      <player id="heverett"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>75</position>
+      <player id="jwhite"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>76</position>
+      <player id="jallen3"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>77</position>
+      <player id="jwriter"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>78</position>
+      <player id="pnichols"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>79</position>
+      <player id="jarieh"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>80</position>
+      <player id="ndollison"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>81</position>
+      <player id="rmiller"/>
+      <payout>2300</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>3</event_num>
+  <game>&stud;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat Apr 24, 2004</start_date>
+  <end_date>Sun Apr 25, 2004</end_date>
+  <entrants>258</entrants>
+  <prize_pool>356040</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tforrest"/>
+      <payout>111440</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="xxx"/>
+      <payout>62320</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mnguyen"/>
+      <payout>37380</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="xxx"/>
+      <payout>26700</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="xxx"/>
+      <payout>22080</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="xxx"/>
+      <payout>17440</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mnguyen2"/>
+      <payout>13880</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="xxx"/>
+      <payout>9960</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="xxx"/>
+      <payout>6400</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="xxx"/>
+      <payout>6400</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="xxx"/>
+      <payout>4980</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="xxx"/>
+      <payout>4980</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="xxx"/>
+      <payout>4280</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="xxx"/>
+      <payout>4280</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="xxx"/>
+      <payout>3200</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="cviolette"/>
+      <payout>3200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>4</event_num>
+  <game>&he;</game>
+  <buyin>1500</buyin>
+  <start_date>Sun Apr 25, 2004</start_date>
+  <end_date>Mon Apr 26, 2004</end_date>
+  <entrants>608</entrants>
+  <prize_pool>839040</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="akatz"/>
+      <payout>234940</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="xxx"/>
+      <payout>121480</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="xxx"/>
+      <payout>67120</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="xxx"/>
+      <payout>58740</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="xxx"/>
+      <payout>50340</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="xxx"/>
+      <payout>41960</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="xxx"/>
+      <payout>33560</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="cmortensen2"/>
+      <payout>25180</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="xxx"/>
+      <payout>16780</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="xxx"/>
+      <payout>9220</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="xxx"/>
+      <payout>9220</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="xxx"/>
+      <payout>9220</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="xxx"/>
+      <payout>7560</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="xxx"/>
+      <payout>7560</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="xxx"/>
+      <payout>7560</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="xxx"/>
+      <payout>5880</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="xxx"/>
+      <payout>5880</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="xxx"/>
+      <payout>5880</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>5</event_num>
+  <game>&omaha8;</game>
+  <buyin>1500</buyin>
+  <start_date>Mon Apr 26, 2004</start_date>
+  <end_date>Tue Apr 27, 2004</end_date>
+  <entrants>374</entrants>
+  <prize_pool>516120</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cbibb"/>
+      <payout>160000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="xxx"/>
+      <payout>82580</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="xxx"/>
+      <payout>41340</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="xxx"/>
+      <payout>36120</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="xxx"/>
+      <payout>30960</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="xxx"/>
+      <payout>25800</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="xxx"/>
+      <payout>20640</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="xxx"/>
+      <payout>15480</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="xxx"/>
+      <payout>10320</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="xxx"/>
+      <payout>6200</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="xxx"/>
+      <payout>6200</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="xxx"/>
+      <payout>6200</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="xxx"/>
+      <payout>5160</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="xxx"/>
+      <payout>5160</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="xxx"/>
+      <payout>5160</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="xxx"/>
+      <payout>4120</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="xxx"/>
+      <payout>4120</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="xxx"/>
+      <payout>4120</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="ckastle"/>
+      <payout>3100</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="xxx"/>
+      <payout>3100</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="xxx"/>
+      <payout>3100</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="xxx"/>
+      <payout>3100</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="xxx"/>
+      <payout>3100</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="xxx"/>
+      <payout>3100</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="xxx"/>
+      <payout>3100</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="xxx"/>
+      <payout>3100</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="xxx"/>
+      <payout>3100</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="xxx"/>
+      <payout>2060</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="xxx"/>
+      <payout>2060</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="xxx"/>
+      <payout>2060</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="xxx"/>
+      <payout>2060</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="xxx"/>
+      <payout>2060</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="xxx"/>
+      <payout>2060</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="xxx"/>
+      <payout>2060</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="xxx"/>
+      <payout>2060</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="xxx"/>
+      <payout>2060</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>6</event_num>
+  <game>&plh;</game>
+  <buyin>1500</buyin>
+  <start_date>Tue Apr 27, 2004</start_date>
+  <end_date>Wed Apr 28, 2004</end_date>
+  <entrants>363</entrants>
+  <prize_pool>500940</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mnguyen2"/>
+      <payout>155420</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="lpersons"/>
+      <payout>80140</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jbartholdi"/>
+      <payout>40080</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="adassopoulos"/>
+      <payout>35060</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="kgerasimov"/>
+      <payout>30060</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="hta"/>
+      <payout>25040</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="tbloom"/>
+      <payout>20040</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="hseed"/>
+      <payout>15020</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="sford"/>
+      <payout>10020</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="bboatman"/>
+      <payout>6020</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="yphan"/>
+      <payout>6020</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="chua"/>
+      <payout>6020</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="rbrindley"/>
+      <payout>5000</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="sfischman"/>
+      <payout>5000</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="dtrong"/>
+      <payout>5000</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jbarch"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="jgrimes"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="alake"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="hlederer"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="ashahaf"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="gscott"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="pgordon"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="mwilds"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="klevy"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="gthaler"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="avirchis"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="ncoburn"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="bsatoot"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="tcloutier"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="aguoga"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="rguillory"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="dplastik"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="brygol"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="fsinopoli"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="bragauckas"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="dthompson"/>
+      <payout>2000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>7</event_num>
+  <game>&nlh;</game>
+  <buyin>1000</buyin>
+  <start_date>Wed Apr 28, 2004</start_date>
+  <end_date>Thu Apr 29, 2004</end_date>
+  <entrants>538</entrants>
+  <rebuys>534</rebuys>
+  <prize_pool>1261700</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="gdrehobl"/>
+      <payout>365900</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jjuanda"/>
+      <payout>193020</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="dnegreanu"/>
+      <payout>100940</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="pphillips"/>
+      <payout>88320</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mmatusow"/>
+      <payout>75700</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="rcardiel"/>
+      <payout>63080</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="rvaswani"/>
+      <payout>50460</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="lmarkholt"/>
+      <payout>37860</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="bstrahl"/>
+      <payout>25240</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="fsoulier"/>
+      <payout>13880</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="hlederer"/>
+      <payout>13880</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="cdykes"/>
+      <payout>13880</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="rboyd2"/>
+      <payout>11360</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="reasterday"/>
+      <payout>11360</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="dcolclough"/>
+      <payout>11360</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jazoulay"/>
+      <payout>8840</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="dcordovez"/>
+      <payout>8840</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="mjudah"/>
+      <payout>8840</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="aghaneian"/>
+      <payout>6300</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="dgrey"/>
+      <payout>6300</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="ashah"/>
+      <payout>6300</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="dcossio"/>
+      <payout>6300</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="lwosk"/>
+      <payout>6300</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="ljelsma"/>
+      <payout>6300</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="tfranklin"/>
+      <payout>6300</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="tly"/>
+      <payout>6300</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="jbolten"/>
+      <payout>6300</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="cjassinowsky"/>
+      <payout>4420</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="gapplehans"/>
+      <payout>4420</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="dquach"/>
+      <payout>4420</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="rbrodie"/>
+      <payout>4420</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="jgrimes"/>
+      <payout>4420</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="bhaveson"/>
+      <payout>4420</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="pivey"/>
+      <payout>4420</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="idobson"/>
+      <payout>4420</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="jfreedman"/>
+      <payout>4420</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="dfarmer"/>
+      <payout>3780</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="dtomko2"/>
+      <payout>3780</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="lbernstein"/>
+      <payout>3780</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="benright"/>
+      <payout>3780</payout>
+    </place>
+    <place>
+      <position>41</position>
+      <player id="tmccormick"/>
+      <payout>3780</payout>
+    </place>
+    <place>
+      <position>42</position>
+      <player id="tnguyen"/>
+      <payout>3780</payout>
+    </place>
+    <place>
+      <position>43</position>
+      <player id="yzhu"/>
+      <payout>3780</payout>
+    </place>
+    <place>
+      <position>44</position>
+      <player id="tpniak"/>
+      <payout>3780</payout>
+    </place>
+    <place>
+      <position>45</position>
+      <player id="jleva"/>
+      <payout>3780</payout>
+    </place>
+    <place>
+      <position>46</position>
+      <player id="dweisberger"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>47</position>
+      <player id="bbuffington"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>48</position>
+      <player id="cackerman"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>49</position>
+      <player id="rboatman"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>50</position>
+      <player id="rrose"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>51</position>
+      <player id="rthompson"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>52</position>
+      <player id="rheeb"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>53</position>
+      <player id="gresnick"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>54</position>
+      <player id="bgreenstein"/>
+      <payout>3160</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>8</event_num>
+  <game>&plo;</game>
+  <buyin>2000</buyin>
+  <start_date>Thu Apr 29, 2004</start_date>
+  <end_date>Fri Apr 30, 2004</end_date>
+  <entrants>145</entrants>
+  <prize_pool>569440</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cgiang"/>
+      <payout>187920</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="rwilliamson"/>
+      <payout>103580</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jlisandro"/>
+      <payout>56940</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="dcolclough"/>
+      <payout>45560</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="hla"/>
+      <payout>34160</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="kjohansen"/>
+      <payout>28480</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mwattel"/>
+      <payout>22780</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="pmaxfield"/>
+      <payout>17080</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="cferguson"/>
+      <payout>11380</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="jhoeppner"/>
+      <payout>7980</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mpancer"/>
+      <payout>7980</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="cbjorin"/>
+      <payout>7980</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="asarkeshik"/>
+      <payout>6840</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="dtomko"/>
+      <payout>6840</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="gpitsilides"/>
+      <payout>6840</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="olongson"/>
+      <payout>5700</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="elindgren"/>
+      <payout>5700</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="bcorman"/>
+      <payout>5700</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>9</event_num>
+  <game>&nlh;</game>
+  <description>PSO Invitational</description>
+  <buyin>1500</buyin>
+  <start_date>Fri Apr 30, 2004</start_date>
+  <end_date>Sat May 1, 2004</end_date>
+  <entrants>831</entrants>
+  <prize_pool>1146780</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sfischman"/>
+      <payout>300000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jawada"/>
+      <payout>156320</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="kwashington"/>
+      <payout>91740</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="sepstein"/>
+      <payout>80280</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mmagazu"/>
+      <payout>68800</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="brodman"/>
+      <payout>57340</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="rjohnson"/>
+      <payout>45880</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="tscali"/>
+      <payout>34400</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jviriyayuthakorn"/>
+      <payout>22940</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="jwomack"/>
+      <payout>12620</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mmizrachi"/>
+      <payout>12620</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="aconver"/>
+      <payout>12620</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="smelton"/>
+      <payout>10320</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mnguyen2"/>
+      <payout>10320</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="tnguyen"/>
+      <payout>10320</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="aramdin"/>
+      <payout>8020</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="tcousineau"/>
+      <payout>8020</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="fbonyadi"/>
+      <payout>8020</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="lstarkweather"/>
+      <payout>5740</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="eseidel"/>
+      <payout>5740</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="dbagheri"/>
+      <payout>5740</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="mmantin"/>
+      <payout>5740</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="rgraham"/>
+      <payout>5740</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="eng"/>
+      <payout>5740</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="jfreedman"/>
+      <payout>5740</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="jrothstein"/>
+      <payout>5740</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="slauderdale"/>
+      <payout>5740</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="atran3"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="akorsin"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="ncoburn"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="wwooldridge"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="ggeros"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="csamos"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="jtraniello"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="yzhu"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="jcassidy"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="acardoza"/>
+      <payout>3320</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="jreiss"/>
+      <payout>3320</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="ewoodward"/>
+      <payout>3320</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="pchakbazof"/>
+      <payout>3320</payout>
+    </place>
+    <place>
+      <position>41</position>
+      <player id="afritz"/>
+      <payout>3320</payout>
+    </place>
+    <place>
+      <position>42</position>
+      <player id="pearle"/>
+      <payout>3320</payout>
+    </place>
+    <place>
+      <position>43</position>
+      <player id="sbrown"/>
+      <payout>3320</payout>
+    </place>
+    <place>
+      <position>44</position>
+      <player id="ghughes"/>
+      <payout>3320</payout>
+    </place>
+    <place>
+      <position>45</position>
+      <player id="rgrijalva"/>
+      <payout>3320</payout>
+    </place>
+    <place>
+      <position>46</position>
+      <player id="dshores"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>47</position>
+      <player id="jworth"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>48</position>
+      <player id="jbartholdi"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>49</position>
+      <player id="pfriedman"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>50</position>
+      <player id="fsinopoli"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>51</position>
+      <player id="jdagostino"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>52</position>
+      <player id="bcaldwell"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>53</position>
+      <player id="mhusa"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>54</position>
+      <player id="jjones"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>55</position>
+      <player id="jazoulay"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>56</position>
+      <player id="thufnagle"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>57</position>
+      <player id="sleveson"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>58</position>
+      <player id="tbloom"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>59</position>
+      <player id="mlutes"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>60</position>
+      <player id="taron"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>61</position>
+      <player id="aamirkhanian"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>62</position>
+      <player id="glampert"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>63</position>
+      <player id="batkinson"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>64</position>
+      <player id="dpain"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>65</position>
+      <player id="shohn"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>66</position>
+      <player id="shempkins"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>67</position>
+      <player id="gmascio"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>68</position>
+      <player id="swolfinbarger"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>69</position>
+      <player id="pshoquist"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>70</position>
+      <player id="epellegrini"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>71</position>
+      <player id="kflaton"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>72</position>
+      <player id="kmountain"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>73</position>
+      <player id="chinchcliffe"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>74</position>
+      <player id="rredman"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>75</position>
+      <player id="mscott"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>76</position>
+      <player id="scasey"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>77</position>
+      <player id="dpowers"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>78</position>
+      <player id="sbernier"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>79</position>
+      <player id="ndileo"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>80</position>
+      <player id="ddaseke"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>81</position>
+      <player id="lalvarez"/>
+      <payout>1720</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>10</event_num>
+  <game>&stud8;</game>
+  <buyin>2000</buyin>
+  <start_date>Sat May 1, 2004</start_date>
+  <end_date>Sun May 2, 2004</end_date>
+  <entrants>224</entrants>
+  <prize_pool>412160</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cviolette"/>
+      <payout>135900</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="pkaufman"/>
+      <payout>69100</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="gtimberlake"/>
+      <payout>39380</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jhoang"/>
+      <payout>30920</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="ablumen"/>
+      <payout>25560</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="ledelman"/>
+      <payout>20200</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jwynn"/>
+      <payout>16080</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="rturner"/>
+      <payout>11540</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="dsaab"/>
+      <payout>7420</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="mappleman"/>
+      <payout>7420</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mgregorich"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="cshoten"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="mnguyen"/>
+      <payout>4940</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="dchiu"/>
+      <payout>4940</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="pdarden"/>
+      <payout>3700</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="rfaltinsky"/>
+      <payout>3700</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="fthompson"/>
+      <payout>2480</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="sford"/>
+      <payout>2480</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="batkinson"/>
+      <payout>2480</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="rsmith"/>
+      <payout>2480</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="cbarker"/>
+      <payout>2480</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="mragir"/>
+      <payout>2480</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="plombardo"/>
+      <payout>2480</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="jcernuto"/>
+      <payout>2480</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>11</event_num>
+  <game>&he;</game>
+  <buyin>2500</buyin>
+  <start_date>Sun May 2, 2004</start_date>
+  <end_date>Mon May 3, 2004</end_date>
+  <entrants>237</entrants>
+  <prize_pool>515100</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ebalas"/>
+      <payout>174440</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="sshkolnik"/>
+      <payout>95820</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="pnichols"/>
+      <payout>49060</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="pmaxfield"/>
+      <payout>38160</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="hlederer"/>
+      <payout>32700</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jmcclendon"/>
+      <payout>27600</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="dnegreanu"/>
+      <payout>21800</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="joetker"/>
+      <payout>16360</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jcernuto"/>
+      <payout>10900</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="pgallagher"/>
+      <payout>6540</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="lasmo"/>
+      <payout>6540</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="dplastik"/>
+      <payout>6540</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="sminelli"/>
+      <payout>5460</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="lkern"/>
+      <payout>5460</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mmitchener"/>
+      <payout>5460</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="rlajeune"/>
+      <payout>4360</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="weichel"/>
+      <payout>4360</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="sbaker"/>
+      <payout>4360</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="kjames"/>
+      <payout>3280</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="eross"/>
+      <payout>3280</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="cjassinowsky"/>
+      <payout>3280</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="aperes"/>
+      <payout>3280</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="dtempleton"/>
+      <payout>3280</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="jfriedberg"/>
+      <payout>3280</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="hdemetriou"/>
+      <payout>3280</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="phellmuth"/>
+      <payout>3280</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="sford"/>
+      <payout>3280</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>12</event_num>
+  <game>&horse;</game>
+  <buyin>2000</buyin>
+  <start_date>Mon May 3, 2004</start_date>
+  <end_date>Tue May 4, 2004</end_date>
+  <entrants>166</entrants>
+  <prize_pool>332000</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sfischman"/>
+      <payout>100200</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jcover"/>
+      <payout>54040</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="aboston"/>
+      <payout>33600</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="ctsiprailidis"/>
+      <payout>24440</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="gmascio"/>
+      <payout>19860</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="dzewin"/>
+      <payout>15280</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mwattel"/>
+      <payout>12220</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="cgrigorian"/>
+      <payout>9160</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="bnadell"/>
+      <payout>5500</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="mnguyen"/>
+      <payout>5500</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="efishman"/>
+      <payout>4880</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="cviolette"/>
+      <payout>4880</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="denciso"/>
+      <payout>4280</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="yzhu"/>
+      <payout>4280</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mmccluskey"/>
+      <payout>3660</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="mibrahim"/>
+      <payout>3660</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>13</event_num>
+  <game>&nlh;</game>
+  <buyin>5000</buyin>
+  <start_date>Tue May 4, 2004</start_date>
+  <end_date>Wed May 5, 2004</end_date>
+  <entrants>254</entrants>
+  <prize_pool>1193800</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tkeller"/>
+      <payout>382020</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mknijff"/>
+      <payout>210100</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jsousa"/>
+      <payout>107520</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="lwatkinson"/>
+      <payout>83560</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="sbatshon"/>
+      <payout>71620</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="pclark"/>
+      <payout>59680</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="yphan"/>
+      <payout>47760</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="pmarmorstein"/>
+      <payout>35820</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="fsinopoli"/>
+      <payout>23880</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="dtomko"/>
+      <payout>14320</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="scolclough"/>
+      <payout>14320</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="bgreenstein"/>
+      <payout>14320</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="mepstein"/>
+      <payout>11940</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jbeevers"/>
+      <payout>11940</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="ssheikram"/>
+      <payout>11940</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="tgrimes"/>
+      <payout>9540</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="alellouche"/>
+      <payout>9540</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="rlevine"/>
+      <payout>9540</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="fshaffer"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="amiller"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="mfeduniak"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="bjungblut"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="bgazes"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="tcousineau"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="kjames"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="bhaveson"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="jvogl"/>
+      <payout>7160</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>14</event_num>
+  <game>&stud8;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed May 5, 2004</start_date>
+  <end_date>Thu May 6, 2004</end_date>
+  <entrants>213</entrants>
+  <prize_pool>293940</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hhabib"/>
+      <payout>93060</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="tpolk"/>
+      <payout>51440</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="btang"/>
+      <payout>29860</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="psherr"/>
+      <payout>22040</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="brodman"/>
+      <payout>18220</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jhelfert"/>
+      <payout>14400</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="ljohnson"/>
+      <payout>11460</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="thufnagle"/>
+      <payout>8220</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="rlong"/>
+      <payout>5300</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="jknight"/>
+      <payout>5300</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="phonas"/>
+      <payout>4120</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="ghutzler"/>
+      <payout>4120</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jsmeraglia"/>
+      <payout>3520</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="tfranklin"/>
+      <payout>3520</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mkrescanko"/>
+      <payout>2640</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="cfoster"/>
+      <payout>2640</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="gtimberlake"/>
+      <payout>1760</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="jongenars"/>
+      <payout>1760</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="mgottlieb"/>
+      <payout>1760</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="akorsin"/>
+      <payout>1760</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="vperches"/>
+      <payout>1760</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="mwaggoner"/>
+      <payout>1760</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="kjett"/>
+      <payout>1760</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="rskaggs"/>
+      <payout>1760</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>15</event_num>
+  <game>&he;</game>
+  <buyin>2000</buyin>
+  <start_date>Thu May 6, 2004</start_date>
+  <end_date>Fri May 7, 2004</end_date>
+  <entrants>287</entrants>
+  <prize_pool>528080</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dnegreanu"/>
+      <payout>169100</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="chinchcliffe"/>
+      <payout>92940</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mnguyen2"/>
+      <payout>47520</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="tpark"/>
+      <payout>36960</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jmeehan"/>
+      <payout>31680</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jgentry"/>
+      <payout>26400</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jperez"/>
+      <payout>21120</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jphillips"/>
+      <payout>15840</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="dcordovez"/>
+      <payout>10560</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="jparker"/>
+      <payout>6340</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mmatusow"/>
+      <payout>6340</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jbeevers"/>
+      <payout>6340</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="mseyedin"/>
+      <payout>5280</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mobryan"/>
+      <payout>5280</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="rklein"/>
+      <payout>5280</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="mhalford"/>
+      <payout>4220</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="cnguyen"/>
+      <payout>4220</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="eseidel"/>
+      <payout>4220</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="sfischman"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="rvaswani"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="mgabert"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="pnguyen"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="bfinn"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="mgregorich"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="mgreen"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="nhooman"/>
+      <payout>3160</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="suchida"/>
+      <payout>3160</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>16</event_num>
+  <game>&deucenl;</game>
+  <buyin>5000</buyin>
+  <start_date>Fri May 7, 2004</start_date>
+  <end_date>Fri May 7, 2004</end_date>
+  <entrants>46</entrants>
+  <rebuys>84</rebuys>
+  <prize_pool>740500</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bgreenstein"/>
+      <payout>296200</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="cferguson"/>
+      <payout>170315</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="wwilkinson"/>
+      <payout>88860</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="hlederer"/>
+      <payout>66645</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="cgiang"/>
+      <payout>51835</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="szolotow"/>
+      <payout>37025</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="lberman"/>
+      <payout>29620</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>17</event_num>
+  <game>&heshoot;</game>
+  <buyin>1500</buyin>
+  <start_date>Fri May 7, 2004</start_date>
+  <end_date>Sat May 8, 2004</end_date>
+  <entrants>240</entrants>
+  <prize_pool>331200</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="kliebert"/>
+      <payout>110180</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="ksong"/>
+      <payout>58300</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bparker"/>
+      <payout>29800</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jcassidy"/>
+      <payout>23180</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mtashman"/>
+      <payout>19880</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="idonev"/>
+      <payout>16560</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="ahallenbeck"/>
+      <payout>13240</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="rebanks"/>
+      <payout>9940</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jandlovec"/>
+      <payout>6620</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="rrosen"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="brodman"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="tbleak"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="tgeorge"/>
+      <payout>3500</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jrand"/>
+      <payout>3500</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="rpoulter"/>
+      <payout>3500</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="rgeers"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="mparisi"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="dwarga"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="akatz"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="dpham"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="rfaltinsky"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="ssunar"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="ebuchman"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="abrenes"/>
+      <payout>2000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>18</event_num>
+  <game>&nlhshoot;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat May 8, 2004</start_date>
+  <end_date>Sun May 9, 2004</end_date>
+  <entrants>400</entrants>
+  <prize_pool>522000</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="pnguyen"/>
+      <payout>180000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="kgerasimov"/>
+      <payout>100000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="msalem"/>
+      <payout>50000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jrine"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jjuanda"/>
+      <payout>33000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="aderei"/>
+      <payout>26000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jtran"/>
+      <payout>19000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="aboyer"/>
+      <payout>12000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="dnegreanu"/>
+      <payout>5000</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="bkruskol"/>
+      <payout>5000</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="aduke"/>
+      <payout>5000</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="dwaterman"/>
+      <payout>5000</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jgrew"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="tduong"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="gthaler"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="ppinone"/>
+      <payout>4000</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="jheitmann"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="rboyd2"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="rhughes"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="cmatthews"/>
+      <payout>3000</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="jlane"/>
+      <payout>2500</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="bduarte"/>
+      <payout>2500</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="pchakbazof"/>
+      <payout>2500</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="kflaton"/>
+      <payout>2500</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="jhelppi"/>
+      <payout>2500</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="fberger"/>
+      <payout>2500</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="lasmo"/>
+      <payout>2500</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="sbeyer"/>
+      <payout>2500</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="dnguyen2"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="kkolberg"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="khong"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="knaughton"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="mcox"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="tcousineau"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="dpham"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="pgordon"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="lcole"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="jspadavecchia"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="bjungblut"/>
+      <payout>2000</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="rrosen"/>
+      <payout>2000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>19</event_num>
+  <game>&omaha8;</game>
+  <buyin>2000</buyin>
+  <start_date>Sun May 9, 2004</start_date>
+  <end_date>Mon May 10, 2004</end_date>
+  <entrants>234</entrants>
+  <prize_pool>430560</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="aduke"/>
+      <payout>137860</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="rgraham"/>
+      <payout>75780</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="eseidel"/>
+      <payout>38740</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="rbonavida"/>
+      <payout>30140</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="tbrunson"/>
+      <payout>25840</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="dmcnamara"/>
+      <payout>21520</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mstern"/>
+      <payout>17220</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="shoffmaster"/>
+      <payout>12920</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="tbleak"/>
+      <payout>8620</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="ksong"/>
+      <payout>5160</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="cbailey"/>
+      <payout>5160</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="bjungblut"/>
+      <payout>5160</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="msantos"/>
+      <payout>4300</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="acobb"/>
+      <payout>4300</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="bboatman"/>
+      <payout>3870</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="aleonidas"/>
+      <payout>3870</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="bjohnston"/>
+      <payout>3440</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="mledis"/>
+      <payout>3440</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="hlederer"/>
+      <payout>2580</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="kervin"/>
+      <payout>2580</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="phellmuth"/>
+      <payout>2580</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="jlarson"/>
+      <payout>2580</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="tkilkanen"/>
+      <payout>2580</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="thansen"/>
+      <payout>2580</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="mjudah"/>
+      <payout>2580</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="mnguyen2"/>
+      <payout>2580</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="aboston"/>
+      <payout>2580</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>20</event_num>
+  <game>&he;</game>
+  <description>Ladies Event</description>
+  <buyin>1000</buyin>
+  <start_date>Mon May 9, 2004</start_date>
+  <end_date>Mon May 10, 2004</end_date>
+  <entrants>201</entrants>
+  <prize_pool>182910</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hdoan"/>
+      <payout>58530</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mshiu"/>
+      <payout>32200</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="tphan2"/>
+      <payout>16460</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="kjett"/>
+      <payout>12800</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="sisaacs"/>
+      <payout>10980</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="bmchugh"/>
+      <payout>9140</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="scasey"/>
+      <payout>7320</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jburnett"/>
+      <payout>5480</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="rwexler"/>
+      <payout>3660</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="pserat"/>
+      <payout>2200</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="rjaraczeski"/>
+      <payout>2200</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="dluong2"/>
+      <payout>2200</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="emartin"/>
+      <payout>1820</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="troland"/>
+      <payout>1820</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="cpie"/>
+      <payout>1820</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="chung"/>
+      <payout>1460</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="kwolfson"/>
+      <payout>1460</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="creskovac"/>
+      <payout>1460</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="btanenbaum"/>
+      <payout>1100</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="mwaggoner"/>
+      <payout>1100</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="dpechac"/>
+      <payout>1100</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="bvasquez"/>
+      <payout>1100</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="khill"/>
+      <payout>1100</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="csiegel"/>
+      <payout>1100</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="aspinetti"/>
+      <payout>1100</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="slindig"/>
+      <payout>1100</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="mkopp"/>
+      <payout>1100</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>21</event_num>
+  <game>&plh;</game>
+  <buyin>2000</buyin>
+  <start_date>Mon May 10, 2004</start_date>
+  <end_date>Tue May 11, 2004</end_date>
+  <entrants>324</entrants>
+  <prize_pool>596160</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="aesfandiari"/>
+      <payout>184860</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="pnguyen"/>
+      <payout>95380</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="idonev"/>
+      <payout>47700</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="cferguson"/>
+      <payout>41740</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mobryan"/>
+      <payout>35760</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="phellmuth"/>
+      <payout>29800</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="ccompton"/>
+      <payout>23840</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="tcousineau"/>
+      <payout>17880</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="vnygaard"/>
+      <payout>11920</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="jstudley"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="rwilliamson"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="pchakbazof"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="wwooldridge"/>
+      <payout>5960</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="rboyd2"/>
+      <payout>5960</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mkeiner"/>
+      <payout>5960</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="cbigler"/>
+      <payout>4760</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="kkeller"/>
+      <payout>4760</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="mluske"/>
+      <payout>4760</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="ymuruz"/>
+      <payout>3580</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="mnguyen"/>
+      <payout>3580</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="agreen"/>
+      <payout>3580</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="wgriffin"/>
+      <payout>3580</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="ebeebe"/>
+      <payout>3580</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="ohalland"/>
+      <payout>3580</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="bcowan"/>
+      <payout>3580</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="ssagstuen"/>
+      <payout>3580</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="dplastik"/>
+      <payout>3580</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="gcalvert"/>
+      <payout>2380</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="ptestud"/>
+      <payout>2380</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="phallan"/>
+      <payout>2380</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="mjudah"/>
+      <payout>2380</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="brygol"/>
+      <payout>2380</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="nwade"/>
+      <payout>2380</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="fberger"/>
+      <payout>2380</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="pheneghan"/>
+      <payout>2380</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="cglorioso"/>
+      <payout>2380</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>22</event_num>
+  <game>&omaha8;</game>
+  <description>World Championship</description>
+  <buyin>5000</buyin>
+  <start_date>Tue May 11, 2004</start_date>
+  <end_date>Wed May 12, 2004</end_date>
+  <entrants>121</entrants>
+  <prize_pool>568700</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bjungblut"/>
+      <payout>187720</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jcernuto"/>
+      <payout>103500</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bcarter"/>
+      <payout>56860</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="hseed"/>
+      <payout>45500</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mwattel"/>
+      <payout>34120</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="elindgren"/>
+      <payout>28440</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="thansen"/>
+      <payout>22740</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mnguyen2"/>
+      <payout>17060</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="klongfellow"/>
+      <payout>11380</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="tbrunson"/>
+      <payout>7960</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="sgenard"/>
+      <payout>7960</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="kgerasimov"/>
+      <payout>7960</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="ccohen"/>
+      <payout>6820</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="ddubois"/>
+      <payout>6820</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mgregorich"/>
+      <payout>6820</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jarieh"/>
+      <payout>5680</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="jlisandro"/>
+      <payout>5680</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="fhavard"/>
+      <payout>5680</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>23</event_num>
+  <game>&nlh;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed May 12, 2004</start_date>
+  <end_date>Thu May 13, 2004</end_date>
+  <entrants>834</entrants>
+  <prize_pool>1150920</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tforrest"/>
+      <payout>300300</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="spritchett"/>
+      <payout>157820</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bslagle"/>
+      <payout>92080</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="doswald"/>
+      <payout>80560</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="smohler"/>
+      <payout>69060</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="rgoldfarb"/>
+      <payout>57540</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="tnguyen"/>
+      <payout>46040</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="kflaton"/>
+      <payout>34520</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="proche"/>
+      <payout>23020</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="cglorioso"/>
+      <payout>12660</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mmichelson"/>
+      <payout>12660</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jvogl"/>
+      <payout>12660</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="cjett"/>
+      <payout>10360</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="kevanowski"/>
+      <payout>10360</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="dodea"/>
+      <payout>10360</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="amahmood"/>
+      <payout>8060</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="mwilds"/>
+      <payout>8060</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="matlani"/>
+      <payout>8060</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="sshkolnik"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="ppoels"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="sgrizzle"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="rclouston"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="jginsbach"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="pbatterberry"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="canthony"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="pvilandos"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="mguttler"/>
+      <payout>5760</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="jbrown2"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="tluong"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="cnielsen"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="hskjonstad"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="skhromov"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="awheeler"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="rebanks"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="kadams"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="jfuji"/>
+      <payout>4020</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="pniemala"/>
+      <payout>3340</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="schen"/>
+      <payout>3340</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="msherman"/>
+      <payout>3340</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="tzahner"/>
+      <payout>3340</payout>
+    </place>
+    <place>
+      <position>41</position>
+      <player id="ncoburn"/>
+      <payout>3340</payout>
+    </place>
+    <place>
+      <position>42</position>
+      <player id="kouilty"/>
+      <payout>3340</payout>
+    </place>
+    <place>
+      <position>43</position>
+      <player id="gbowles"/>
+      <payout>3340</payout>
+    </place>
+    <place>
+      <position>44</position>
+      <player id="mjoyce"/>
+      <payout>3340</payout>
+    </place>
+    <place>
+      <position>45</position>
+      <player id="vkovalchuk"/>
+      <payout>3340</payout>
+    </place>
+    <place>
+      <position>46</position>
+      <player id="rlarsen"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>47</position>
+      <player id="atannous"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>48</position>
+      <player id="jsadauskas"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>49</position>
+      <player id="akorsin"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>50</position>
+      <player id="scasey"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>51</position>
+      <player id="lspear"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>52</position>
+      <player id="ebeebe"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>53</position>
+      <player id="jtolbert"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>54</position>
+      <player id="tlagerborg"/>
+      <payout>2700</payout>
+    </place>
+    <place>
+      <position>55</position>
+      <player id="tsessions"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>56</position>
+      <player id="kliebert"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>57</position>
+      <player id="pmagriel"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>58</position>
+      <player id="dchomyn"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>59</position>
+      <player id="mnikjouian"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>60</position>
+      <player id="bhorn"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>61</position>
+      <player id="jmuller"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>62</position>
+      <player id="sswearingen"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>63</position>
+      <player id="rgeers"/>
+      <payout>2300</payout>
+    </place>
+    <place>
+      <position>64</position>
+      <player id="tduncker"/>
+      <payout>2020</payout>
+    </place>
+    <place>
+      <position>65</position>
+      <player id="bsehlstedt"/>
+      <payout>2020</payout>
+    </place>
+    <place>
+      <position>66</position>
+      <player id="rlissenborough"/>
+      <payout>2020</payout>
+    </place>
+    <place>
+      <position>67</position>
+      <player id="sjohnston"/>
+      <payout>2020</payout>
+    </place>
+    <place>
+      <position>68</position>
+      <player id="cnguyen2"/>
+      <payout>2020</payout>
+    </place>
+    <place>
+      <position>69</position>
+      <player id="emoncada"/>
+      <payout>2020</payout>
+    </place>
+    <place>
+      <position>70</position>
+      <player id="rfaltinsky"/>
+      <payout>2020</payout>
+    </place>
+    <place>
+      <position>71</position>
+      <player id="bplona"/>
+      <payout>2020</payout>
+    </place>
+    <place>
+      <position>72</position>
+      <player id="rskingle"/>
+      <payout>2020</payout>
+    </place>
+    <place>
+      <position>73</position>
+      <player id="bdahl"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>74</position>
+      <player id="mmagazu"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>75</position>
+      <player id="sgray"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>76</position>
+      <player id="tkilkanen"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>77</position>
+      <player id="tmcevoy"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>78</position>
+      <player id="oanderson"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>79</position>
+      <player id="jmcginty"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>80</position>
+      <player id="bdaugherty"/>
+      <payout>1720</payout>
+    </place>
+    <place>
+      <position>81</position>
+      <player id="mlaing"/>
+      <payout>1720</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>24</event_num>
+  <game>&stud;</game>
+  <description>World Championship</description>
+  <buyin>5000</buyin>
+  <start_date>Thu May 13, 2004</start_date>
+  <end_date>Fri May 14, 2004</end_date>
+  <entrants>144</entrants>
+  <prize_pool>676800</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jawada"/>
+      <payout>221000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mluske"/>
+      <payout>120800</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jlisandro"/>
+      <payout>74440</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="nfrangos"/>
+      <payout>54140</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="czeidman"/>
+      <payout>44000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jjuanda"/>
+      <payout>33840</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="rlevine"/>
+      <payout>27080</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="dtomko"/>
+      <payout>20300</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="pmeyers"/>
+      <payout>12180</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="cgiang"/>
+      <payout>12180</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="bstrahl"/>
+      <payout>10820</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="yphan"/>
+      <payout>10820</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="dlevi"/>
+      <payout>9480</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jhoeppner"/>
+      <payout>9480</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jmcmanus"/>
+      <payout>8120</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="meskandani"/>
+      <payout>8120</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>25</event_num>
+  <game>&plh;</game>
+  <buyin>3000</buyin>
+  <start_date>Fri May 14, 2004</start_date>
+  <end_date>Sat May 15, 2004</end_date>
+  <entrants>316</entrants>
+  <prize_pool>872160</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ggriffin"/>
+      <payout>270420</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="gbush"/>
+      <payout>139540</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="gthaler"/>
+      <payout>69780</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="tlee"/>
+      <payout>61060</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="rvaswani"/>
+      <payout>52320</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="fsinopoli"/>
+      <payout>43600</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="phellmuth"/>
+      <payout>34880</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="pnguyen"/>
+      <payout>26160</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jreed2"/>
+      <payout>17440</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="rhollink"/>
+      <payout>10460</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mcole"/>
+      <payout>10460</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="tpersson"/>
+      <payout>10460</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="chua"/>
+      <payout>8720</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="aleonidas"/>
+      <payout>8720</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="tcloutier"/>
+      <payout>8720</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="khawkins"/>
+      <payout>6980</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="ccoleman"/>
+      <payout>6980</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="tnguyen"/>
+      <payout>6980</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="mstern"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="bgarber"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="ahellmann"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="ssagstuen"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="rmathis"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="canastasyadis"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="tkeller"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="suchida"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="mmccluskey"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="mlefkowitz"/>
+      <payout>3480</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="szolotow"/>
+      <payout>3480</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="tbrunson"/>
+      <payout>3480</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="garenson"/>
+      <payout>3480</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="akorsin"/>
+      <payout>3480</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="mpilkington"/>
+      <payout>3480</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="fhavard"/>
+      <payout>3480</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="bthompson"/>
+      <payout>3480</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="mbanin"/>
+      <payout>3480</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>26</event_num>
+  <game>&razz;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat May 15, 2004</start_date>
+  <end_date>Sun May 16, 2004</end_date>
+  <entrants>195</entrants>
+  <prize_pool>269100</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tcloutier"/>
+      <payout>90500</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="rboyd2"/>
+      <payout>46440</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="hlederer"/>
+      <payout>28600</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="acastellano"/>
+      <payout>21520</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jjuanda"/>
+      <payout>17500</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="hcorkins"/>
+      <payout>13460</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jspadavecchia"/>
+      <payout>10760</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="cbjorin"/>
+      <payout>8080</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="dchiu"/>
+      <payout>4840</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="msexton"/>
+      <payout>4840</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mwerner"/>
+      <payout>4300</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="cjett"/>
+      <payout>4300</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="thufnagle"/>
+      <payout>3760</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="rkeston"/>
+      <payout>3760</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="dodea"/>
+      <payout>3220</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="mklenansky"/>
+      <payout>3220</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>27</event_num>
+  <game>&deucetriple;</game>
+  <buyin>1000</buyin>
+  <start_date>Sun May 16, 2004</start_date>
+  <end_date>Sun May 16, 2004</end_date>
+  <entrants>82</entrants>
+  <rebuys>?</rebuys>
+  <prize_pool>227600</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="fbonyadi"/>
+      <payout>86980</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="tly"/>
+      <payout>51300</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="tfranklin"/>
+      <payout>31220</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="tnguyen"/>
+      <payout>24540</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jmervis"/>
+      <payout>17840</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="eelezra"/>
+      <payout>11160</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>28</event_num>
+  <game>&nlh;</game>
+  <description>Seniors Event</description>
+  <buyin>1000</buyin>
+  <start_date>Sun May 16, 2004</start_date>
+  <end_date>Mon May 17, 2004</end_date>
+  <entrants>519</entrants>
+  <prize_pool>472290</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ggibbs"/>
+      <payout>136960</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="cmckelvey"/>
+      <payout>72170</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="rdeslippe"/>
+      <payout>37780</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="awellstone"/>
+      <payout>22060</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="msalem"/>
+      <payout>28340</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="dgrove"/>
+      <payout>23620</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="pwarner"/>
+      <payout>18900</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="gdurros"/>
+      <payout>14160</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="shazer"/>
+      <payout>9440</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="msica"/>
+      <payout>5200</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="ndollison"/>
+      <payout>5200</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="vcalvino"/>
+      <payout>5200</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="rsweedler"/>
+      <payout>4260</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="dweum"/>
+      <payout>4260</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="bmullins"/>
+      <payout>4260</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="rcochran"/>
+      <payout>3300</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="cvartti"/>
+      <payout>3300</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="msvobodny"/>
+      <payout>3300</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="dromstad"/>
+      <payout>2360</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="mzeledon"/>
+      <payout>2360</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="pcastelluccio"/>
+      <payout>2360</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="phaugan"/>
+      <payout>2360</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="dtempleton"/>
+      <payout>2360</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="afidellow"/>
+      <payout>2360</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="gviolette"/>
+      <payout>2360</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="mmills"/>
+      <payout>2360</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="dfarmer"/>
+      <payout>2360</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="mrosenthal"/>
+      <payout>1660</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="rdisilvestro"/>
+      <payout>1660</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="wfain"/>
+      <payout>1660</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="cklinck"/>
+      <payout>1660</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="jhopperstead"/>
+      <payout>1660</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="jbuss"/>
+      <payout>1660</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="enewton"/>
+      <payout>1660</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="imcdonald"/>
+      <payout>1660</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="rmckay"/>
+      <payout>1660</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="dfagan"/>
+      <payout>1420</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="ppfeil"/>
+      <payout>1420</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="eostreicher"/>
+      <payout>1420</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="hfitzpatrick"/>
+      <payout>1420</payout>
+    </place>
+    <place>
+      <position>41</position>
+      <player id="nsalameh"/>
+      <payout>1420</payout>
+    </place>
+    <place>
+      <position>42</position>
+      <player id="abrodsky"/>
+      <payout>1420</payout>
+    </place>
+    <place>
+      <position>43</position>
+      <player id="atran"/>
+      <payout>1420</payout>
+    </place>
+    <place>
+      <position>44</position>
+      <player id="bjohnston"/>
+      <payout>1420</payout>
+    </place>
+    <place>
+      <position>45</position>
+      <player id="dvines"/>
+      <payout>1420</payout>
+    </place>
+    <place>
+      <position>46</position>
+      <player id="lmiller"/>
+      <payout>1180</payout>
+    </place>
+    <place>
+      <position>47</position>
+      <player id="kgreystoke"/>
+      <payout>1180</payout>
+    </place>
+    <place>
+      <position>48</position>
+      <player id="pheneghan"/>
+      <payout>1180</payout>
+    </place>
+    <place>
+      <position>49</position>
+      <player id="dmoriarty"/>
+      <payout>1180</payout>
+    </place>
+    <place>
+      <position>50</position>
+      <player id="rpreston"/>
+      <payout>1180</payout>
+    </place>
+    <place>
+      <position>51</position>
+      <player id="bdaugherty"/>
+      <payout>1180</payout>
+    </place>
+    <place>
+      <position>52</position>
+      <player id="swilson"/>
+      <payout>1180</payout>
+    </place>
+    <place>
+      <position>53</position>
+      <player id="dhanke"/>
+      <payout>1180</payout>
+    </place>
+    <place>
+      <position>54 (tie)</position>
+      <player id="jligator"/>
+      <payout>590</payout>
+    </place>
+    <place>
+      <position>54 (tie)</position>
+      <player id="escharf"/>
+      <payout>590</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>29</event_num>
+  <game>&he;</game>
+  <buyin>5000</buyin>
+  <start_date>Mon May 17, 2004</start_date>
+  <end_date>Tue May 18, 2004</end_date>
+  <entrants>213</entrants>
+  <prize_pool>1001100</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jhennigan"/>
+      <payout>325360</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="atran"/>
+      <payout>170200</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="pgallagher"/>
+      <payout>91120</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jmcmanus"/>
+      <payout>70080</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="dchiu"/>
+      <payout>60060</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jsyavik"/>
+      <payout>50060</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="epowers"/>
+      <payout>40040</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="tdang"/>
+      <payout>30040</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="tcloutier"/>
+      <payout>20020</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="tnguyen2"/>
+      <payout>12020</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mkeikoan"/>
+      <payout>12020</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="mpollak"/>
+      <payout>12020</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jlisandro"/>
+      <payout>10020</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="dplastik"/>
+      <payout>10020</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mfeduniak"/>
+      <payout>10020</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="tbrunson"/>
+      <payout>8000</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="cgiang"/>
+      <payout>8000</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="melie"/>
+      <payout>8000</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="jduthie"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="jjones"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="jspadavecchia"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="eelezra"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="cbibb"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="bstadlbauer"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="gpagel"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="mnguyen2"/>
+      <payout>6000</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="dtomko"/>
+      <payout>6000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>30</event_num>
+  <game>&nlh;</game>
+  <buyin>3000</buyin>
+  <start_date>Tue May 18, 2004</start_date>
+  <end_date>Thu May 20, 2004</end_date>
+  <entrants>651</entrants>
+  <prize_pool>1796760</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="msica"/>
+      <payout>503160</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jkabbaj"/>
+      <payout>260520</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="rvaswani"/>
+      <payout>143740</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="akelleher"/>
+      <payout>125780</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="tpersson"/>
+      <payout>107800</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="pphillips"/>
+      <payout>89840</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mmills"/>
+      <payout>71860</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jcernuto"/>
+      <payout>53900</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="ykurt"/>
+      <payout>35940</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="barmstrong"/>
+      <payout>19760</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="mkeiner"/>
+      <payout>19760</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jfriedberg"/>
+      <payout>19760</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="avahedi"/>
+      <payout>16180</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="fcallaghan"/>
+      <payout>16180</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jjuanda"/>
+      <payout>16180</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jfhal"/>
+      <payout>12580</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="tcousineau"/>
+      <payout>12580</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="ssuh"/>
+      <payout>12580</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="gcheatham"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="bstadlbauer"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="hshirey"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="aduke"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="jhiggins"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="dmosely"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="ggriffin"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="ksong"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="mknijff"/>
+      <payout>8980</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="sgoldstein"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="jchan"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="cwight"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="rcardiel"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="smayfield"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="klazzaro"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="bboatman"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="cnielsen"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="astonum"/>
+      <payout>6280</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="sbuchanan"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="ssunar"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="cfuentes"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="kgazes"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>41</position>
+      <player id="rmckay"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>42</position>
+      <player id="kkolberg"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>43</position>
+      <player id="roliveira"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>44</position>
+      <player id="gwynn"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>45</position>
+      <player id="jstorakers"/>
+      <payout>5380</payout>
+    </place>
+    <place>
+      <position>46</position>
+      <player id="mguttman"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>47</position>
+      <player id="choang"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>48</position>
+      <player id="rbeauxlox"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>49</position>
+      <player id="mmeyers"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>50</position>
+      <player id="wblanda"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>51</position>
+      <player id="tfranklin"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>52</position>
+      <player id="npaulsen"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>53</position>
+      <player id="atran2"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>54</position>
+      <player id="sgrizzle"/>
+      <payout>4500</payout>
+    </place>
+    <place>
+      <position>55</position>
+      <player id="gkester"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>56</position>
+      <player id="atannous"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>57</position>
+      <player id="brodman"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>58</position>
+      <player id="rlevine"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>59</position>
+      <player id="mpilkington"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>60</position>
+      <player id="canastasyadis"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>61</position>
+      <player id="blouder"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>62</position>
+      <player id="vkovalchuk"/>
+      <payout>3600</payout>
+    </place>
+    <place>
+      <position>63</position>
+      <player id="sagassi"/>
+      <payout>3600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>31</event_num>
+  <game>&plo;</game>
+  <buyin>5000</buyin>
+  <start_date>Wed May 19, 2004</start_date>
+  <end_date>Thu May 20, 2004</end_date>
+  <entrants>145</entrants>
+  <rebuys>87</rebuys>
+  <prize_pool>1499800</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tlawson"/>
+      <payout>500000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="lwatkinson"/>
+      <payout>270000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="kdeeb"/>
+      <payout>147800</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jbruno"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="afreeman"/>
+      <payout>90000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="hlederer"/>
+      <payout>75000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="gmckeever"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="dnegreanu"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jlisandro"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="cmoneymaker"/>
+      <payout>21000</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="fbadimansour"/>
+      <payout>21000</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="tbloom"/>
+      <payout>21000</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="bhaveson"/>
+      <payout>18000</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="rwilliamson"/>
+      <payout>18000</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="bcarter"/>
+      <payout>18000</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="cmoustakis"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="jjuanda"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="eelezra"/>
+      <payout>15000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>32</event_num>
+  <game>&lobah;</game>
+  <buyin>1500</buyin>
+  <start_date>Thu May 20, 2004</start_date>
+  <end_date>Thu May 20, 2004</end_date>
+  <entrants>184</entrants>
+  <prize_pool>253920</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="nketchum"/>
+      <payout>84500</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="bgreenstein"/>
+      <payout>44700</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="akaras"/>
+      <payout>26940</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="fsigur"/>
+      <payout>20320</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mjudah"/>
+      <payout>16500</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="adehollan"/>
+      <payout>12700</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="bkostov"/>
+      <payout>10160</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mwernich"/>
+      <payout>7620</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="kkovacs"/>
+      <payout>4580</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="tfranklin"/>
+      <payout>4580</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="sford"/>
+      <payout>4060</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="emalatesta"/>
+      <payout>4060</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jroveto"/>
+      <payout>3560</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="pphillips"/>
+      <payout>3560</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mburk"/>
+      <payout>3040</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="djennings"/>
+      <payout>3040</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>33</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <start_date>Sat May 22, 2004</start_date>
+  <end_date>Fri May 28, 2004</end_date>
+  <entrants>2576</entrants>
+  <prize_pool>24214400</prize_pool>
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="graymer"/>
+      <payout>5000000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dwilliams2"/>
+      <payout>3500000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jarieh"/>
+      <payout>2500000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="dharrington"/>
+      <payout>1500000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="ghughes"/>
+      <payout>1100000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="akrux"/>
+      <payout>800000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mdean"/>
+      <payout>675000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mandersson"/>
+      <payout>575000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="mmcclain"/>
+      <payout>470400</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="mluske"/>
+      <payout>373000</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="darcher"/>
+      <payout>373000</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jgrimes"/>
+      <payout>373000</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jmurphy"/>
+      <payout>275000</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="kbott"/>
+      <payout>275000</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="escharf"/>
+      <payout>275000</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="werickson"/>
+      <payout>175000</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="gjones"/>
+      <payout>175000</payout>
+    </place>
+    <place>
+      <position>18 (tie)</position>
+      <player id="hdemetriou"/>
+      <payout>147500</payout>
+    </place>
+    <place>
+      <position>18 (tie)</position>
+      <player id="rfullerton"/>
+      <payout>147500</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="rjarrett"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="scarpenter"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="hla"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="jsagle"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="dtruong"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="danderson"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="cferguson"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="evanderburg"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="mfeijo"/>
+      <payout>80000</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="mlefkowitz"/>
+      <payout>80000</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="gcooney"/>
+      <payout>80000</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="bberman"/>
+      <payout>80000</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="jgardener"/>
+      <payout>80000</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="mhilger"/>
+      <payout>80000</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="dadelson"/>
+      <payout>80000</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="dangel"/>
+      <payout>80000</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="bjohnson"/>
+      <payout>80000</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="mtreasure"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="poconnor"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="rdaniel"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="dnguyen"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>41</position>
+      <player id="mzeledon"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>42</position>
+      <player id="kschaffel"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>43</position>
+      <player id="slott"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>44</position>
+      <player id="dportano"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>45</position>
+      <player id="bschwartz"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>46</position>
+      <player id="vnguyen"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>47</position>
+      <player id="bbevis"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>48</position>
+      <player id="jkaufmann"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>49</position>
+      <player id="aeslami"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>50</position>
+      <player id="pgirodano"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>51</position>
+      <player id="vsenthilkumar"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>52</position>
+      <player id="gsmith"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>53</position>
+      <player id="dbrunson"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>54</position>
+      <player id="brodman"/>
+      <payout>45000</payout>
+    </place>
+    <place>
+      <position>55</position>
+      <player id="tpersson"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>56</position>
+      <player id="tabesamis"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>57</position>
+      <player id="frussomanno"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>58</position>
+      <player id="holsen"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>59</position>
+      <player id="dalnei"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>60</position>
+      <player id="cpacheco"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>61</position>
+      <player id="npaulsen"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>62</position>
+      <player id="cheintschel"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>63</position>
+      <player id="awynn"/>
+      <payout>35000</payout>
+    </place>
+    <place>
+      <position>64</position>
+      <player id="behart"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>65</position>
+      <player id="jcalkins"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>66</position>
+      <player id="jhoeppner"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>67</position>
+      <player id="efoster"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>68</position>
+      <player id="mzelin"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>69</position>
+      <player id="trupert"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>70</position>
+      <player id="dpourat"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>71</position>
+      <player id="aalsancak"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>72</position>
+      <player id="dulliott"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>73</position>
+      <player id="kborror"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>74</position>
+      <player id="gturk"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>75</position>
+      <player id="rosborne"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>76</position>
+      <player id="slibicki"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>77</position>
+      <player id="dbigelow"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>78</position>
+      <player id="dariel"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>79</position>
+      <player id="slundberg"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>80</position>
+      <player id="pkraus"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>81</position>
+      <player id="kangeloudis"/>
+      <payout>25000</payout>
+    </place>
+    <place>
+      <position>82</position>
+      <player id="cagnew"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>83</position>
+      <player id="pdamato"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>84</position>
+      <player id="pnorth"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>85</position>
+      <player id="jbrooks"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>86</position>
+      <player id="rholland"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>87</position>
+      <player id="mmatusow"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>88</position>
+      <player id="bpierce"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>89</position>
+      <player id="tbohmer"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>90</position>
+      <player id="bboutin"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>91</position>
+      <player id="pmarmorstein"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>92</position>
+      <player id="cswick"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>93</position>
+      <player id="jspelman"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>94</position>
+      <player id="dscharf"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>95</position>
+      <player id="mbreault"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>96</position>
+      <player id="gduros"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>97</position>
+      <player id="tvanmays"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>98</position>
+      <player id="rrichie"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>99</position>
+      <player id="sbartlett"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>100</position>
+      <player id="drogers"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>101</position>
+      <player id="mwilds"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>102</position>
+      <player id="ycheung"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>103</position>
+      <player id="bsehlstedt"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>104</position>
+      <player id="psterns"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>105</position>
+      <player id="cbuffalo"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>106</position>
+      <player id="stawil"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>107</position>
+      <player id="ylimor"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>108</position>
+      <player id="jesposito"/>
+      <payout>17500</payout>
+    </place>
+    <place>
+      <position>108</position>
+      <player id="dlarsson"/>
+      <payout>17500</payout>
+    </place>
+    <place>
+      <position>110</position>
+      <player id="rboyd"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>111</position>
+      <player id="jsjavik"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>112</position>
+      <player id="mfeurle"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>113</position>
+      <player id="lwatkinson"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>114</position>
+      <player id="dweisberger"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>115</position>
+      <player id="pmoore"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>116</position>
+      <player id="ckohlberg"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>117</position>
+      <player id="jtran"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>118</position>
+      <player id="wduarte"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>119</position>
+      <player id="tskarecky"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>120</position>
+      <player id="amosseri"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>121</position>
+      <player id="tgrimes"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>122</position>
+      <player id="dbaverman"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>123</position>
+      <player id="aloring"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>124</position>
+      <player id="ckastle"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>125</position>
+      <player id="ggeller"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>126</position>
+      <player id="yalkeliddar"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>127</position>
+      <player id="ccrivello"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>128</position>
+      <player id="kmaust"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>129</position>
+      <player id="achurch"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>130</position>
+      <player id="jjewell"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>131</position>
+      <player id="mweitzman"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>132</position>
+      <player id="jsheckherd"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>133</position>
+      <player id="wbrindise"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>134</position>
+      <player id="landerson"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>135</position>
+      <player id="fbrabek"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>136</position>
+      <player id="ogronmo"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>137</position>
+      <player id="mphillips"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>138</position>
+      <player id="ghuber"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>139</position>
+      <player id="rhamilton"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>140</position>
+      <player id="roliveras"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>141</position>
+      <player id="dmoseley"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>142</position>
+      <player id="jsiegel"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>143</position>
+      <player id="jpires"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>144</position>
+      <player id="jfreedman"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>145</position>
+      <player id="rdavis"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>146</position>
+      <player id="koconnell"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>147</position>
+      <player id="cquinton"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>148</position>
+      <player id="rhartmann"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>149</position>
+      <player id="jburdsall"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>150</position>
+      <player id="ghansen"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>151</position>
+      <player id="dgriffith"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>152</position>
+      <player id="zbehman"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>153</position>
+      <player id="rfogarty"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>154</position>
+      <player id="dtomko2"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>155</position>
+      <player id="phanley"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>156</position>
+      <player id="gweeks"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>157</position>
+      <player id="emoraitis"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>158</position>
+      <player id="ashahaf"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>159</position>
+      <player id="lrokach"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>160</position>
+      <player id="mseyedin"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>161</position>
+      <player id="rtomman"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>162</position>
+      <player id="sruya"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>163</position>
+      <player id="thammond"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>164</position>
+      <player id="jwheeler"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>165</position>
+      <player id="pfriedman2"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>166</position>
+      <player id="acracchiolo"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>167</position>
+      <player id="jhelppi"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>168</position>
+      <player id="gthaler"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>169</position>
+      <player id="twhite"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>170</position>
+      <player id="eelezra"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>171</position>
+      <player id="gsawka"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>172</position>
+      <player id="pnobles"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>173</position>
+      <player id="kevanowski"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>174</position>
+      <player id="handrew"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>175</position>
+      <player id="jbull"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>176</position>
+      <player id="gblau"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>177</position>
+      <player id="wkrackomberger"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>178</position>
+      <player id="gyoukhanna"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>179</position>
+      <player id="twerthmann"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>180</position>
+      <player id="asalorio"/>
+      <payout>15000</payout>
+    </place>
+    <place>
+      <position>181</position>
+      <player id="akorson"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>182</position>
+      <player id="jsorensten"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>183</position>
+      <player id="pjackson"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>184</position>
+      <player id="evilland"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>185</position>
+      <player id="dcolletti"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>186</position>
+      <player id="treed"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>187</position>
+      <player id="smarks"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>188</position>
+      <player id="josullivan"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>189</position>
+      <player id="jbattenberg"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>190</position>
+      <player id="tbenvenisti"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>191</position>
+      <player id="agray"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>192</position>
+      <player id="bdillon"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>193</position>
+      <player id="rhollink"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>194</position>
+      <player id="agoetsch"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>195</position>
+      <player id="mmexal"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>196</position>
+      <player id="rskutelsky"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>197</position>
+      <player id="abrenes"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>198</position>
+      <player id="mfillat"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>199</position>
+      <player id="skelkar"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>200</position>
+      <player id="rfikac"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>201</position>
+      <player id="hgrimes"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>202</position>
+      <player id="mbelinovich"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>203</position>
+      <player id="lgarcia"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>204</position>
+      <player id="gtimberlake"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>205</position>
+      <player id="nchanning"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>206</position>
+      <player id="gabdallah"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>207</position>
+      <player id="eness"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>208</position>
+      <player id="szoudo"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>209</position>
+      <player id="rcordani"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>210</position>
+      <player id="vnapolitano"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>211</position>
+      <player id="agarfinkle"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>212</position>
+      <player id="eodom"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>213</position>
+      <player id="sgreenberg"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>214</position>
+      <player id="aogus"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>215</position>
+      <player id="olongson"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>216</position>
+      <player id="mstodola"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>217</position>
+      <player id="ssilber"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>218</position>
+      <player id="dsoda"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>219</position>
+      <player id="dcupps"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>220</position>
+      <player id="icrewse"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>221</position>
+      <player id="mpino"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>222</position>
+      <player id="phedlund"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>223</position>
+      <player id="rfaltinsky"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>224</position>
+      <player id="ptom"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>225 (tie)</position>
+      <player id="dtomko"/>
+      <payout>10000</payout>
+    </place>
+    <place>
+      <position>225 (tie)</position>
+      <player id="dcombs"/>
+      <payout>10000</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

@@ -1,0 +1,90 @@
+    <place>
+      <position>1</position>
+      <player id="jheimowitz"/>
+      <payout>284000 </payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mhayden"/>
+      <payout>142000 </payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mnguyen"/>
+      <payout>71000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="szolotow"/>
+      <payout>42600 </payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="gecheverri"/>
+      <payout>31950 </payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="fbrown"/>
+      <payout>24850 </payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mdanino"/>
+      <payout>17750 </payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="hla"/>
+      <payout>14200 </payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="hthomas"/>
+      <payout>11360</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="ksong"/>
+      <payout>8520</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="tmccormick"/>
+      <payout>8520</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jcourtney"/>
+      <payout>8520</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="aduke"/>
+      <payout>7810</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="smayfield"/>
+      <payout>7810</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="dheimiller"/>
+      <payout>7810</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="mglantz"/>
+      <payout>7100</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="jcernuto"/>
+      <payout>7100</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="jthomas"/>
+      <payout>7100</payout>
+    </place>

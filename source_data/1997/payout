@@ -1,0 +1,105 @@
+    <place>
+      <position>7</position>
+      <player id="troren"/>
+      <payout>95400</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="droepke"/>
+      <payout>63600</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="cbjorin"/>
+      <payout>48760</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="knettles"/>
+      <payout>33920</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="ggerds"/>
+      <payout>33920</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="mwaggoner"/>
+      <payout>33920</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jheimowitz"/>
+      <payout>29680</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="ablack"/>
+      <payout>29680</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="rpeate"/>
+      <payout>29680</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="dbrunson"/>
+      <payout>25440</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="mschichtman"/>
+      <payout>25440</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="kflaton"/>
+      <payout>25440</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="pclark"/>
+      <payout>21200</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="meskand"/>
+      <payout>21200</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="phellmuth"/>
+      <payout>21200</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="bbaxter"/>
+      <payout>21200</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="dweum"/>
+      <payout>21200</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="proudi"/>
+      <payout>21200</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="mkvorti"/>
+      <payout>21200</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="rhousden"/>
+      <payout>21200</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="gmckeever"/>
+      <payout>21200</payout>
+    </place>

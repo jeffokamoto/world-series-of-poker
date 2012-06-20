@@ -1,0 +1,104 @@
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT pre_nick (#PCDATA)>
+<!ELEMENT first_name (#PCDATA)>
+<!ELEMENT middle_name (#PCDATA)>
+<!ELEMENT mid_nick (#PCDATA)>
+<!ELEMENT last_name (#PCDATA)>
+<!ELEMENT suffix (#PCDATA)>
+<!ELEMENT residence (#PCDATA)>
+<!ELEMENT person (title?, pre_nick?, first_name?, middle_name?,  mid_nick?, last_name, suffix?, residence?)>
+	<!ATTLIST person id ID #REQUIRED>
+
+<!ELEMENT position (#PCDATA)>
+<!ELEMENT player (#PCDATA)>
+	<!ATTLIST player id IDREF #REQUIRED>
+<!ELEMENT payout (#PCDATA)>
+	<!ATTLIST payout charity CDATA #IMPLIED>
+<!ELEMENT place (position, player, payout)>
+<!ELEMENT places (place+)>
+<!ELEMENT buyin (#PCDATA)>
+	<!ATTLIST buyin currency CDATA #IMPLIED>
+<!ELEMENT event_num (#PCDATA)>
+<!ELEMENT game (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT start_date (#PCDATA)>
+<!ELEMENT end_date (#PCDATA)>
+<!ELEMENT entrants (#PCDATA)>
+<!ELEMENT rebuys (#PCDATA)>
+<!ELEMENT prize_pool (#PCDATA)>
+<!ELEMENT event (event_num, game, description?, buyin, start_date?, end_date?, entrants?, rebuys?, prize_pool?, notes?, places+)>
+<!ELEMENT event_list (event+)>
+
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT casino (#PCDATA)>
+<!ELEMENT staff_name (#PCDATA)>
+<!ELEMENT staff_title (#PCDATA)>
+<!ELEMENT staff_member (staff_name, staff_title)>
+<!ELEMENT staff_list (staff_member+)>
+<!ELEMENT notes (#PCDATA)>
+<!ELEMENT world_series (year, number, casino, staff_list?, notes?, event_list)>
+<!ELEMENT history (person+, world_series+)>
+
+<!-- Game Descriptions -->
+<!ENTITY he "Limit Hold&apos;em">
+<!ENTITY plh "Pot Limit Hold&apos;em">
+<!ENTITY nlh "No-Limit Hold&apos;em">
+<!ENTITY heshoot "Limit Hold&apos;em Shootout">
+<!ENTITY nlhshoot "No-Limit Hold&apos;em Shootout">
+<!ENTITY nlhshort "Short-Handed No-Limit Hold&apos;em">
+<!ENTITY plo "Pot Limit Omaha">
+<!ENTITY omaha "Omaha">
+<!ENTITY omaha8 "Omaha Hi-Lo Split">
+<!ENTITY stud "Seven Card Stud">
+<!ENTITY stud8 "Seven Card Stud Hi-Lo Split">
+<!ENTITY deuce "Deuce to Seven Lowball">
+<!ENTITY deucenl "No-Limit Deuce to Seven Lowball">
+<!ENTITY deucetriple "Deuce to Seven Triple Draw Lowball">
+<!ENTITY lobah "Ace to Five Lowball">
+<!ENTITY triple "Ace to Five Triple Draw Lowball">
+<!ENTITY razz "Seven Card Razz">
+<!ENTITY stud5 "Five Card Stud">
+<!ENTITY draw "Five Card Draw">
+<!ENTITY horse "H.O.R.S.E.">
+<!ENTITY shoe "S.H.O.E.">
+<!ENTITY pokcer "Chinese Poker">
+<!ENTITY half "Half Hold&apos;em, Half Stud">
+
+<!ENTITY people_list SYSTEM "./people.xml">
+<!ENTITY wsop_2005 SYSTEM "./2005.xml">
+<!ENTITY wsop_2004 SYSTEM "./2004.xml">
+<!ENTITY wsop_2003 SYSTEM "./2003.xml">
+<!ENTITY wsop_2002 SYSTEM "./2002.xml">
+<!ENTITY wsop_2001 SYSTEM "./2001.xml">
+<!ENTITY wsop_2000 SYSTEM "./2000.xml">
+<!ENTITY wsop_1999 SYSTEM "./1999.xml">
+<!ENTITY wsop_1998 SYSTEM "./1998.xml">
+<!ENTITY wsop_1997 SYSTEM "./1997.xml">
+<!ENTITY wsop_1996 SYSTEM "./1996.xml">
+<!ENTITY wsop_1995 SYSTEM "./1995.xml">
+<!ENTITY wsop_1994 SYSTEM "./1994.xml">
+<!ENTITY wsop_1993 SYSTEM "./1993.xml">
+<!ENTITY wsop_1992 SYSTEM "./1992.xml">
+<!ENTITY wsop_1991 SYSTEM "./1991.xml">
+<!ENTITY wsop_1990 SYSTEM "./1990.xml">
+<!ENTITY wsop_1989 SYSTEM "./1989.xml">
+<!ENTITY wsop_1988 SYSTEM "./1988.xml">
+<!ENTITY wsop_1987 SYSTEM "./1987.xml">
+<!ENTITY wsop_1986 SYSTEM "./1986.xml">
+<!ENTITY wsop_1985 SYSTEM "./1985.xml">
+<!ENTITY wsop_1984 SYSTEM "./1984.xml">
+<!ENTITY wsop_1983 SYSTEM "./1983.xml">
+<!ENTITY wsop_1982 SYSTEM "./1982.xml">
+<!ENTITY wsop_1981 SYSTEM "./1981.xml">
+<!ENTITY wsop_1980 SYSTEM "./1980.xml">
+<!ENTITY wsop_1979 SYSTEM "./1979.xml">
+<!ENTITY wsop_1978 SYSTEM "./1978.xml">
+<!ENTITY wsop_1977 SYSTEM "./1977.xml">
+<!ENTITY wsop_1976 SYSTEM "./1976.xml">
+<!ENTITY wsop_1975 SYSTEM "./1975.xml">
+<!ENTITY wsop_1974 SYSTEM "./1974.xml">
+<!ENTITY wsop_1973 SYSTEM "./1973.xml">
+<!ENTITY wsop_1972 SYSTEM "./1972.xml">
+<!ENTITY wsop_1971 SYSTEM "./1971.xml">
+<!ENTITY wsop_1970 SYSTEM "./1970.xml">

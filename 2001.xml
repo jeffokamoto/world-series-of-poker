@@ -1,0 +1,3169 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>2001</year>
+<number>32nd</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>1</event_num>
+  <game>&he;</game>
+  <buyin>500</buyin>
+  <start_date>Fri Apr 20, 2001</start_date>
+  <end_date>Sat Apr 21, 2001</end_date>
+  <entrants>224</entrants>
+  <prize_pool>108640</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tjonas"/>
+      <payout>40200</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jkim3"/>
+      <payout>20640</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="dcrunkleton"/>
+      <payout>10320</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="rtamanana"/>
+      <payout>6520</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="dharkey"/>
+      <payout>4890</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="kfranks"/>
+      <payout>3800</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="rmiles"/>
+      <payout>2715</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="bhe"/>
+      <payout>2175</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="rcruz"/>
+      <payout>1750</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="kandorfer"/>
+      <payout>1305</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="bpordoe"/>
+      <payout>1305</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jtaing"/>
+      <payout>1305</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jlee"/>
+      <payout>1085</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="gilson"/>
+      <payout>1085</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jluong"/>
+      <payout>1085</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jflor"/>
+      <payout>870</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="msweaney"/>
+      <payout>870</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="psilman"/>
+      <payout>870</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>2</event_num>
+  <game>&he;</game>
+  <buyin>2000</buyin>
+  <start_date>Sat Apr 21, 2001</start_date>
+  <end_date>Sun Apr 22, 2001</end_date>
+  <entrants>615</entrants>
+  <prize_pool>1193100</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ndollison"/>
+      <payout>441440</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jpires"/>
+      <payout>226690</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="cgiang"/>
+      <payout>113345</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="mla"/>
+      <payout>71585</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="sbaghchehsaraie"/>
+      <payout>53690</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="eelezra"/>
+      <payout>41760</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="rdipiero"/>
+      <payout>29830</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="kshaevel"/>
+      <payout>23860</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="pvilandos"/>
+      <payout>19090</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="pnguyen"/>
+      <payout>14315</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="doppenheimer"/>
+      <payout>14315</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jkeller"/>
+      <payout>14315</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="dessad"/>
+      <payout>11930</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="sarzoin"/>
+      <payout>11930</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="rfong"/>
+      <payout>11930</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="htran"/>
+      <payout>9545</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="jlevy"/>
+      <payout>9545</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="pnguyen2"/>
+      <payout>9545</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="gparavoliasakis"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="azzz1"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="azzz2"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="mbremont"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="dbarnett"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="mjudah"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="jesposito"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="aboyer"/>
+      <payout>7160</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="bashmore"/>
+      <payout>7160</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>3</event_num>
+  <game>&omaha8;</game>
+  <buyin>1500</buyin>
+  <start_date>Sun Apr 22, 2001</start_date>
+  <end_date>Mon Apr 23, 2001</end_date>
+  <entrants>306</entrants>
+  <prize_pool>445230</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cferguson"/>
+      <payout>164735</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mnguyen"/>
+      <payout>84595</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="hthomas2"/>
+      <payout>42300</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="ljones"/>
+      <payout>26715</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jgartner"/>
+      <payout>20035</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="cbrahmi"/>
+      <payout>15585</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="rmcmillan"/>
+      <payout>11130</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="pgoatz"/>
+      <payout>8910</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="acunningham"/>
+      <payout>7130</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="dngo"/>
+      <payout>5345</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="jpearson"/>
+      <payout>5345</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="graymer"/>
+      <payout>5345</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="srosenberg"/>
+      <payout>4450</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="smcmahon"/>
+      <payout>4450</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="voliver"/>
+      <payout>4450</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="tgueorguiev"/>
+      <payout>3560</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="fhavard"/>
+      <payout>3560</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="mdelossantos"/>
+      <payout>3560</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="mho"/>
+      <payout>2670</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="mlefkowitz"/>
+      <payout>2670</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="ctsiprailidis"/>
+      <payout>2670</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="dchiu"/>
+      <payout>2670</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="jarieh"/>
+      <payout>2670</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="kyeh"/>
+      <payout>2670</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="tbleak"/>
+      <payout>2670</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="hkamoie"/>
+      <payout>2670</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="lwan"/>
+      <payout>2670</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>4</event_num>
+  <game>&stud;</game>
+  <buyin>1500</buyin>
+  <start_date>Mon Apr 23, 2001</start_date>
+  <end_date>Tue Apr 24, 2001</end_date>
+  <entrants>272</entrants>
+  <prize_pool>419506</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="aroberts"/>
+      <payout>164430</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="sdimiceli"/>
+      <payout>75190</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="sgrizzle"/>
+      <payout>37950</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="ksong"/>
+      <payout>23745</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="bgibbs"/>
+      <payout>19790</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="btracy"/>
+      <payout>15830</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="wwong"/>
+      <payout>11875</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="bschwing"/>
+      <payout>8310</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="rziph"/>
+      <payout>5340</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="rpokres"/>
+      <payout>5340</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="smusket"/>
+      <payout>5340</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="mrabinowitz"/>
+      <payout>5340</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="pdarden"/>
+      <payout>3960</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="rbutler"/>
+      <payout>3960</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="dlevinson2"/>
+      <payout>3960</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="tbrenner"/>
+      <payout>3960</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="jjones"/>
+      <payout>2375</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="dheimiller"/>
+      <payout>2375</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="rlong"/>
+      <payout>2375</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="mjudah"/>
+      <payout>2375</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="gguevrmont"/>
+      <payout>2375</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="cburris"/>
+      <payout>2375</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="wforrest"/>
+      <payout>2375</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="elang"/>
+      <payout>2375</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>5</event_num>
+  <game>&nlh;</game>
+  <buyin>2000</buyin>
+  <start_date>Tue Apr 24, 2001</start_date>
+  <end_date>Wed Apr 25, 2001</end_date>
+  <entrants>441</entrants>
+  <prize_pool>855540</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="phellmuth"/>
+      <payout>316550</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="tcloutier"/>
+      <payout>162550</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="lflack"/>
+      <payout>81270</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jstoff"/>
+      <payout>51235</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jsjavik"/>
+      <payout>38500</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jfarley"/>
+      <payout>29945</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="sgoldstein"/>
+      <payout>21930</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="srydell"/>
+      <payout>17110</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="kprestley"/>
+      <payout>13690</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="pthiptinnakon"/>
+      <payout>10265</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="pladanyi"/>
+      <payout>10265</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="cferguson"/>
+      <payout>10265</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="hzalewski"/>
+      <payout>8555</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="bjohnston"/>
+      <payout>8555</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="lasmo"/>
+      <payout>8555</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jtarr"/>
+      <payout>6845</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="msova"/>
+      <payout>6845</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="rabinsay"/>
+      <payout>6845</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="pevans"/>
+      <payout>5135</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="lmarkholt"/>
+      <payout>5135</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="lberman"/>
+      <payout>5135</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="srotbaek"/>
+      <payout>5135</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="kjames"/>
+      <payout>5135</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="lcolt"/>
+      <payout>5135</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="eholum"/>
+      <payout>5135</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="swilson"/>
+      <payout>5135</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="dscharf"/>
+      <payout>5135</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>6</event_num>
+  <game>&omaha;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed Apr 25, 2001</start_date>
+  <end_date>Thu Apr 26, 2001</end_date>
+  <entrants>144</entrants>
+  <prize_pool>209520</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="escharf"/>
+      <payout>83810</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mdavis"/>
+      <payout>41900</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="ebalas"/>
+      <payout>20950</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="tcousineau"/>
+      <payout>12570</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="dsklansky"/>
+      <payout>9430</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="dbarton"/>
+      <payout>7335</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="btang"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="acunningham"/>
+      <payout>4190</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="tmcevoy"/>
+      <payout>3350</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="wlandry"/>
+      <payout>2515</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="hmann"/>
+      <payout>2515</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="roliveras"/>
+      <payout>2515</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jowenby"/>
+      <payout>2305</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="dgerstner"/>
+      <payout>2305</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jmiller"/>
+      <payout>2305</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="rhai"/>
+      <payout>2095</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="pbruel"/>
+      <payout>2095</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="ssunar"/>
+      <payout>2095</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>7</event_num>
+  <game>&stud8;</game>
+  <buyin>1500</buyin>
+  <start_date>Thu Apr 26, 2001</start_date>
+  <end_date>Fri Apr 27, 2001</end_date>
+  <entrants>230</entrants>
+  <prize_pool>334650</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bshulman"/>
+      <payout>123820</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dheimiller"/>
+      <payout>63580</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="vburgio"/>
+      <payout>31785</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="lbernstein"/>
+      <payout>20075</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="azzz2"/>
+      <payout>16735</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="mkreskanko"/>
+      <payout>13385</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="bmurphy"/>
+      <payout>10040</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mragir"/>
+      <payout>7030</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="phellmuth"/>
+      <payout>4685</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="rkorbin"/>
+      <payout>4685</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="azzz3"/>
+      <payout>4685</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="asacino"/>
+      <payout>4685</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="bgazes"/>
+      <payout>3345</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="phonus"/>
+      <payout>3345</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="msexton"/>
+      <payout>3345</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="edipeppe"/>
+      <payout>3345</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="elinzon"/>
+      <payout>2010</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="cshin"/>
+      <payout>2010</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="lgrilla"/>
+      <payout>2010</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="sfocher"/>
+      <payout>2010</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="jbrody2"/>
+      <payout>2010</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="jharman"/>
+      <payout>2010</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="wmckinney"/>
+      <payout>2010</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="mappel"/>
+      <payout>2010</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>8</event_num>
+  <game>&plo;</game>
+  <buyin>1500</buyin>
+  <start_date>Fri Apr 27, 2001</start_date>
+  <end_date>Sat Apr 28, 2001</end_date>
+  <entrants>145</entrants>
+  <rebuys>142</rebuys>
+  <prize_pool>417585</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="gkester"/>
+      <payout>167035</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dulliott"/>
+      <payout>83515</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bwalker"/>
+      <payout>41760</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="kdeeb"/>
+      <payout>25055</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jheimowitz"/>
+      <payout>18790</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="aduke"/>
+      <payout>14615</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jchitwood"/>
+      <payout>10440</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jbrody2"/>
+      <payout>8350</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jlester2"/>
+      <payout>6685</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="eseidel"/>
+      <payout>5010</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="rkeston"/>
+      <payout>5010</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="rperry"/>
+      <payout>5010</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="uplayer"/>
+      <payout>4595</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jchan"/>
+      <payout>4595</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="rcohen"/>
+      <payout>4595</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="msexton"/>
+      <payout>4175</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="tpreston"/>
+      <payout>4175</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="rrose"/>
+      <payout>4175</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>9</event_num>
+  <game>&shoe;</game>
+  <buyin>2000</buyin>
+  <start_date>Sat Apr 28, 2001</start_date>
+  <end_date>Sun Apr 29, 2001</end_date>
+  <entrants>181</entrants>
+  <prize_pool>351140</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dpham"/>
+      <payout>140455</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="swilson"/>
+      <payout>70230</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="tmcevoy"/>
+      <payout>35115</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="jcernuto"/>
+      <payout>21070</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="kbidar"/>
+      <payout>17555</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="cviolette"/>
+      <payout>14045</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="aduncan"/>
+      <payout>10540</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="pdarden"/>
+      <payout>7030</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="mgambony"/>
+      <payout>5265</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="pphillips"/>
+      <payout>5265</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="npartenope"/>
+      <payout>5265</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="adehollan"/>
+      <payout>5265</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="thansen"/>
+      <payout>3510</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="byamron"/>
+      <payout>3510</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jcalkins"/>
+      <payout>3510</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="sgoldstein"/>
+      <payout>3510</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>10</event_num>
+  <game>&he;</game>
+  <buyin>3000</buyin>
+  <start_date>Sun Apr 29, 2001</start_date>
+  <end_date>Mon Apr 30, 2001</end_date>
+  <entrants>192</entrants>
+  <prize_pool>558720</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jlester2"/>
+      <payout>233490</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="abrenes"/>
+      <payout>111745</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mly"/>
+      <payout>55870</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="pladanyi"/>
+      <payout>33525</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mshi"/>
+      <payout>25140</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="phellmuth"/>
+      <payout>19555</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="hla"/>
+      <payout>13970</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jalphons"/>
+      <payout>11175</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="pnguyen"/>
+      <payout>8945</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="ttran"/>
+      <payout>6705</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="jkim4"/>
+      <payout>6705</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="jspadavecchia"/>
+      <payout>6705</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="rperry"/>
+      <payout>6145</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="ghughes"/>
+      <payout>6145</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="hthomas2"/>
+      <payout>6145</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jallen2"/>
+      <payout>5585</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="kdyksta"/>
+      <payout>5585</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="jpayton"/>
+      <payout>5585</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>11</event_num>
+  <game>&stud;</game>
+  <buyin>2500</buyin>
+  <start_date>Mon Apr 30, 2001</start_date>
+  <end_date>Tue May 1, 2001</end_date>
+  <entrants>152</entrants>
+  <prize_pool>368600</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="pdarden"/>
+      <payout>147440</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="tfranklin"/>
+      <payout>73720</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="ljones"/>
+      <payout>36860</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="rlichen"/>
+      <payout>22115</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="abloch"/>
+      <payout>18430</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="ljean"/>
+      <payout>14745</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="hkoch"/>
+      <payout>11060</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="rlevine"/>
+      <payout>7370</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="thansen"/>
+      <payout>5530</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="idonev"/>
+      <payout>5530</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="jspadavecchia"/>
+      <payout>5530</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="cferguson"/>
+      <payout>5530</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="mdanino"/>
+      <payout>3685</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="rdurante"/>
+      <payout>3685</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="meshragh"/>
+      <payout>3685</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="msmith"/>
+      <payout>3685</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>12</event_num>
+  <game>&plh;</game>
+  <buyin>2000</buyin>
+  <start_date>Tue May 1, 2001</start_date>
+  <end_date>Wed May 2, 2001</end_date>
+  <entrants>270</entrants>
+  <prize_pool>523800</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bboutin"/>
+      <payout>193800</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dulliott"/>
+      <payout>99515</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mnguyen"/>
+      <payout>49755</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="ghughes"/>
+      <payout>31425</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="ctsiprailidis"/>
+      <payout>23570</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="cjassinowsky"/>
+      <payout>18335</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="kdeeb"/>
+      <payout>13095</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="reasterday"/>
+      <payout>10475</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="msexton"/>
+      <payout>8380</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="totaki"/>
+      <payout>6285</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="tjacobs"/>
+      <payout>6285</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="mly"/>
+      <payout>6285</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="ghutteball"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="kflaton"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="rstanley"/>
+      <payout>5240</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="dqutami"/>
+      <payout>4190</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="bgazes"/>
+      <payout>4190</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="rlewis"/>
+      <payout>4190</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="ehill"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="dpham"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="mcarson"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="wchang"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="atran"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="bjohnston"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="bcorman"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="dasher"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="dalimi"/>
+      <payout>3145</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>13</event_num>
+  <game>&razz;</game>
+  <buyin>1500</buyin>
+  <start_date>Wed May 2, 2001</start_date>
+  <end_date>Thu May 3, 2001</end_date>
+  <entrants>144</entrants>
+  <prize_pool>209520</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bjohnston"/>
+      <payout>83810</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mwattel"/>
+      <payout>41900</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="ewyde"/>
+      <payout>20950</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="dnegreanu"/>
+      <payout>12570</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="rschwartz"/>
+      <payout>10475</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="abloch"/>
+      <payout>8380</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="alake"/>
+      <payout>6285</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mlanders"/>
+      <payout>4190</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jwheatley"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="byamron"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="knielson"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="pclarkson"/>
+      <payout>3145</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="lheimowitz"/>
+      <payout>2095</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="dstonier"/>
+      <payout>2095</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mfrancisco"/>
+      <payout>2095</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="mwong"/>
+      <payout>2095</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>14</event_num>
+  <game>&plo;</game>
+  <buyin>2500</buyin>
+  <start_date>Thu May 3, 2001</start_date>
+  <end_date>Fri May 4, 2001</end_date>
+  <entrants>102</entrants>
+  <rebuys>82</rebuys>
+  <prize_pool>446200</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tnguyen"/>
+      <payout>178480</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jlester2"/>
+      <payout>89240</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="asarkeshik"/>
+      <payout>44620</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="tfranklin"/>
+      <payout>26770</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="fperry"/>
+      <payout>20080</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="bgazes"/>
+      <payout>15615</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jkatz"/>
+      <payout>11155</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="bwalker"/>
+      <payout>8925</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="tdang"/>
+      <payout>7140</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="bmoore2"/>
+      <payout>5355</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="kflaton"/>
+      <payout>5355</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="cferguson"/>
+      <payout>5355</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="szolotow"/>
+      <payout>4910</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="rbyrd"/>
+      <payout>4910</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="phellmuth"/>
+      <payout>4910</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="bshulman"/>
+      <payout>4460</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="prowe"/>
+      <payout>4460</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="jchitwood"/>
+      <payout>4460</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>15</event_num>
+  <game>&stud8;</game>
+  <buyin>2500</buyin>
+  <start_date>Fri May 4, 2001</start_date>
+  <end_date>Sat May 5, 2001</end_date>
+  <entrants>164</entrants>
+  <prize_pool>397700</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rkorbin"/>
+      <payout>159080</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="apapachatzakis"/>
+      <payout>79540</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jjuanda"/>
+      <payout>39770</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="mappleman"/>
+      <payout>23860</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="cferguson"/>
+      <payout>19885</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jmiller4"/>
+      <payout>15910</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="szolotow"/>
+      <payout>11935</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="aroberts"/>
+      <payout>7960</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="asancino"/>
+      <payout>5965</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="mstilling"/>
+      <payout>5965</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="cchen"/>
+      <payout>5965</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="dlevi"/>
+      <payout>5965</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="pclarkson"/>
+      <payout>3975</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="ayoung"/>
+      <payout>3975</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="gdipeppe"/>
+      <payout>3975</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="shaynes"/>
+      <payout>3975</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>16</event_num>
+  <game>&lobah;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat May 5, 2001</start_date>
+  <end_date>Sun May 6, 2001</end_date>
+  <entrants>127</entrants>
+  <prize_pool>184785</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cyamagawa"/>
+      <payout>73915</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="drabbi"/>
+      <payout>36955</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="sflicker"/>
+      <payout>18480</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="bbaxter"/>
+      <payout>11085</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="sgoldstein"/>
+      <payout>9240</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="gschott"/>
+      <payout>7390</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="dhollan"/>
+      <payout>5545</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jreed2"/>
+      <payout>3695</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="lsakamoto"/>
+      <payout>2770</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="eclark"/>
+      <payout>2770</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="dhoekstra"/>
+      <payout>2770</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="ckaufman"/>
+      <payout>2770</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="vburgio"/>
+      <payout>1850</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mwiesenberg"/>
+      <payout>1850</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="phellmuth"/>
+      <payout>1850</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="ljones"/>
+      <payout>1850</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>17</event_num>
+  <game>&omaha8;</game>
+  <buyin>2500</buyin>
+  <start_date>Sun May 6, 2001</start_date>
+  <end_date>Mon May 7, 2001</end_date>
+  <entrants>179</entrants>
+  <prize_pool>434075</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bslezak"/>
+      <payout>173625</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="hma"/>
+      <payout>86815</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="tfay"/>
+      <payout>43410</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="mabecassis"/>
+      <payout>26045</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="myoshihara"/>
+      <payout>19535</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="wwong"/>
+      <payout>15195</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mdavis"/>
+      <payout>10850</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jshipley"/>
+      <payout>8680</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jculp"/>
+      <payout>6945</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="mhayden"/>
+      <payout>5210</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="pmeyers"/>
+      <payout>5210</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="akrause"/>
+      <payout>5210</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="hshah"/>
+      <payout>4775</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jbrody"/>
+      <payout>4775</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="pivey"/>
+      <payout>4775</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="ayoung"/>
+      <payout>4340</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="mduran"/>
+      <payout>4340</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="mwilds"/>
+      <payout>4340</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>18</event_num>
+  <game>&deuce;</game>
+  <buyin>5000</buyin>
+  <start_date>Mon May 7, 2001</start_date>
+  <end_date>Tue May 8, 2001</end_date>
+  <entrants>33</entrants>
+  <rebuys>43</rebuys>
+  <prize_pool>368600</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hlederer"/>
+      <payout>165870</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="kdeeb"/>
+      <payout>92150</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mweitzman"/>
+      <payout>55290</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="hzalewski"/>
+      <payout>36860</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jhoeppner"/>
+      <payout>18430</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>19</event_num>
+  <game>&nlh;</game>
+  <description>The Oklahoma Johnny Inaugural Seniors World Championship</description>
+  <buyin>1000</buyin>
+  <start_date>Tue May 8, 2001</start_date>
+  <end_date>Wed May 9, 2001</end_date>
+  <entrants>340</entrants>
+  <prize_pool>340000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jheimowitz"/>
+      <payout>115430</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="gpollak"/>
+      <payout>62000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mcox"/>
+      <payout>31330</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="grodis"/>
+      <payout>19790</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="pmeyers"/>
+      <payout>14835</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="skaufman"/>
+      <payout>11540</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="nketchum"/>
+      <payout>8245</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="smayfield"/>
+      <payout>6590</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="lmurphy"/>
+      <payout>5275</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="pburke"/>
+      <payout>3960</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="vmarkarian"/>
+      <payout>3960</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="mfeduniak"/>
+      <payout>3960</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="cthompson"/>
+      <payout>3295</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="bfeduniak"/>
+      <payout>3295</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jligator"/>
+      <payout>3295</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="mross"/>
+      <payout>2640</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="jduncan"/>
+      <payout>2640</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="ctrunillo"/>
+      <payout>2640</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="csharp"/>
+      <payout>2640</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="dpennington"/>
+      <payout>2640</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="ratkinson"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="cbigler"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="npartenope"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="fokasaki"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="sisaacs"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="fknight"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="wfain"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="fbowen"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="benright"/>
+      <payout>1980</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="mwaggoner"/>
+      <payout>1980</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>20</event_num>
+  <game>&plh;</game>
+  <buyin>3000</buyin>
+  <start_date>Wed May 9, 2001</start_date>
+  <end_date>Thu May 10, 2001</end_date>
+  <entrants>226</entrants>
+  <prize_pool>657660</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="szolotow"/>
+      <payout>243335</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mmagee"/>
+      <payout>124955</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="kgoldstein"/>
+      <payout>62480</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="eseidel"/>
+      <payout>39460</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="ctsiprailidis"/>
+      <payout>29595</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="idobson"/>
+      <payout>23020</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jjuanda"/>
+      <payout>16440</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="prowe"/>
+      <payout>13155</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="broberts"/>
+      <payout>10525</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="tcousineau"/>
+      <payout>7890</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="hkant"/>
+      <payout>7890</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="bcorman"/>
+      <payout>7890</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="msales"/>
+      <payout>6575</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="besnainov"/>
+      <payout>6575</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="tmcevoy"/>
+      <payout>6575</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="kliebert"/>
+      <payout>5265</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="charris"/>
+      <payout>5265</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="astonum"/>
+      <payout>5265</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="cbigler"/>
+      <payout>3945</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="jspadavecchia"/>
+      <payout>3945</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="mdavis"/>
+      <payout>3945</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="rmcdow"/>
+      <payout>3945</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="tnguyen"/>
+      <payout>3945</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="cferguson"/>
+      <payout>3945</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="dbooth"/>
+      <payout>3945</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="gkester"/>
+      <payout>3945</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="jbrown"/>
+      <payout>3945</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>21</event_num>
+  <game>&stud;</game>
+  <buyin>5000</buyin>
+  <start_date>Thu May 10, 2001</start_date>
+  <end_date>Fri May 11, 2001</end_date>
+  <entrants>104</entrants>
+  <prize_pool>504400</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="acunningham"/>
+      <payout>201760</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mdanino"/>
+      <payout>100880</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="ssheikram"/>
+      <payout>50440</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="aroberts"/>
+      <payout>30265</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="dbarton"/>
+      <payout>25220</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="pthiptinnakon"/>
+      <payout>20175</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jthomas"/>
+      <payout>15130</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="vhalle"/>
+      <payout>10090</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="chartman"/>
+      <payout>7565</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="hcoch"/>
+      <payout>7565</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="lflack"/>
+      <payout>7565</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="fdebus"/>
+      <payout>7565</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="kmcmahan"/>
+      <payout>5045</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mappleman"/>
+      <payout>5045</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mstern"/>
+      <payout>5045</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="hma"/>
+      <payout>5045</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>22</event_num>
+  <game>&nlh;</game>
+  <buyin>3000</buyin>
+  <start_date>Fri May 11, 2001</start_date>
+  <end_date>Sat May 12, 2001</end_date>
+  <entrants>382</entrants>
+  <prize_pool>1111620</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="eseidel"/>
+      <payout>411300</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jchan"/>
+      <payout>211210</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="sgoldstein"/>
+      <payout>105605</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="bfeduniak"/>
+      <payout>66700</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="hshirey"/>
+      <payout>50020</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="rmarciano"/>
+      <payout>38905</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jlester2"/>
+      <payout>27790</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="jheimowitz"/>
+      <payout>22225</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="lwood"/>
+      <payout>17785</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="ptestuci"/>
+      <payout>13340</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="rvaswani"/>
+      <payout>13340</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="hhall"/>
+      <payout>13340</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="fbonyadi"/>
+      <payout>11115</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="mcox"/>
+      <payout>11115</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="bboutin"/>
+      <payout>11115</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="glent"/>
+      <payout>8895</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="nchanning"/>
+      <payout>8895</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="bpearly"/>
+      <payout>8895</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="dplastik"/>
+      <payout>6670</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="tjacobs"/>
+      <payout>6670</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="yfan"/>
+      <payout>6670</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="avahedi"/>
+      <payout>6670</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="dmcguire"/>
+      <payout>6670</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="hthomas"/>
+      <payout>6670</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="dborchert"/>
+      <payout>6670</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="palson"/>
+      <payout>6670</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="dmoseley"/>
+      <payout>6670</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>23</event_num>
+  <game>&omaha8;</game>
+  <buyin>1500</buyin>
+  <start_date>Sat May 12, 2001</start_date>
+  <end_date>Sun May 13, 2001</end_date>
+  <entrants>107</entrants>
+  <prize_pool>518950</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tnguyen"/>
+      <payout>207580</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="phellmuth"/>
+      <payout>103785</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jbonetti"/>
+      <payout>51895</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="bnadell"/>
+      <payout>31135</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mwattel"/>
+      <payout>23355</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="pivey"/>
+      <payout>18165</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="hfitzpatrick"/>
+      <payout>12975</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="tcloutier"/>
+      <payout>10380</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="cgiang"/>
+      <payout>8305</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="mkeiner"/>
+      <payout>6225</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="gmascio"/>
+      <payout>6225</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="hthomas"/>
+      <payout>6225</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="sblecker"/>
+      <payout>5710</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jmcintosh"/>
+      <payout>5710</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="tfay"/>
+      <payout>5710</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="akessler"/>
+      <payout>5710</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="fhenderson"/>
+      <payout>5710</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="rhollink"/>
+      <payout>5710</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>24</event_num>
+  <game>&he;</game>
+  <buyin>5000</buyin>
+  <start_date>Sat May 12, 2001</start_date>
+  <end_date>Sun May 13, 2001</end_date>
+  <entrants>161</entrants>
+  <prize_pool>780850</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hshah"/>
+      <payout>312340</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="tduong"/>
+      <payout>156165</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bgreen"/>
+      <payout>78085</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="rbleachman"/>
+      <payout>46850</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="tmccormick"/>
+      <payout>35140</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="tfranklin"/>
+      <payout>27330</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="bsyavik"/>
+      <payout>19520</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="pladanyi"/>
+      <payout>15615</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="mhayden"/>
+      <payout>12495</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="rstanley"/>
+      <payout>9370</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="chartman"/>
+      <payout>9370</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="mmatloubi"/>
+      <payout>9370</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jaglialoro"/>
+      <payout>8590</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="fhenderson"/>
+      <payout>8590</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="sgrizzle"/>
+      <payout>8590</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="ctsiprailidis"/>
+      <payout>7810</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="janicete"/>
+      <payout>7810</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="azzz4"/>
+      <payout>7810</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>25</event_num>
+  <game>&he;</game>
+  <description>Women&apos;s Event</description>
+  <buyin>1000</buyin>
+  <start_date>Sun May 13, 2001</start_date>
+  <end_date>Sun May 13, 2001</end_date>
+  <entrants>106</entrants>
+  <prize_pool>102820</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ndollison"/>
+      <payout>41130</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="pgallagher"/>
+      <payout>20565</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="cgardner"/>
+      <payout>10280</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="spritchett"/>
+      <payout>6170</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="pspengler"/>
+      <payout>5140</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jfisher"/>
+      <payout>4115</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="mwaggoner"/>
+      <payout>3085</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mstern"/>
+      <payout>2055</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="sabraham"/>
+      <payout>1540</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="athompson"/>
+      <payout>1540</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="sbrodie"/>
+      <payout>1540</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="sisaacs"/>
+      <payout>1540</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="chale"/>
+      <payout>1030</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jsiegel2"/>
+      <payout>1030</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="lwangswanson"/>
+      <payout>1030</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="smiller"/>
+      <payout>1030</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>26</event_num>
+  <game>&nlh;</game>
+  <description>Media/Charity Event</description>
+  <buyin>0</buyin>
+  <start_date>Sun May 13, 2001</start_date>
+  <end_date>Sun May 13, 2001</end_date>
+  <entrants>50</entrants>
+  <prize_pool>6500</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mnapolitano"/>
+      <payout charity="AGlimmerofHope.org">2166</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="rwilens"/>
+      <payout charity="Jewish Family Services">2166</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="lmunzer"/>
+      <payout charity="Child Haven of Las Vegas">2166</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>27</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <start_date>Mon May 14, 2001</start_date>
+  <end_date>Fri May 18, 2001</end_date>
+  <entrants>613</entrants>
+  <prize_pool>6130000</prize_pool>
+  <notes>The Championship Event is now five days long.</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cmortensen"/>
+      <payout>1500000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dtomko"/>
+      <payout>1098925</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="sschrier"/>
+      <payout>699315</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="pgordon"/>
+      <payout>399610</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="phellmuth"/>
+      <payout>303705</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="mmatusow"/>
+      <payout>239765</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="hnowakowski"/>
+      <payout>179825</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="sreihle"/>
+      <payout>119885</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jinashima"/>
+      <payout>91910</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="adiaz"/>
+      <payout>63940</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="dnegreanu"/>
+      <payout>63940</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="cglorioso"/>
+      <payout>63940</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="tduong"/>
+      <payout>55945</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="sguiberson"/>
+      <payout>55945</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="dbarton"/>
+      <payout>55945</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="jfarley"/>
+      <payout>47955</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="rkorbin"/>
+      <payout>47955</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="lwood"/>
+      <payout>47955</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="mwiener"/>
+      <payout>39960</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="ksong"/>
+      <payout>39960</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="sbatshon"/>
+      <payout>39960</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="akatz"/>
+      <payout>39960</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="jbechtel"/>
+      <payout>39960</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="abrenes"/>
+      <payout>39960</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="kkeller"/>
+      <payout>39960</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="jesposito"/>
+      <payout>39960</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="acunningham"/>
+      <payout>39960</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="mmay"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="msexton"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="cbjorin"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="cmckelvey"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="sobryan"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="bboatman"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="gecheverri"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="pkaufman"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="bpatrick"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="bbaxter"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="adietrich"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="mmagee"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="gmalatesta"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>41</position>
+      <player id="dalspach"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>42</position>
+      <player id="bgazes"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>43</position>
+      <player id="hthomas"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>44</position>
+      <player id="dpham"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>45</position>
+      <player id="wstrother"/>
+      <payout>20000</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

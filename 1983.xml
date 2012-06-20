@@ -1,0 +1,287 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1983</year>
+<number>14th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&draw;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dangel"/>
+      <payout>46250</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dbaxter"/>
+      <payout>145500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="acobb"/>
+      <payout>52000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>Mixed Doubles</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1 (shared)</position>
+      <player id="ddoman"/>
+      <payout>10000</payout>
+    </place>
+
+    <place>
+      <position>1 (shared)</position>
+      <player id="jdoman"/>
+      <payout>10000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="kflaton"/>
+      <payout>62000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>Women&apos;s &stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cgardner"/>
+      <payout>16000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bjackson"/>
+      <payout>124000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>Match Play</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bjohnston"/>
+      <payout>40000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jlukas"/>
+      <payout>43000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tmcevoy"/>
+      <payout>117000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&omaha;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dsklansky"/>
+      <payout>25500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>912</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dtodd"/>
+      <payout>49500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>913</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="sungar"/>
+      <payout>110000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>914</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>108</entrants>
+  <prize_pool>1080000</prize_pool>
+  <notes>Tom McEvoy was the first winner of the Championship event who
+  had won his entry fee in a satellite.
+  (Second place finisher Rod Peate also won his entry fee in a satellite.)</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tmcevoy"/>
+      <payout>540000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="rpeate"/>
+      <payout>216000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="dbrunson"/>
+      <payout>108000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="cmckelvey"/>
+      <payout>54000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="rgeers"/>
+      <payout>54000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="dodea"/>
+      <payout>43200</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jjenkins"/>
+      <payout>21600</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="rpennington"/>
+      <payout>21600</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="ghuber"/>
+      <payout>21600</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

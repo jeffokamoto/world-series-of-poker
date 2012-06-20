@@ -1,0 +1,4 @@
+#! /bin/sh
+
+SAXON=$HOME/jar
+java -jar $SAXON/saxon.jar test.xml test.xslt

@@ -1,0 +1,247 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1979</year>
+<number>10th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bberland"/>
+      <payout>24000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bberland"/>
+      <payout>20400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>Mixed Doubles</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1 (shared)</position>
+      <player id="dbrunson"/>
+      <payout>4500</payout>
+    </place>
+
+    <place>
+      <position>1 (shared)</position>
+      <player id="sbrodie"/>
+      <payout>4500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>Women&apos;s &stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bfreer"/>
+      <payout>12720</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="pgreen"/>
+      <payout>76500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bbaldwin"/>
+      <payout>90000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="llouie"/>
+      <payout>22200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&draw;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="llouie"/>
+      <payout>22800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="smastrogiannis"/>
+      <payout>22200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jmoss"/>
+      <payout>48000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dtomko"/>
+      <payout>48000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>912</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>54</entrants>
+  <prize_pool>540000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hfowler"/>
+      <payout>270000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="bhoff"/>
+      <payout>108000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="ghuber"/>
+      <payout>81000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="smoon"/>
+      <payout>54000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jmoss"/>
+      <payout>27000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="spetrillo"/>
+      <payout>0</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="caddington"/>
+      <payout>0</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="bbaldwin"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

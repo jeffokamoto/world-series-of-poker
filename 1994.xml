@@ -1,0 +1,397 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1994</year>
+<number>25th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+<notes>First prize in the Championship Event also included
+the winner&apos;s weight in silver.</notes>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="lberman"/>
+      <payout>128250</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="vburgio"/>
+      <payout>127200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&omaha;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bcarter"/>
+      <payout>83400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jchan"/>
+      <payout>135600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jchun"/>
+      <payout>93000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&plh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tcloutier"/>
+      <payout>163000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&omaha8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tcloutier"/>
+      <payout>135000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&stud;</game>
+  <description>Women&apos;s Event</description>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="benright"/>
+      <payout>38400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mhart"/>
+      <payout>88800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jheaney"/>
+      <payout>220000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&plh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jheimowitz"/>
+      <payout>148200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>912</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mlaing"/>
+      <payout>212000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>913</event_num>
+  <game>&plo;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="olongson"/>
+      <payout>100800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>914</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rmoore"/>
+      <payout>144000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>915</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rpardey"/>
+      <payout>132000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>916</event_num>
+  <game>&omaha8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jpearson"/>
+      <payout>103000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>917</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="grodis"/>
+      <payout>187800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>918</event_num>
+  <game>&plo;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hseed"/>
+      <payout>167000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>919</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="eseidel"/>
+      <payout>210000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>920</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="ssim"/>
+      <payout>289200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>921</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>268</entrants>
+  <prize_pool>2680000</prize_pool>
+  <notes>In celebration of the silver anniversary of the WSOP,
+the winner of the Championship Event was also awarded their weight in silver.
+This amounted to 330 pounds of silver.</notes>
+
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rhamilton"/>
+      <payout>1000000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="hvincent"/>
+      <payout>588000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jspadavecchia"/>
+      <payout>294000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="vburgio"/>
+      <payout>168000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="akrux"/>
+      <payout>100000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="rturner"/>
+      <payout>50400</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jaglialoro"/>
+      <payout>43680</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="dpittman"/>
+      <payout>38640</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="slott"/>
+      <payout>33600</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

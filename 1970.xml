@@ -1,0 +1,31 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1970</year>
+<number>1st</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+<notes>There was no official tournament and no entry fee.
+The six players played five different games on a cash basis.
+The winner was voted on by all the players and won only a
+silver cup.</notes>
+
+<event_list>
+<event>
+  <event_num>1</event_num>
+  <game>Five Different Games</game>
+  <buyin>0</buyin>
+  <entrants>38</entrants>
+  <prize_pool>0</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jmoss"/>
+      <payout>0</payout>
+    </place>
+
+  </places>
+</event>
+</event_list>
+</world_series>

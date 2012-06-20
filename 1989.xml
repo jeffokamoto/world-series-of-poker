@@ -1,0 +1,281 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1989</year>
+<number>20th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&omaha;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="lberman"/>
+      <payout>108600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&plo;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bblackburn"/>
+      <payout>108000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tchung"/>
+      <payout>755000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&plo;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="fhenderson"/>
+      <payout>184000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dholt"/>
+      <payout>154000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="mjudah"/>
+      <payout>130800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="nkeyser"/>
+      <payout>244000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jlaudon"/>
+      <payout>95400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hmadoff"/>
+      <payout>119400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&stud;</game>
+  <description>Women&apos;s Event Event</description>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="amcclelland"/>
+      <payout>18600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="msexton"/>
+      <payout>104400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>912</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="gshaw"/>
+      <payout>179600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>913</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bstupak"/>
+      <payout>139500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>914</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>178</entrants>
+  <prize_pool>1780000</prize_pool>
+  <notes>Phil Hellmuth becomes the youngest player ever to win the
+  Championship event.</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="phellmuth"/>
+      <payout>755000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jchan"/>
+      <payout>302000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="dzewin"/>
+      <payout>151000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="slott"/>
+      <payout>83050</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="lberman"/>
+      <payout>67950</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="jfurlong"/>
+      <payout>52850</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="ffisdel"/>
+      <payout>45300</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mpicow"/>
+      <payout>30200</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="ghardie"/>
+      <payout>22650</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

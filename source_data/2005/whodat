@@ -1,0 +1,99 @@
+<person id="plaak">
+  <first_name>Phil</first_name>
+  <last_name>Laak</last_name>
+  <residence>San Jose, CA, USA</residence>
+</person>
+
+<person id="fkassela">
+  <first_name>Frank</first_name>
+  <last_name>Kassela</last_name>
+  <residence>Germantown, TN, USA</residence>
+</person>
+
+<person id="rharroch">
+  <first_name>Richard</first_name>
+  <last_name>Harroch</last_name>
+  <residence>San Francisco, CA, USA</residence>
+</person>
+
+<person id="asurapaneni">
+  <first_name>Ashok</first_name>
+  <last_name>Surapaneni</last_name>
+  <residence>Las Vegas, NV, USA</residence>
+</person>
+
+<person id="sfox">
+  <first_name>Stuart</first_name>
+  <last_name>Fox</last_name>
+  <residence>Birmingham, United Kingdom</residence>
+</person>
+
+<person id="tchan">
+  <first_name>Terrence</first_name>
+  <last_name>Chan</last_name>
+  <residence>Vancouver, BC, Canada</residence>
+</person>
+
+<person id="ddickens">
+  <first_name>Darrell</first_name>
+  <last_name>Dickens</last_name>
+</person>
+
+<person id="mtran">
+  <first_name>Mimi</first_name>
+  <last_name>Tran</last_name>
+  <residence>Rancho Palos Verde, CA, USA</residence>
+</person>
+
+<person id="mmuchnik">
+  <first_name>Mark</first_name>
+  <last_name>Muchnik</last_name>
+  <residence>Henderson, NV, USA</residence>
+</person>
+
+<person id="teisenman">
+  <first_name>TJ</first_name>
+  <last_name>Eisenman</last_name>
+</person>
+
+<person id="rcarter">
+  <first_name>Roy</first_name>
+  <last_name>Carter</last_name>
+  <residence>Carrollton, TX, USA</residence>
+</person>
+
+<person id="rharris">
+  <first_name>Rob</first_name>
+  <last_name>Harris</last_name>
+  <residence>San Jose, CA, USA</residence>
+</person>
+
+<person id="bhunt">
+  <first_name>Bo</first_name>
+  <last_name>Hunt</last_name>
+</person>
+
+<person id="dshak">
+  <first_name>Daniel</first_name>
+  <last_name>Shak</last_name>
+  <residence>Bryn Mawr, PA, USA</residence>
+</person>
+
+<person id="tlivia">
+  <first_name>Thomas</first_name>
+  <last_name>Livia</last_name>
+  <residence>USA</residence>
+</person>
+
+<person id="bfirestone">
+  <first_name>Bobby</first_name>
+  <last_name>Firestone</last_name>
+  <residence>Santa Barbara, CA, USA</residence>
+</person>
+
+<person id="mwhite">
+  <first_name>Mike</first_name>
+  <last_name>White</last_name>
+  <residence>KS City, MO</residence>
+</person>
+

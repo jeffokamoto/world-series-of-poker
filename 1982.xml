@@ -1,0 +1,288 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1982</year>
+<number>13th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+<notes>Doyle Brunson became the first person to accumulate
+over 1 million dollars in total World Series winnings.</notes>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bbaxter"/>
+      <payout>48750</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bbaxter"/>
+      <payout>95000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tcress"/>
+      <payout>44000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jdoman"/>
+      <payout>96000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>Women&apos;s &stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jfield"/>
+      <payout>16000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="nhelm"/>
+      <payout>40000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>Mixed Doubles</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1 (shared)</position>
+      <player id="dkelly"/>
+      <payout>8800</payout>
+    </place>
+
+    <place>
+      <position>1 (shared)</position>
+      <player id="dsklansky"/>
+      <payout>8800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rmorton"/>
+      <payout>123000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jpaquette"/>
+      <payout>101000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="creese"/>
+      <payout>92500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="vrichmond"/>
+      <payout>38500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>912</event_num>
+  <game>&draw;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dsklansky"/>
+      <payout>15500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>913</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dwilliams"/>
+      <payout>56000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>914</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>104</entrants>
+  <prize_pool>1040000</prize_pool>
+  <notes>Jack Straus was down to his last $500 chip at one point
+  in the event.</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jstraus"/>
+      <payout>520000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="dtomko"/>
+      <payout>208000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="bjohnston"/>
+      <payout>104000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="dbrunson"/>
+      <payout>52000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="ameyers"/>
+      <payout>52000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="froach"/>
+      <payout>41600</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="bjackson"/>
+      <payout>20800</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="sroberts"/>
+      <payout>20800</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="ccannon"/>
+      <payout>20800</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

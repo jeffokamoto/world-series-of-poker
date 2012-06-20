@@ -1,0 +1,4 @@
+#! /bin/sh
+
+SAXON=$HOME/jar
+java -jar $SAXON/saxon.jar -o out wsop.xml poker.xslt

@@ -1,0 +1,90 @@
+    <place>
+      <position>1</position>
+      <player id="cmortensen"/>
+      <payout>251680</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mgregorich"/>
+      <payout>126340</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="dchiu"/>
+      <payout>63530</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="lsalem"/>
+      <payout>39900</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="mla"/>
+      <payout>26600</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="lheimowitz"/>
+      <payout>23280</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="lbeilfuss"/>
+      <payout>19940</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="berikson"/>
+      <payout>16620</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="srosen"/>
+      <payout>13300</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="jlester"/>
+      <payout>10640</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="gwestphal"/>
+      <payout>10640</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="pfriedman3"/>
+      <payout>10640</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="pthiptinnakon"/>
+      <payout>9300</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="jcourtney"/>
+      <payout>9300</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="mmatusow"/>
+      <payout>9300</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="astonum"/>
+      <payout>7980</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="tsessions"/>
+      <payout>7980</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="nfrangos"/>
+      <payout>7980</payout>
+    </place>

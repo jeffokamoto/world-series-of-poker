@@ -1,0 +1,5 @@
+#! /bin/sh
+
+JAR=$HOME/jar/xercesImpl.jar:$HOME/jar/xercesSamples.jar:$HOME/jar/xml-apis.jar
+
+java -cp $JAR sax.Counter -v wsop.xml

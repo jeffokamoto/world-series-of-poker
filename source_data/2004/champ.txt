@@ -1,0 +1,218 @@
+pattern=(\d+)\w*\s+([\w\s'"\-]+):([\w\s'",\-\(\)]+)\s+\$([\d,]+)
+10	Marcel Luske:Amsterdam, Holland	$373,000
+11	Dewey Archer:Lake Charles, LA	$373,000
+12	James Grimes:Houston,TX	$373,000
+13	John Murphy:San Jose, CA	$275,000
+14	Kevin Bott:Rexburg, ID	$275,000
+15	Eduard Scharf:Cologne, Germany	$275,000
+16	William Erickson:Babylon, NY	$175,000
+17	Gary Jones:London, England	$175,000
+18	Harry Demetriou:London, England	$147,500
+18	Richard Fullerton:Aspen, CO	$147,500
+20	Robert Jarrett:Winslaw,BC	$120,000
+21	Scott Carpenter:Fairfax Station, VA	$120,000
+22	Hung La:Manhattan Beach, CA	$120,000
+23	Jason Sagle:Copper Cliff, Canada	$120,000
+24	David Truong:Vancouver, Canada	$120,000
+25	Davin Anderson:Denville, NJ	$120,000
+26	Chris 'Jesus' Ferguson:Pacific Palisades, CA	$120,000
+27	Eric Van der Burg:Hillegom, Holland	$120,000
+28	Martin Feijo:Brantford, Canada	$80,000
+29	Matt Lefkowitz:Iverness, CA	$80,000
+30	Glen Cooney:Tampa, FL	$80,000
+31	Bradley Berman:Minnetonka,MN	$80,000
+32	Julian Gardener:Manchester, England	$80,000
+33rd Matthew Hilger:Duluth, GA $80,000
+34th Daniel Adelson:Sherman Oaks, CA $80,000
+35th David Angel:La Porte, TX $80,000
+36th Ben Johnson:Brooklyn, NY $80,000
+37th Matt Treasure:New York, NY $60,000
+38th Patrick O'Connor:Dublin, Ireland $60,000
+39th Robert Daniel:Quartz Hill, CA $60,000
+40th Dung Nguyen:San Jose, CA $60,000
+41st Mario Zeledon:San Jose, Costa Rica $60,000
+42nd Kevin Schaffel:Pembrooke Pines, FL $60,000
+43rd Steve Lott:Goliad, TX $60,000
+44th Desmond Portano:Brooklyn, NY $60,000
+45th Barry Schwartz:Huntington Beach, CA $60,000
+46th Van Nguyen:Toronto, Canada $45,000
+47th Bryan Bevis:Lakeville, MN $45,000
+48th Jess Kaufmann:Littleton, CO $45,000
+49th Ali Eslami:Los Angeles, CA $45,000
+50th Peter Girodano:Liverpool, NY $45,000
+51st V Senthilkumar:Los Gatos, CA $45,000
+52nd Gavin Smith:Las Vegas, NV $45,000
+53rd Doyle Brunson:Las Vegas, NV $45,000
+54th Blair Rodman:Las Vegas, NV $45,000
+55th Tobias Persson:Malmo, Sweden $35,000
+56th Tony Abesamis:West Covina, CA $35,000
+57th Frank Russomanno:Cedar Grove, NJ $35,000
+58th Henrik Olsen:Denmark $35,000
+59th Daniel Alnei:Burlingame, CA $35,000
+60th Charles Pacheco:Los Angeles, CA $35,000
+61st Nils Paulsen:Oslo, Norway $35,000
+62nd Chris Heintschel:Escondido, CA $35,000
+63rd Andy Wynn:Brooklyn, NY $35,000
+64th Brett Ehart:Burbank, CA $30,000
+65th Jeffrey Calkins:New York, NY $30,000
+66th James Hoeppner:Las Vegas, NV $30,000
+67th Edward Foster:Northampton, England $30,000
+68th Michael Zelin:East Windsor, NJ $30,000
+69th Todd Rupert:Reeds Spring, MO $30,000
+70th Dani Pourat:Beverly Hills, CA $30,000
+71st Ayhan Alsancak:Gothenburg, Sweden $30,000
+72nd David "Devilfish" Ulliott:Hull, England $30,000
+73rd Kenneth Borror:Brandon, FL $25,000
+74th Gregg Turk:Vienna, VA $25,000
+75th Richard Osborne:Martinez, CA $25,000
+76th Sam Libicki:Rohnert Park, CA $25,000
+77th Danny Bigelow:Gilbert, AZ $25,000
+78th Donny Ariel:Brooklyn, NY $25,000
+79th Scott Lundberg:Rancho Palos Verdes, CA $25,000
+80th Paul Kraus:Los Angeles, CA $25,000
+81st Kostas Angeloudis:Bayside, NY $25,000
+82nd Chuck Agnew:Hollister, CA $20,000
+83rd Peter Damato:Philadelphia, PA $20,000
+84th Paul North:New York, NY $20,000
+85th Jonathan Brooks:Beverly Hills, CA $20,000
+86th Randy Holland:Winnetka, CA $20,000
+87th Mike Matusow:Henderson, NV $20,000
+88th Brad Pierce:Newark, DE $20,000
+89th Thomas Bohmer:Los Angeles, CA $20,000
+90th Burton Boutin:Henderson, NV $20,000
+91st Phillip Marmorstein:Munich, Germany $20,000
+92nd Craig Swick:Big Sky, MT $20,000
+93rd Jacob Spelman:Ann Arbor, MI $20,000
+94th Dave Scharf:Sasquaton, Canada $20,000
+95th Michael Breault:Dracut, MA $20,000
+96th Fisherman Greg Duros:Seal Beach, CA $20,000
+97th Tri Van Mays:Landing, NJ $20,000
+98th Rose Richie:St Petersburg, FL $20,000
+99th Stephen Bartlett:Livonia, MI $20,000
+100th Dan The Man Rogers:Lenexa, KS $20,000
+101st Mark Wilds:Gulfport, MS $20,000
+102nd Yee Cheung:New York, NY $20,000
+103rd Bo Sehlstedt:Sodertalje, Sweden $20,000
+104th Peter Sterns:Hamilton, NJ $20,000
+105th Charles Buffalo:Chandler, AZ $20,000
+106th Saleem Tawil:Austin, TX $20,000
+107th Yarom Limor:Beverly Hills, CA $20,000
+108th John Esposito:Las Vegas, NV $17,500
+T108th Daniel Larsson:Linkoping, Sweden $17,500
+110th Robert Boyd:Culver City, CA $15,000
+111th Jan Sjavik:Oslo, Norway $15,000
+112th Markus Feurle:Bregenz, Austria $15,000
+113th Lee Watkinson:Long Branch, WA $15,000
+114th David Weisberger:Far Hills, NJ $15,000
+115th Peter Moore:Toronto, Canada $15,000
+116th Curt Kohlberg:Westin, MS $15,000
+117th JC Tran:Sacramento, CA $15,000
+118th William Duarte:Berthoud, CO $15,000
+119th Tod Skarecky:London, England $15,000
+120th Abe Mosseri:New York, NY $15,000
+121st Tommy Grimes:Houston, TX $15,000
+122nd Dayne Baverman:West Chester, OH $15,000
+123rd Arthur Loring:Palm Beach, FL $15,000
+124th Casey Kastle:Chicago, IL $15,000
+125th Gregory Geller:Glendale, CO $15,000
+126th Yaser Al-Keliddar:McClean, VA $15,000
+127th Craig Crivello:Bailey, CO $15,000
+128th Kenneth Maust:Troy, MI $15,000
+129th Andy Church:London, England $15,000
+130th Jesse Jewell:Hayes, VA $15,000
+131st Mark Weitzman:Las Vegas, NV $15,000
+132nd John Sheckherd:Nipomo, CA $15,000
+133rd William Brindise:Union, NJ $15,000
+134th Larry Anderson:San Jose, CA $15,000
+135th Frank Brabek:Crystal Lake, IL $15,000
+136th Orjan Gronmo:Bodoa, Norway $15,000
+137th Melvin Phillips:Duncan, OK $15,000
+138th George Huber:Pahrump, NV $15,000
+139th Russ Hamilton:Las Vegas, NV $15,000
+140th Rene Oliveras:Morristown, NJ $15,000
+141st Donald Moseley:Houston, TX $15,000
+142nd Jordan Siegel:Jacksonville, FL $15,000
+143rd John Pires:Santa Clara, CA $15,000
+144th Jeffrey Freedman:Simi Valley, CA $15,000
+145th Raymond Davis:Bell Gardens, CA $15,000
+146th Kevin Oconnell:Manchester, England $15,000
+147th Carl Quinton:Liverpool, England $15,000
+148th Robert Hartmann:Monarch Beach, CA $15,000
+149th Jeffrey Burdsall:Las Vegas, NV $15,000
+150th Gus Hansen:Monaco $15,000
+151st Daniel Griffith:Rocky Mount, VA $15,000
+152nd Zakeri Behman:Overland Park, KS $15,000
+153rd Robert Fogarty:Kill Devil Hills, NC $15,000
+154th Derek Tomko:Winter Haven, FL $15,000
+155th Patrick Hanley:Henderson, NV $15,000
+156th Garth Weeks:Aldergrove, BC $15,000
+157th Emmanuel Moraitis:Chicago, IL $15,000
+158th Aviv Shahaf:New York, NY $15,000
+159th Lucienne Rokach:Stoke-On-Trent, England $15,000
+160th Mojtaba Seyedin:Henderson, NV $15,000
+161st Richard Tomman:Belvidere, IL $15,000
+162nd Sargon Ruya:Linkoping, Sweden $15,000
+163rd Thomas Hammond:Bloomfield Hills, MI $15,000
+164th John Wheeler:London, England $15,000
+165th Patri Friedman:Sunnyvale, CA $15,000
+166th Andy Cracchiolo:Phoenix, AZ $15,000
+167th Juha Helppi:Littoinen, Finland $15,000
+168th Gabe Thaler:Cupertino, CA $15,000
+169th Timothy White:Jacksonville, FL $15,000
+170th Eli Elezra:Henderson, NV $15,000
+171st Greg Sawka:Newark, DE $15,000
+172nd Paul Nobles:Eagan, MN $15,000
+173rd Kenneth Evanowski:Las Vegas, NV $15,000
+174th Howard Andrew:Walnut Creek, CA $15,000
+175th Jeffrey Bull:Chicago, IL $15,000
+176th Gregory Blau:Shreveport, LA $15,000
+177th William Krackomberger:Galloway, NJ $15,000
+178th George Youkhanna:Modesto, CA $15,000
+179th Thomas Werthmann:Bloomfield Hills, MI $15,000
+180th Antonio Salorio:Tamarac, FL $15,000
+181st Al Korson:Las Lunas, NM $10,000
+182nd Jan Sorensten:Odenser, Denmark $10,000
+183rd Paul Jackson:Birmingham, England $10,000
+184th Eirik Villand:Bergen, Norway $10,000
+185th Dennis Colletti Jr:Bradenton, FL $10,000
+186th Troy Reed:Austin, TX $10,000
+187th Scott Marks:Sterling, VA $10,000
+188th Jamie O'Sullivan:Greensborg, NC $10,000
+189th Jacob Battenberg:Denver, CO $10,000
+190th Tomer Benvenisti:Las Vegas, NV $10,000
+191st Abraham Gray:Lawrenceville, GA $10,000
+192nd Bryan Dillon:Prospect, KY $10,000
+193rd Rob Hollink:Groningen, Netherlands $10,000
+194th Andrew Goetsch:Enfield, CT $10,000
+195th Michael Mexal:Scottsdale, AZ $10,000
+196th Robert Skutelsky:Boulder, CO $10,000
+197th Alex Brenes:San Jose, Costa Rica $10,000
+198th Michael Fillat:San Diego, CA $10,000
+199th Shreeniwas Kelkar:Kirkland, WA $10,000
+200th Robert Fikac:Sterling, VA $10,000
+201st Herman Grimes:Union, MO $10,000
+202nd Margartoi Belinovich:Moscow, Russia $10,000
+203rd Leon Garcia:Merced, CA $10,000
+204th Gene Timberlake:Houston, TX $10,000
+205th Neil Channing:London, England $10,000
+206th George Abdallah:Houston, TX $10,000
+207th Erin Ness:Caldwell, NJ $10,000
+208th Samir Zoudo:Modesto, CA $10,000
+209th Richard Cordani:Las Vegas, NV $10,000
+210th Vincent Napolitano:Brooklyn, NY $10,000
+211th Adam Garfinkle:Charlotte, NC $10,000
+212th Earl Odom:San Ramon, CA $10,000
+213th Steven Greenberg:San Diego, CA $10,000
+214th Aaron Ogus:Kirkland, WA $10,000
+215th O'Neil Longson:Las Vegas, NV $10,000
+216th Matthew Stodola:Chicago, IL $10,000
+217th Shawn Silber:Henderson, NV $10,000
+218th Daniel Soda:Tonawanda, NY $10,000
+219th David Cupps:Bedford, IN $10,000
+220th Ivon Crewse:Downers Grove, IL $10,000
+221st Michael Pino:Staten Island, NY $10,000
+222nd Peter Hedlund:Stockholm, Sweden $10,000
+223rd Ron Faltinsky:Montebello, CA $10,000
+224th Philip Tom:Seattle, WA $10,000
+T225th Dewey Tomko:Haines City, FL $10,000
+T225th David Combs:Los Alamitos, CA $10,000

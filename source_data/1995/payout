@@ -1,0 +1,40 @@
+    <place>
+      <position>1</position>
+      <player id="jtsagaris"/>
+      <payout>41400</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="bcohen"/>
+      <payout>23805</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="mrohnacher"/>
+      <payout>12420</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="ccoleman"/>
+      <payout>7245</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="ecastro"/>
+      <payout>6210</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="mnguyen"/>
+      <payout>5175</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="cgiang"/>
+      <payout>3623</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="kbrown"/>
+      <payout>3622</payout>
+    </place>

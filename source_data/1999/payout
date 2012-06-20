@@ -1,0 +1,90 @@
+    <place>
+      <position>1</position>
+      <player id="lflack"/>
+      <payout>224400</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="mlefkowitz"/>
+      <payout>112200</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="srydel"/>
+      <payout>56100</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="tarmstrong"/>
+      <payout>33660</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="pmckinney"/>
+      <payout>25245</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="lsigety"/>
+      <payout>19635</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="dthompson"/>
+      <payout>14025</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="mbittan"/>
+      <payout>11220</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="jkabbaj"/>
+      <payout>8985</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="eelezra"/>
+      <payout>6730</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="lrokach"/>
+      <payout>6730</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="mappleman"/>
+      <payout>6730</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="jbonetti"/>
+      <payout>6170</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="pphillips"/>
+      <payout>6170</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="gtschetschot"/>
+      <payout>6170</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="astonum"/>
+      <payout>5610</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="pbroderick"/>
+      <payout>5610</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="agurevich"/>
+      <payout>5610</payout>
+    </place>

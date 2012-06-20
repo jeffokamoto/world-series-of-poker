@@ -1,0 +1,391 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1993</year>
+<number>24th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bbaxter"/>
+      <payout>130500</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&plh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jbonetti"/>
+      <payout>122400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&plo;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bbonnecaze"/>
+      <payout>83400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hbrenes"/>
+      <payout>149000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&plo;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hbrenes"/>
+      <payout>128000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>&plh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hdastmalchi"/>
+      <payout>114000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="gfisher"/>
+      <payout>113400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&omaha8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tforrest"/>
+      <payout>120000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tforrest"/>
+      <payout>77400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tforrest"/>
+      <payout>114000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="cgiang"/>
+      <payout>82800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>912</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="phellmuth"/>
+      <payout>138000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>913</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="phellmuth"/>
+      <payout>161400</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>914</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="phellmuth"/>
+      <payout>173000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>915</event_num>
+  <game>&stud;</game>
+  <description>Women&apos;s Event Event</description>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="pkessler"/>
+      <payout>32800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>916</event_num>
+  <game>&omaha;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jkeller"/>
+      <payout>61800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>917</event_num>
+  <game>&he;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hmieth"/>
+      <payout>220800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>918</event_num>
+  <game>&omaha8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="eseidel"/>
+      <payout>94000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>919</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="msigel"/>
+      <payout>113000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>920</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="rturner"/>
+      <payout>103900</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>921</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>220</entrants>
+  <prize_pool>2200000</prize_pool>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="jbechtel"/>
+      <payout>1000000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="gcozen"/>
+      <payout>420000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="jbonetti"/>
+      <payout>210000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="mmatloubi"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="tchung"/>
+      <payout>72000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="mcowley"/>
+      <payout>36000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="tkreilein"/>
+      <payout>31200</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="akorsin"/>
+      <payout>27600</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="bdaugherty"/>
+      <payout>24000</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>

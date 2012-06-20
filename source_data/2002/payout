@@ -1,0 +1,225 @@
+    <place>
+      <position>1</position>
+      <player id="rvarkonyi"/>
+      <payout>2000000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="jgardner"/>
+      <payout>1100000</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="rperry2"/>
+      <payout>550000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="sgray"/>
+      <payout>281400</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="hhall"/>
+      <payout>195000</payout>
+    </place>
+    <place>
+      <position>6</position>
+      <player id="rrosenblum"/>
+      <payout>150000</payout>
+    </place>
+    <place>
+      <position>7</position>
+      <player id="jshipley"/>
+      <payout>120000</payout>
+    </place>
+    <place>
+      <position>8</position>
+      <player id="tduong"/>
+      <payout>100000</payout>
+    </place>
+    <place>
+      <position>9</position>
+      <player id="mly"/>
+      <payout>85000</payout>
+    </place>
+    <place>
+      <position>10</position>
+      <player id="dbarton"/>
+      <payout>70000</payout>
+    </place>
+    <place>
+      <position>11</position>
+      <player id="anasseri"/>
+      <payout>70000</payout>
+    </place>
+    <place>
+      <position>12</position>
+      <player id="omullin"/>
+      <payout>70000</payout>
+    </place>
+    <place>
+      <position>13</position>
+      <player id="mknijff"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>14</position>
+      <player id="ynakano"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>15</position>
+      <player id="jneely"/>
+      <payout>60000</payout>
+    </place>
+    <place>
+      <position>16</position>
+      <player id="bko"/>
+      <payout>50000</payout>
+    </place>
+    <place>
+      <position>17</position>
+      <player id="sstockinger"/>
+      <payout>50000</payout>
+    </place>
+    <place>
+      <position>18</position>
+      <player id="drubin"/>
+      <payout>50000</payout>
+    </place>
+    <place>
+      <position>19</position>
+      <player id="mfetter"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>20</position>
+      <player id="swilsdon"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>21</position>
+      <player id="jfox"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>22</position>
+      <player id="hcrunkleton"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>23</position>
+      <player id="pivey"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>24</position>
+      <player id="mnguyen2"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>25</position>
+      <player id="lwilkinson"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>26</position>
+      <player id="kpaseka"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>27</position>
+      <player id="djanuary"/>
+      <payout>40000</payout>
+    </place>
+    <place>
+      <position>28</position>
+      <player id="lphu"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>29</position>
+      <player id="swhitt"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>30</position>
+      <player id="rsai"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>31</position>
+      <player id="samos"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>32</position>
+      <player id="smelton"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>33</position>
+      <player id="eholum"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>34</position>
+      <player id="rboatman"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>35</position>
+      <player id="rholland"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>36</position>
+      <player id="tschneider"/>
+      <payout>30000</payout>
+    </place>
+    <place>
+      <position>37</position>
+      <player id="hzalewski"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>38</position>
+      <player id="dbooth"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>39</position>
+      <player id="jlane"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>40</position>
+      <player id="bhaverson"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>41</position>
+      <player id="galston"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>42</position>
+      <player id="dsklansky"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>43</position>
+      <player id="dheimiller"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>44</position>
+      <player id="tmcdonald"/>
+      <payout>20000</payout>
+    </place>
+    <place>
+      <position>45</position>
+      <player id="pgiordano"/>
+      <payout>20000</payout>
+    </place>

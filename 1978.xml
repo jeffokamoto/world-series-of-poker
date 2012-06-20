@@ -1,0 +1,211 @@
+<?xml encoding="ISO-8859-1"?>
+
+<world_series>
+<year>1978</year>
+<number>9th</number>
+<casino>Binion&apos;s Horseshoe Casino, Las Vegas</casino>
+
+<event_list>
+
+<event>
+  <event_num>901</event_num>
+  <game>&deuce;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bbaxter"/>
+      <payout>90000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>902</event_num>
+  <game>&razz;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bberland"/>
+      <payout>19200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>903</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bberland"/>
+      <payout>17100</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>904</event_num>
+  <game>&stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="dbrunson"/>
+      <payout>68000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>905</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="aday"/>
+      <payout>42600</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>906</event_num>
+  <game>Women&apos;s &stud;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="tking"/>
+      <payout>10080</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>907</event_num>
+  <game>&draw;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="llouie"/>
+      <payout>21000</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>908</event_num>
+  <game>&nlh;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hlund"/>
+      <payout>46800</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>909</event_num>
+  <game>&stud8;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="creese"/>
+      <payout>19200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>910</event_num>
+  <game>&lobah;</game>
+  <buyin>999</buyin>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="hyoung"/>
+      <payout>19200</payout>
+    </place>
+
+  </places>
+</event>
+
+<event>
+  <event_num>911</event_num>
+  <game>&nlh;</game>
+  <description>Championship Event</description>
+  <buyin>10000</buyin>
+  <entrants>42</entrants>
+  <prize_pool>420000</prize_pool>
+  <notes>The Championship Event is no longer winner-take-all.</notes>
+
+  <places>
+
+    <place>
+      <position>1</position>
+      <player id="bbaldwin"/>
+      <payout>210000</payout>
+    </place>
+    <place>
+      <position>2</position>
+      <player id="caddington"/>
+      <payout>84800</payout>
+    </place>
+    <place>
+      <position>3</position>
+      <player id="lhunsucker"/>
+      <payout>63000</payout>
+    </place>
+    <place>
+      <position>4</position>
+      <player id="bbuchanan"/>
+      <payout>42000</payout>
+    </place>
+    <place>
+      <position>5</position>
+      <player id="jalto"/>
+      <payout>21000</payout>
+    </place>
+
+  </places>
+</event>
+
+</event_list>
+</world_series>
